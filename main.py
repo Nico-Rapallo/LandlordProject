@@ -1,4 +1,4 @@
-from src.pages.dashboard import run_app
+from src.dash_code.dashboard import run_app
 
 def main():
     run_app()

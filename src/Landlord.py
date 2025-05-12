@@ -145,6 +145,11 @@ class Landlord_DB(BaseDB):
         return
 
     def _create_tables(self) -> None:
+        """
+        Creates Tables
+        """
+
+
         sql = """
             CREATE TABLE tOwner (
                 owner_id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -187,7 +192,7 @@ class Landlord_DB(BaseDB):
                 total_rent TEXT,
                 ind_rent TEXT,
                 utilities TEXT,
-                parking INT
+                parking TEXT
             )
             ;"""
         self.run_action(sql)
@@ -197,7 +202,7 @@ class Landlord_DB(BaseDB):
 #########################################################################################################
     def load_owner_file(self, file_path: str) -> None:
         """
-        Load a landlords_owners*.csv into the database
+        Load owner data into the database. (Only should be called once when setting up database)
         """
         df = pd.read_csv(
             file_path,
@@ -224,7 +229,7 @@ class Landlord_DB(BaseDB):
 
     def load_property_file(self, file_path: str) -> None:
         """
-        Load a landlords_properties*.csv into the database
+        Load property data into the database. (Only should be called once when setting up database)
         """
         df = pd.read_csv(
             file_path,
@@ -246,7 +251,7 @@ class Landlord_DB(BaseDB):
         for row in df.to_dict(orient='records'):
             owner_id = self.get_owner_id(
                 row['company_name'],
-                None, 
+                None,
                 None,
                 None,
                 None
@@ -286,7 +291,7 @@ class Landlord_DB(BaseDB):
                 'total_rent': str,
                 'ind_rent': str,
                 'utilities': str,
-                'parking': int
+                'parking': str
             }
         )
 
@@ -456,7 +461,7 @@ class Landlord_DB(BaseDB):
                      total_rent: str = None,
                      ind_rent: str = None,
                      utilities: str = None,
-                     parking: int = None
+                     parking: str = None
                     ) -> int:
         """
         Insert a response into tResponse if not duplicate;
@@ -563,7 +568,7 @@ class Landlord_DB(BaseDB):
                 WHERE(pid == :pid_input)
                 )
                 
-            SELECT address, owner_id, ind_name, 1.0*sum(landlord_rating)/count(landlord_rating) as average_landlord_rating
+            SELECT address, owner_id, ind_name, 1.0*sum(landlord_rating)/count(landlord_rating) as average_landlord_rating, count(landlord_rating) as num_landlord_rating
             FROM tResponse
             JOIN tProperty USING(pid)
             JOIN tOwner USING(owner_id)
@@ -571,42 +576,116 @@ class Landlord_DB(BaseDB):
             GROUP BY ind_name
             ;"""
         
-        output = self.run_query(sql, params={'pid_input':pid})['average_landlord_rating'].to_list()
-        if len(output) == 0:
+        output = self.run_query(sql, params={'pid_input':pid})[['average_landlord_rating', 'num_landlord_rating']]
+        if len(output['num_landlord_rating']) == 0:
             return 'No Ratings'
-        elif len(output) == 1:
-            return round(output[0],2)
         else:
-            return 'Something went wrong'
+            return output.iloc[0].to_list()
 
     def get_avg_property_rating(self, pid):
         sql = """
-            SELECT 1.0*sum(property_rating)/count(property_rating) as average_property_rating
+            SELECT 1.0*sum(property_rating)/count(property_rating) as average_property_rating, count(property_rating) as num_property_rating
             FROM tResponse
             JOIN tProperty USING(pid)
             WHERE (pid = :pid_input)
         ;"""
-        output = self.run_query(sql, params={'pid_input':pid})['average_property_rating'].to_list()
-        if len(output) == 0:
+        output = self.run_query(sql, params={'pid_input':pid})[['average_property_rating', 'num_property_rating']]
+        if output.loc[0, 'num_property_rating'] == 0:
             return 'No Ratings'
-        elif len(output) == 1:
-            if output[0]==None:
-                return 'No Ratings'
-            else:
-                return round(output[0],2)
         else:
-            return 'Something went wrong'
+            return output.iloc[0].to_list()
+
+    def get_modal_data(self, pid):
+        sql = """
+        SELECT  total_rent, count(total_rent)
+        FROM tResponse
+        WHERE pid == :pid
+        GROUP BY total_rent
+        ORDER BY count(total_rent) DESC
+        LIMIT 1
+        ;"""
+        total_rent = self.run_query(sql, params={'pid':pid})['total_rent']
+        
+        sql = """
+                SELECT  ind_rent, count(ind_rent)
+                FROM tResponse
+                WHERE pid == :pid
+                GROUP BY ind_rent
+                ORDER BY count(ind_rent) DESC
+                LIMIT 1
+                ;"""
+        ind_rent = self.run_query(sql, params={'pid':pid})['ind_rent']
+        
+        sql = """
+                SELECT  utilities, count(utilities)
+                FROM tResponse
+                WHERE pid == :pid
+                GROUP BY ind_rent
+                ORDER BY count(utilities) DESC
+                LIMIT 1
+                ;"""
+        utilities = self.run_query(sql, params={'pid':pid})['utilities']
+        
+        sql = """
+                SELECT  parking, count(parking)
+                FROM tResponse
+                WHERE pid == :pid
+                GROUP BY parking
+                ORDER BY count(parking) DESC
+                LIMIT 1
+                ;"""
+        parking = self.run_query(sql, params={'pid':pid})['parking']
+        
+        return total_rent.to_list(), ind_rent.to_list(), utilities.to_list(), parking.to_list()
+    
+    def get_recent_reviews(self, pid):
+        sql = """
+                SELECT property_review	 
+                FROM tResponse
+                WHERE (pid=:pid) AND (property_review IS NOT NULL)
+                ORDER BY resp_id DESC
+                LIMIT 1
+            ;"""
+        property_review = self.run_query(sql, params={'pid':pid})
+        if len(property_review['property_review'])==0: 
+            property_review = 'No Reviews'
+        else:
+            property_review = property_review['property_review'].to_list()[0]
+
+        sql = """
+            WITH FindOwner as (
+                    SELECT ind_name
+                    FROM tProperty 
+                    JOIN tOwner USING(owner_id)
+                    WHERE(pid == :pid_input)
+                    )
+        
+              SELECT landlord_review--, pid, owner_id, ind_name, resp_id
+              FROM tResponse
+              JOIN tProperty USING(pid)
+              JOIN tOwner USING(owner_id)
+              WHERE (landlord_review IS NOT NULL) AND (ind_name = (SELECT ind_name FROM FindOwner))
+              ORDER BY resp_id DESC
+              LIMIT 1
+        ;"""
+        landlord_review = self.run_query(sql, params = {'pid_input':pid})
+        if len(landlord_review['landlord_review'])==0: 
+            landlord_review = 'No Reviews'
+        else:
+            landlord_review = landlord_review['landlord_review'].to_list()[0]
+
+        return property_review, landlord_review
 
     def insert_response(self, address, 
-                    property_rating, 
-                    property_review,
-                    landlord_name, 
-                    landlord_rating, 
-                    landlord_review, 
-                    total_rent, 
-                    ind_rent, 
-                    utilities, 
-                    parking):
+                        property_rating, 
+                        property_review,
+                        landlord_name, 
+                        landlord_rating, 
+                        landlord_review, 
+                        total_rent, 
+                        ind_rent, 
+                        utilities, 
+                        parking):
 
         pid = self.get_pid_from_address_display(address)
         resp_date = str(datetime.date.today())
@@ -622,17 +701,17 @@ class Landlord_DB(BaseDB):
         
         
         self.run_action(sql, params={'pid_input':pid, 
-                                    'r_date':resp_date, 
-                                    'p_rate':property_rating, 
-                                    'p_rev':property_review, 
-                                    'l_name':landlord_name, 
-                                    'l_rate':landlord_rating, 
-                                    'l_rev':landlord_review, 
-                                    't_rent':total_rent, 
-                                    'i_rent':ind_rent,
-                                    'util':utilities,
-                                    'park':parking
-                                    }, keep_open=True)
+                                   'r_date':resp_date, 
+                                   'p_rate':property_rating, 
+                                   'p_rev':property_review, 
+                                   'l_name':landlord_name, 
+                                   'l_rate':landlord_rating, 
+                                   'l_rev':landlord_review, 
+                                   't_rent':total_rent, 
+                                   'i_rent':ind_rent,
+                                   'util':utilities,
+                                   'park':parking
+                                  }, keep_open=True)
         self._conn.commit()
         self._close()
         return
