@@ -275,8 +275,8 @@ class Landlord_DB(BaseDB):
 
     def load_response_file(self, file_path: str) -> None:
         """
-        Load a landlords_responses*.csv into the database,
-        using pid directly (no address lookup) and including resp_date.
+        Loads original google form response data. Should only be used in database setup with initial data. 
+        All additional response data will be entered with insert_response()
         """
         df = pd.read_csv(
             file_path,
@@ -428,27 +428,6 @@ class Landlord_DB(BaseDB):
             else:
                 prop_id = int(query.iloc[0]['pid'])
             return prop_id
-    
-    
-    def get_property_by_address(self,
-                                address: str
-                               ) -> dict:
-        """
-        Fetch a property row by its address;
-        returns a dict or raises if not found.
-        """
-        sql = """
-            SELECT *
-            FROM tProperty
-            WHERE address = :address
-        ;"""
-        params = {'address': address}
-
-        df = self.run_query(sql, params, keep_open=True)
-        if df.empty:
-            raise KeyError(f"No property found with address '{address}'")
-        return df.iloc[0].to_dict()
-
 
     def set_response(self,
                      pid: int,
@@ -464,7 +443,7 @@ class Landlord_DB(BaseDB):
                      parking: str = None
                     ) -> int:
         """
-        Insert a response into tResponse if not duplicate;
+        Insert a response into tResponse if not duplicate (no response should be duplicate);
         returns resp_id.
         """
         sql_select = """
@@ -525,14 +504,20 @@ class Landlord_DB(BaseDB):
 
 ################################################################################
     
-    def get_address_list(self):
+    def get_address_list(self) -> list:
+        """
+        Gets list of all addresses
+        """
         sql = """ 
             SELECT DISTINCT address_display
             FROM tProperty
             ;"""
         return self.run_query(sql)['address_display'].to_list() 
         
-    def get_pid_from_address_display(self, add_for_pid):
+    def get_pid_from_address_display(self, add_for_pid:str) -> int:
+        """
+        Gets pid from display address
+        """
         sql = """
             SELECT pid
             FROM tProperty 
@@ -541,7 +526,10 @@ class Landlord_DB(BaseDB):
         return self.run_query(sql, params={'add_for_pid':add_for_pid})['pid'][0]
 
     
-    def get_property_image(self, pid):
+    def get_property_image(self, pid:int) -> str:
+        """
+        Gets image path from pid
+        """
         sql = """
             SELECT image_path
             FROM tProperty 
@@ -550,7 +538,10 @@ class Landlord_DB(BaseDB):
             ;"""
         return self.run_query(sql, params={'pid_input':pid})['image_path'][0]
 
-    def get_property_details(self, pid):
+    def get_property_details(self, pid:int) -> list:
+        """
+        Gets ind_name_display, bedrooms, half_baths, full_baths, rental_units from PID
+        """
         sql = """
         SELECT ind_name_display, bedrooms, half_baths, full_baths, rental_units
         FROM tProperty 
@@ -559,7 +550,12 @@ class Landlord_DB(BaseDB):
         ;"""
         return self.run_query(sql, params={'pid_input':pid}).loc[0].to_list()
 
-    def get_avg_landlord_rating(self, pid):
+    def get_avg_landlord_rating(self, pid:int):
+        """
+        Gets average landlord rating from PID
+        Returns string 'No Ratings' if no ratings,
+        Returns average landlord rating and numbuer of landlord ratings in list if exist
+        """
         sql = """
             WITH FindOwner as (
                 SELECT ind_name
@@ -582,7 +578,12 @@ class Landlord_DB(BaseDB):
         else:
             return output.iloc[0].to_list()
 
-    def get_avg_property_rating(self, pid):
+    def get_avg_property_rating(self, pid:int):
+        """
+        Gets average property rating from PID
+        Returns string 'No Ratings' if no ratings,
+        Returns average property rating and numbuer of property ratings in list if exist
+        """
         sql = """
             SELECT 1.0*sum(property_rating)/count(property_rating) as average_property_rating, count(property_rating) as num_property_rating
             FROM tResponse
@@ -595,7 +596,10 @@ class Landlord_DB(BaseDB):
         else:
             return output.iloc[0].to_list()
 
-    def get_modal_data(self, pid):
+    def get_modal_data(self, pid:int) -> tuple[list]:
+        """
+        Gets most common responses for rent utilities and parking at address.
+        """
         sql = """
         SELECT  total_rent, count(total_rent)
         FROM tResponse
@@ -638,7 +642,10 @@ class Landlord_DB(BaseDB):
         
         return total_rent.to_list(), ind_rent.to_list(), utilities.to_list(), parking.to_list()
     
-    def get_recent_reviews(self, pid):
+    def get_recent_reviews(self, pid:int) -> tuple[str]:
+        """
+        Gets most recent landlord and property reviews.
+        """
         sql = """
                 SELECT property_review	 
                 FROM tResponse
@@ -676,17 +683,20 @@ class Landlord_DB(BaseDB):
 
         return property_review, landlord_review
 
-    def insert_response(self, address, 
-                        property_rating, 
-                        property_review,
-                        landlord_name, 
-                        landlord_rating, 
-                        landlord_review, 
-                        total_rent, 
-                        ind_rent, 
-                        utilities, 
-                        parking):
-
+    def insert_response(self, 
+                        address:str, 
+                        property_rating:int, 
+                        property_review:str,
+                        landlord_name:str, 
+                        landlord_rating:int, 
+                        landlord_review:str, 
+                        total_rent:str, 
+                        ind_rent:str, 
+                        utilities:str, 
+                        parking:str):
+        """
+        Inserts response into database
+        """
         pid = self.get_pid_from_address_display(address)
         resp_date = str(datetime.date.today())
         
@@ -697,8 +707,6 @@ class Landlord_DB(BaseDB):
                                     
             VALUES (:pid_input, :r_date, :p_rate, :p_rev, :l_name, :l_rate, :l_rev, :t_rent, :i_rent, :util, :park)
         ;"""
-        
-        
         
         self.run_action(sql, params={'pid_input':pid, 
                                    'r_date':resp_date, 
