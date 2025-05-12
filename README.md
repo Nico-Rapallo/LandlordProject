@@ -7,19 +7,19 @@
 ## Overview
 <img src="src/data/github_image.png"
      style="float: left; margin-right: 10px;" />
-This repository contains a relational database with information relating to all the rental properties located in the City of Williamsburg, as well as a dash user interface to navigate properties and leave your own review (stored locally). The repository also includes code that was used in scraping and cleaning the orginal data and creating the sqlite database.
+This repository contains a relational database with information relating to all the rental properties located in the City of Williamsburg, as well as a dash user interface to navigate properties and leave your own review (stored locally). The repository also includes code that was used in scraping and cleaning the original data and creating the sqlite database.
 
 This project was inspired by experiences with my own landlord and conversations with other students about their experiences. The goal is to create a place where Williamsburg renters can leave a review on their landlord and to connect reviews on different properties which are owned by the same person (even if they have set up different companies).
 
 ---
 ## Quick Start
 
-### Clone repository (Warning may a few minutes):
+### Clone repository (Warning may take a few minutes):
 ```bash 
 git clone https://github.com/Nico-Rapallo/LandlordProject
 ```
 
-### Sync UV enviornment:
+### Sync UV environment:
 ```bash
 uv sync
 ```
@@ -34,7 +34,7 @@ uv run main.py
 http://127.0.0.1:8050/
 ```
 
-### Search address in address bar and leave review!
+### Search addresses in the address bar and leave a review by clicking the "I Live Here" button!
 
 ---
 
@@ -56,7 +56,7 @@ https://cis.scc.virginia.gov/EntitySearch/Index
 ```
 
 ### Survey Data
-Survey for landlord reviews conducted April - May 2025 used for initial responses which populate database
+Survey for landlord reviews conducted April - May 2025 used for initial responses, which populate the database.
 
 ---
 
@@ -71,22 +71,22 @@ Survey for landlord reviews conducted April - May 2025 used for initial response
         - Provided by Professor Smith in DATA 302 Databases.
     - class Landlord_DB()
         - Contains code for creating landlord database. 
-        - Contains specific functions that query database to get information for dashboard.
-        - Contains function to insert new response.
+        - Contains specific functions that query the database to get information for the dashboard.
+        - Contains function to insert a new response.
 
 - `dash_code/`: Contains code for dash interface
     - dashboard.py: Creates dash web app. Base code via Professor Smith.
         - def create_layout(): Creates layout for app.
-        - def update_property_display(): Updates image/details page when address changed.
+        - def update_property_display(): Updates image/details page when address changes.
         - def swap_views(): Swaps visibility of image/details page and form page.
-        - def toggle_submit_button(): Ensures all fields are filled to press submit button.
+        - def toggle_submit_button(): Ensures all fields are filled to press the submit button.
         - def submit_review(): Submits review.
 - `data/`
     - landlord.sqlite: Database used to store information.
-    - load_database.pynb: Code used for initial database creating (Should not be run again)
+    - load_database.pynb: Code used for initial database creation (Should not be run again)
     - tOwner.csv, tProperty.csv, and tResponse: Cleaned tables inserted into database
     -`property_data/`
-        - `image_data/`: Where images of every house are stored. (Why it took a few minutes to clone repo).
+        - `image_data/`: Where images of every house are stored. (Why it took a few minutes to clone the repository).
          - FY2026 Assessment Report (Parcel Usage).xlsx: Original property data file
     -`data_cleaning/`: All code related to cleaning the data.
     -`company_data/`: Original data files for company data. (Some removed because of size constraint)
@@ -95,7 +95,7 @@ Survey for landlord reviews conducted April - May 2025 used for initial response
 ---
 
 ## Limitations
-This project currently faces a few limitations. While I was able to connect many different companies to the same people, there are definitely some which have been missed. Additionally, the database only includes addresses officially listed as rentals, multi-family, or apartments, so any property which is incorrecly labeled as not being a rental is not included in the database. For apartments, mailing addresses also are not always the same as the address listed on the City of Williamsburg property card, which is a potential source for confusion. For example, Midtown is stored in the database under 215 Monticello Ave instead of 221. Sometimes multiple houses or apartments will be listed under the same property ID if they are adjacent and have the same owner. This leads to a situation where a house might be listed under the address of the mixed-use/residential building next door. The database also also includes properties located in the City of Williamsburg, which does not include the entire Williamsburg housing market, as many students live in James City and York counties. Finally, right now the dash website and database are locally hosted so any response will only be recorded locally.
+This project currently faces a few limitations. While I was able to connect many different companies to the same people, there are definitely some that have been missed. Additionally, the database only includes addresses officially listed as rentals, multi-family, or apartments, so any property that is incorrectly labeled as not being a rental is not included in the database. For apartments, mailing addresses also are not always the same as the address listed on the City of Williamsburg property card, which is a potential source for confusion. For example, Midtown is stored in the database under 215 Monticello Ave instead of 221. Sometimes multiple houses or apartments will be listed under the same property ID if they are adjacent and have the same owner. This leads to a situation where a house might be listed under the address of the mixed-use/residential building next door. The database also includes properties located in the City of Williamsburg, which does not include the entire Williamsburg housing market, as many students live in James City and York counties. Bedroom and bathroom data also seems to be incorrect on some multi-unit buildings and apartment buildings.Finally, right now, the dash website and database are locally hosted, so any response will only be recorded locally.
 
 ---
 
