@@ -12,17 +12,6 @@ import shutil
 BASE_URL = 'https://gis.williamsburgva.gov/vision/'
 BASE_PDF = 'src/data/property_data/pdf_temporary/'
 
-import requests
-import urllib.request
-from pypdf import PdfReader
-import re
-from spire.pdf.common import *
-from spire.pdf import *
-import os
-
-BASE_URL = 'https://gis.williamsburgva.gov/vision/'
-BASE_PDF = 'src/data/property_data/pdf_temporary/'
-
 def run_scraper(PID:int) -> tuple[int, int, int, str]:
     url = BASE_URL + str(PID) + '.pdf'
     pdf_path = BASE_PDF + str(PID) + '.pdf'

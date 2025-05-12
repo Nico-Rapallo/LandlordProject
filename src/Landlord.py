@@ -2,7 +2,6 @@ import os
 import sqlite3
 import numpy as np
 import pandas as pd
-from glob import glob
 import datetime
 
 sqlite3.register_adapter(np.int64, lambda x: int(x))

@@ -23,7 +23,7 @@ def run_app() -> None:
 
     # Run create Layout
     create_layout(app)
-    app.run(debug=True)
+    app.run(debug=False)
     return None
 
 def create_layout(app: Dash) -> None:
@@ -273,7 +273,7 @@ def submit_review(n_clicks,
                   landlord_name:str, landlord_stars:int, landlord_review:str,
                   total_rent:str, ind_rent:str, 
                   utilities:str, parking:str):
-    """"
+    """
     Submits review. Inserts row into tResponse. Hides button and shows confirmation message
     """
 

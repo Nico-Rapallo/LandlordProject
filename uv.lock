@@ -162,8 +162,6 @@ dependencies = [
     { name = "dash" },
     { name = "pandas" },
     { name = "pypdf" },
-    { name = "requests" },
-    { name = "spire" },
 ]
 
 [package.metadata]
@@ -171,8 +169,6 @@ requires-dist = [
     { name = "dash", specifier = ">=3.0.4" },
     { name = "pandas", specifier = ">=2.2.3" },
     { name = "pypdf", specifier = ">=5.4.0" },
-    { name = "requests", specifier = ">=2.32.3" },
-    { name = "spire", specifier = ">=0.4.2" },
 ]
 
 [[package]]
@@ -399,12 +395,6 @@ sdist = { url = "https://files.pythonhosted.org/packages/94/e7/b2c673351809dca68
 wheels = [
     { url = "https://files.pythonhosted.org/packages/b7/ce/149a00dd41f10bc29e5921b496af8b574d8413afcd5e30dfa0ed46c2cc5e/six-1.17.0-py2.py3-none-any.whl", hash = "sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274", size = 11050 },
 ]
-
-[[package]]
-name = "spire"
-version = "0.4.2"
-source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/9f/ec/4cf2cc2c2f0b82e267b725d5600a30f614df0c56d8b72ff5c7f6ba63f37a/spire-0.4.2.tar.gz", hash = "sha256:c797f01b072a152c432af8fa7317cd87299ecf9295fb215732bbcb971645bbb2", size = 1549730 }
 
 [[package]]
 name = "typing-extensions"
