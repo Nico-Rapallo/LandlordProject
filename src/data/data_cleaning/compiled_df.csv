@@ -1,0 +1,1121 @@
+PID,owner_name,address,acres,total_value,usage,half_baths,full_baths,bedrooms,rental_units,image_path
+803,"WOMACK, MARY H, TR & THOMAS F, TR",294 IRONBOUND RD ,0.459,587600,Apartment,5.0,5.0,1515.0,5.0,data/property_data/image_data/803.png
+896,W R H A,200 NEW HOPE RD ,3.373,5019600,Apartment,0.0,0.0,0.0,28.0,data/property_data/image_data/896.png
+904,"SPRING ROAD APTS.,INC",1329 MOUNT VERNON AVE ,1.18,1973100,Apartment,0.0,5.0,5.0,20.0,data/property_data/image_data/904.png
+905,"SPRING ROAD APTS.,INC",1400 N MOUNT VERNON AVE ,5.021,9307600,Apartment,0.0,0.0,0.0,115.0,data/property_data/image_data/905.png
+1005,COLONIAL PINES APARTMENTS LLC,222 MERRIMAC TRL ,5.708,8059100,Apartment,0.0,0.0,0.0,68.0,data/property_data/image_data/1005.png
+1006,COLONIAL PINES APARTMENTS LLC,242 MERRIMAC TRL ,5.338,7566200,Apartment,0.0,0.0,0.0,64.0,data/property_data/image_data/1006.png
+1019,"Walker, Mark R Trustee",228 MONTICELLO AVE ,0.459,1332700,Apartment,0.0,0.0,0.0,14.0,data/property_data/image_data/1019.png
+1165,TRITON III INC,211 HARRISON AVE ,0.344,1335000,Apartment,1.0,9.0,12.0,8.0,data/property_data/image_data/1165.png
+1188,LONE-G INC,719 RICHMOND RD ,0.289,879700,Apartment,0.0,5.0,1.0,8.0,data/property_data/image_data/1188.png
+1208,"Cyphers, Robert T TR",223 VIRGINIA AVE ,0.155,605800,Apartment,0.0,4.0,4.0,4.0,data/property_data/image_data/1208.png
+1216,MICHAEL J HOLMES AND ADRIANNE A HOLMES LIVING TRUS,414 DUNNING ST ,0.23,440200,Apartment,0.0,6.0,6.0,6.0,data/property_data/image_data/1216.png
+1298,W R H A,321 DUNNING ST ,9.461,4938500,Apartment,0.0,24.0,70.0,24.0,data/property_data/image_data/1298.png
+1308,Washington Street Investments LLC,106 WASHINGTON ST ,0.18,562500,Apartment,0.0,5.0,5.0,5.0,data/property_data/image_data/1308.png
+1328,"109 Washington, LLC",109 WASHINGTON ST ,0.145,562500,Apartment,0.0,5.0,5.0,5.0,data/property_data/image_data/1328.png
+1724,W R H A,613 SCOTLAND ST ,4.458,7246700,Apartment,0.0,0.0,0.0,38.0,data/property_data/image_data/1724.png
+1740,Midas Inc,435 SCOTLAND ST ,0.209,831000,Apartment,0.0,5.0,5.0,5.0,data/property_data/image_data/1740.png
+1741,"Barshis, Darr Co-TR & Barshis, Susan Co-TR",305 N BOUNDARY ST ,0.149,516900,Apartment,0.0,0.0,0.0,4.0,data/property_data/image_data/1741.png
+1755,FREDERICK WILLS BOELT REVOCABLE LIVING TRUST & BOE,333 RICHMOND RD ,0.144,999400,Apartment,0.0,5.0,6.0,5.0,data/property_data/image_data/1755.png
+2036,BAJRANG LLC,216 PARKWAY DR ,0.885,3800000,Apartment,0.0,0.0,0.0,42.0,data/property_data/image_data/2036.png
+2120,"HARRIS, NANCY G",112 INDIAN SPRINGS RD ,0.937,1916500,Apartment,0.0,0.0,0.0,14.0,data/property_data/image_data/2120.png
+2155,201 Cary LLC,201 CARY ST ,0.164,775300,Apartment,0.0,6.0,6.0,6.0,data/property_data/image_data/2155.png
+2175,"BLACKWELL, WILLIAM C III",706 POLLARD PARK ,0.13,993800,Apartment,0.0,6.0,6.0,5.0,data/property_data/image_data/2175.png
+2465,"JEC Investments, LLC",514 YORK ST ,0.68,1212000,Apartment,0.0,0.0,0.0,13.0,data/property_data/image_data/2465.png
+2467,QUARTERPATH ASSOCIATES,620 YORK ST ,2.879,4407500,Apartment,0.0,0.0,0.0,101.0,data/property_data/image_data/2467.png
+2707,"Glazener, Charles Hall & Glazener, Micou Savage & Klugh, Micou Sneed &",702 S HENRY ST ,0.418,729800,Apartment,0.0,4.0,8.0,4.0,data/property_data/image_data/2707.png
+3817,CAPITOL LANDING DEVELOPMENT,804 CAPITOL LANDING RD ,5.131,720500,Apartment,6.0,7.0,2.0,7.0,data/property_data/image_data/3817.png
+4013,"JULIA ANNE APARTMENTS, INC",1344 S MOUNT VERNON AVE ,2.849,3223800,Apartment,0.0,0.0,0.0,34.0,data/property_data/image_data/4013.png
+4014,"JULIA ANNE APARTMENTS, INC",1319 MOUNT VERNON AVE ,0.722,948200,Apartment,0.0,0.0,0.0,10.0,data/property_data/image_data/4014.png
+4015,"JULIA ANNE APARTMENTS, INC",1316 MOUNT VERNON AVE ,1.306,758600,Apartment,0.0,0.0,0.0,8.0,data/property_data/image_data/4015.png
+4052,W R H A,143 MIMOSA DR ,4.116,3979300,Apartment,0.0,14.0,1039.0,14.0,data/property_data/image_data/4052.png
+4213,QUARTERPATH PLACE LLC,411 YORK ST ,4.079,6388500,Apartment,0.0,48.0,56.0,56.0,data/property_data/image_data/4213.png
+4559,"LAWSON ENTERPRISES, INC",1324 S MOUNT VERNON AVE ,7.88,8172000,Apartment,0.0,2.0,0.0,80.0,data/property_data/image_data/4559.png
+4576,HS APT LAND LC,159 KINGS MANOR DR ,4.783,25644900,Apartment,0.0,0.0,0.0,96.0,data/property_data/image_data/4576.png
+79619,TRIBE SQUARE LLC,249 RICHMOND RD ,1.056,8402300,Apartment,0.0,4.0,4.0,14.0,data/property_data/image_data/79619.png
+882,DAG-DOR LLC,1400 MIDDLE ST ,2.609,12162700,Apartment (High Rise),0.0,0.0,0.0,139.0,data/property_data/image_data/882.png
+1003,160 MERRIMAC ASSOCIATES LLC,159 MERRIMAC TRL ,26.956,28514000,Apartment (High Rise),0.0,0.0,0.0,252.0,data/property_data/image_data/1003.png
+1284,CDP WB PE LLC,506 N HENRY ST ,11.3278,47583900,Apartment (High Rise),0.0,0.0,0.0,163.0,data/property_data/image_data/1284.png
+1612,COLONIAL TOWNE APARTMENTS LLC,327 MERRIMAC TRL ,13.002,16179400,Apartment (High Rise),0.0,0.0,0.0,148.0,data/property_data/image_data/1612.png
+1752,"KING & QUEEN APARTMENTS, LLC",732 SCOTLAND ST ,0.43,3463100,Apartment (High Rise),0.0,0.0,0.0,26.0,data/property_data/image_data/1752.png
+2050,AJJ AVALON AXIS PARKWAY LLC ET AL,400 MERRIMAC TRL ,12.054,21083200,Apartment (High Rise),0.0,0.0,0.0,160.0,data/property_data/image_data/2050.png
+2577,"GEI Ludwell LLC & TRP Ludwell, LLC",100 ROLFE RD ,4.456,24622500,Apartment (High Rise),0.0,0.0,0.0,114.0,data/property_data/image_data/2577.png
+4017,HS APT LAND LC,3200 TREYBURN DR ,9.131,10915700,Apartment (High Rise),8.0,1818.0,1818.0,38.0,data/property_data/image_data/4017.png
+4060,"CS1031 Sterling Manor Apartments, DST",151-5 STERLING MANOR DR ,1.968,15499300,Apartment (High Rise),0.0,0.0,0.0,74.0,data/property_data/image_data/4060.png
+4061,"CS1031 Sterling Manor Apartments, DST",151 STERLING MANOR DR ,4.892,39732700,Apartment (High Rise),0.0,2.0,0.0,160.0,data/property_data/image_data/4061.png
+4377,BRG QUARTERPATH LLC,4100 BATTERY BLVD ,4.119,31796400,Apartment (High Rise),0.0,0.0,0.0,135.0,data/property_data/image_data/4377.png
+4378,BRG QUARTERPATH LLC,3950 BATTERY BLVD ,3.004,29970400,Apartment (High Rise),0.0,0.0,0.0,122.0,data/property_data/image_data/4378.png
+4577,HS APT LAND LC,150 KINGS MANOR DR ,5.996,73386500,Apartment (High Rise),0.0,0.0,0.0,233.0,data/property_data/image_data/4577.png
+82058,BSR Midtown Current LLC,215 MONTICELLO AVE ,0,116431200,Apartment (High Rise),0.0,0.0,0.0,240.0,data/property_data/image_data/82058.png
+82059,BSR Midtown Current LLC,215 MONTICELLO AVE ,0,4241700,Apartment (High Rise),0.0,0.0,0.0,5.0,data/property_data/image_data/82059.png
+5,"MITCHELL, DENNY B",902 SETTLEMENT DR ,0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/5.png
+6,"FAN, DONGSHENG & MOU, NAN",302 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/6.png
+11,PERGA LLC,202 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/11.png
+22,"BRITTINGHAM, BARBARA W",903 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/22.png
+24,"Klu, Sosthenes Yao Trustee",905 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/24.png
+26,"CAMPBELL, WESLEY L & GLORIA M",902 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/26.png
+31,"LANCELLOTTI, WILLIAM G JR, TR & EDWARD W, TR",1001 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/31.png
+33,"FUNG-KAY HSIN, CINDY & ENG, ALBERT & HSIN, DANIE",1003 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/33.png
+39,"BIANCANIELLO, RALPH A & ROSE MARIE",300 ZELKOVA RD ,0,359800,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/39.png
+57,SCOTT LIVING TRUST,212 ZELKOVA RD ,0,353000,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/57.png
+60,"DEVINE, EDWARD J, TR & JENNIE M, TR",224 ZELKOVA RD ,0,368600,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/60.png
+62,"EKWUEME, CHUKWUMA G",261 CLAIBORNE DR ,0,285700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/62.png
+69,"Moore, Iluss M & Mangrum, Janice H",302 PATRIOT LN UNIT #C,0,179700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/69.png
+70,GS Property LLC,302 PATRIOT LN UNIT #D,0,179700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/70.png
+71,"Safi, Abdullah",302 PATRIOT LN UNIT #G,0,192800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/71.png
+72,"Dehlin, Brock",302 PATRIOT LN UNIT #F,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/72.png
+73,"RAAB, RICHARD & CHRISTINE",302 PATRIOT LN UNIT #A,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/73.png
+84,302 RAVEN TERRACE 23185 LLC,302 RAVEN TER ,0,274000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/84.png
+91,"HOAR, BRADLEY D",302 PATRIOT LN UNIT #B,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/91.png
+92,REVOCABLE LIVING TRUST OF CAROLINE SNYDER-JOHNSON,302 PATRIOT LN UNIT #E,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/92.png
+93,"Popovic, Mico",304 PATRIOT LN UNIT #H,0,179700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/93.png
+94,Alanar Homes LLC,304 PATRIOT LN UNIT #C,0,203300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/94.png
+96,JASMINE TRUST,304 PATRIOT LN UNIT #G,0,179700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/96.png
+97,"Hurley, William Dewey & Hall, Isabel K, Trustees",304 PATRIOT LN UNIT #F,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/97.png
+102,GS PROPERTY LLC,304 PATRIOT LN UNIT #B,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/102.png
+103,STUART M TURNANSKY AND SUSAN L TURNANSKY LIVING FA,304 PATRIOT LN UNIT #E,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/103.png
+104,"WALTERS, SANDRA MARIE",306 PATRIOT LN UNIT #H,0,179000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/104.png
+105,"M2HHOMES, LLC",306 PATRIOT LN UNIT #C,0,207800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/105.png
+117,"PRESTYLY, LORIE & STEVEN G",281 RAVEN TER ,0,316000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/117.png
+121,"Whitlow, Richard A II",310 PATRIOT LN UNIT #M,0,108900,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/121.png
+122,"Williams, Linda Diane & Burrell Lynn",310 PATRIOT LN UNIT #L,0,92400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/122.png
+123,ACHENBACH FAMILY TRUST SHARE H & ACHENBACH FAMILY,310 PATRIOT LN UNIT #K,0,92400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/123.png
+124,BRC Company LLC,310 PATRIOT LN UNIT #J,0,108900,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/124.png
+125,Chilham Holdings LLC,310 PATRIOT LN UNIT #D,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/125.png
+129,"Parks, Daniel E & Parks Cherie",294 RAVEN TER ,0,316000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/129.png
+136,"Roberts, John D & Malinda S, Trustees",312 RAVEN TER ,0,274000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/136.png
+146,"O CONNOR, IONE D",1104 SETTLEMENT DR ,0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/146.png
+147,"DEMATTIA, ANGELO, TR & DEBORAH, TR",1105 SETTLEMENT DR ,0,257600,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/147.png
+148,"DEW, LLC",1106 SETTLEMENT DR ,0,256900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/148.png
+149,"ROSS, MARILYN R",1107 SETTLEMENT DR ,0,261100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/149.png
+151,HAPI PROPERTIES LLC,1109 SETTLEMENT DR ,0,257600,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/151.png
+152,"STANLEY, KAREN V",1110 SETTLEMENT DR ,0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/152.png
+153,JHH STEWARDS LLC,601 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/153.png
+154,KANALS GROUP LLC,602 SETTLEMENT DR ,0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/154.png
+155,"Taylor, Charles Bernard & Mary Elizabeth",603 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/155.png
+156,RICHARD ANTHONY RUMMAGE & LAURA ELIZABETH RUMMAGE,604 SETTLEMENT DR ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/156.png
+157,"LESNAK, ROBERT A & DONNA E",605 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/157.png
+160,"WEBB, TRAVIS J",608 SETTLEMENT DR ,0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/160.png
+162,"YEAGER, ALISON E",610 SETTLEMENT DR ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/162.png
+173,"Incatasciato, William A & Kehoe, Kristie C",1403 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/173.png
+174,"RAMASAMY, MANICKAM & MANICKAM, CHELLAM",1404 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/174.png
+176,"Brown, Christopher A & Brown, Kristine C",417 ZELKOVA RD ,0,328900,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/176.png
+182,"ADAMS, ROBERT C & DENISE R",309 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/182.png
+183,"Quist, Randall L & Grace M",310 SETTLEMENT DR ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/183.png
+184,"DURBIN, TERRENCE E & LINDA H",101 BRISTOL CMN ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/184.png
+197,"SHARPE, RICKY M & ELVERA M",1703 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/197.png
+199,"Parets, Greg S & Parets, Brenda L",301 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/199.png
+200,"RITZ, STEPHANIE H",302 SETTLEMENT DR ,0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/200.png
+202,RMRT PROPERTIES LLC,304 SETTLEMENT DR ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/202.png
+203,"Christin Tran, Trustee",305 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/203.png
+205,JAMES AND VALERIE SMITH LIVING TRUST,307 SETTLEMENT DR ,0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/205.png
+206,"PATRINICOLA, THOMAS & SANDRA I",103 BRISTOL CMN ,0,245300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/206.png
+207,"Loza, Jose",104 BRISTOL CMN ,0,266500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/207.png
+208,"STEPHENS, HENRY H & LARRAINE C",105 BRISTOL CMN ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/208.png
+211,"JENKINS, PAMELA J",108 BRISTOL CMN ,0,235200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/211.png
+212,"MILLER, ANDREW P & ELIZABETH H & ANNA V",109 BRISTOL CMN ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/212.png
+213,"ELKO, CHRISTOPHER B",110 BRISTOL CMN ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/213.png
+215,GLORIA D SCIOLE LIVING TRUST,504 SETTLEMENT DR ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/215.png
+229,"Shipko, David T & Mary B",310 PATRIOT LN UNIT #H,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/229.png
+232,"SMITH, CHRISTOPHER S",310 PATRIOT LN UNIT #E,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/232.png
+233,"VALLA, MARK J & CARMEN M",310 PATRIOT LN UNIT #F,0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/233.png
+235,"Johnston, Michael Lee",308 PATRIOT LN UNIT #M,0,129600,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/235.png
+237,"MCNAIR, THOMAS M & JEANNETTE E",282 RAVEN TER ,0,307100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/237.png
+239,"HILL, DAVID W & CHRISTINE L",308 PATRIOT LN UNIT #K,0,108900,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/239.png
+240,"ROBITSHEK, HEIDRUN GERLINDE",308 PATRIOT LN UNIT #L,0,121800,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/240.png
+241,"Lee, Ann Marie Estate",308 PATRIOT LN UNIT #D,0,202000,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/241.png
+243,"Wolkind, Rita G",308 PATRIOT LN UNIT #H,0,202000,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/243.png
+247,"BOURDON, EDWARD F & NANCY M",312 ZELKOVA RD ,0,354100,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/247.png
+248,"HILLIARD, ADELINE JINGZHU",303 RAVEN TER ,0,307100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/248.png
+253,GS PROPERTY LLC,308 PATRIOT LN UNIT #E,0,202000,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/253.png
+254,"ARORA, ASHOK",308 PATRIOT LN UNIT #F,0,202000,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/254.png
+256,EMRO LLC,300 PATRIOT LN UNIT #H,0,180300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/256.png
+258,"Sweaney Property Management, LLC",300 PATRIOT LN UNIT #D,0,182500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/258.png
+260,"Kocev, Goran G",300 PATRIOT LN UNIT #F,0,171300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/260.png
+263,"Moser, Stephanie M & Moser, Jessie R",300 PATRIOT LN UNIT #B,0,171300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/263.png
+264,"Yurkovich, Corey S",300 PATRIOT LN UNIT #E,0,171300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/264.png
+273,"ELLIS, SEAN KARL",802 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/273.png
+276,"WALDORF, RYAN",803 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/276.png
+281,"BAN, IOAN R",280 PATRIOT LN UNIT #D,0,185400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/281.png
+282,"ILEA, RADU",280 PATRIOT LN UNIT #G,0,185400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/282.png
+283,GS PROPERTY LLC,280 PATRIOT LN UNIT #H,0,185400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/283.png
+284,"Beer, Charles R Jr TR",280 PATRIOT LN UNIT #A,0,174100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/284.png
+285,"Blair, Thom W Jr",280 PATRIOT LN UNIT #B,0,174100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/285.png
+289,"Anand, Suman & Shekhar, Kamlendu",290 PATRIOT LN UNIT #D,0,185400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/289.png
+293,"SAAVEDRA, CARMEN & HYLAND, JOHN J",290 PATRIOT LN UNIT #B,0,174100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/293.png
+294,"Giedd, Kenneth Peace TR & Giedd, Susan Garcia TR",290 PATRIOT LN UNIT #E,0,197300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/294.png
+295,"Kocev, Goran & Julia",290 PATRIOT LN UNIT #F,0,174100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/295.png
+298,"ILEA, RADU",279 PATRIOT LN UNIT #C,0,192700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/298.png
+302,"Dorcy, Andrea",281 PATRIOT LN UNIT #C,0,192700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/302.png
+304,"Sands of Time, LLC",283 PATRIOT LN UNIT #A,0,194000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/304.png
+309,"Inman, Kelly",297 PATRIOT LN UNIT #B,0,194000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/309.png
+310,"Hassell, David O Jr.",297 PATRIOT LN UNIT #C,0,192700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/310.png
+312,"HUIE, CHRISTINA LEE",299 PATRIOT LN UNIT #A,0,194000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/312.png
+357,"SPRUILL, STEVEN R & AMANDA E",702 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/357.png
+360,"BROOKS, GARDINER T, REV TRUST",601 WESTGATE CIR ,0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/360.png
+362,"Osuna, James Andrew",603 WESTGATE CIR ,0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/362.png
+363,Abraham Living Trust,604 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/363.png
+368,"TRIVEDI, YOGESHKUMA B & ISHITA Y",401 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/368.png
+369,"PELTIER, SARAH",402 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/369.png
+370,Hampton Farm LLC,403 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/370.png
+382,"JENNINGS, JAMES & CRYSTAL L",2703 WESTGATE CIR ,0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/382.png
+387,"Klu, Sosthenes Yao TR",1101 SETTLEMENT DR ,0,261800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/387.png
+608,"Desai, Narendra G & Desai, Nirav Narendra & Desai, Meera",161 CUTSPRING ARCH ,0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/608.png
+817,"TAGGART, JAMES E, TR & JACQUELYN L, TR",701 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/817.png
+823,"TAYLOR, CYNTHIA C, TR",11 CLAIBORNE DR ,0,312800,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/823.png
+1091,"POTEET, TERRI L",1601 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1091.png
+1204,"FRAHER, WILLIAM G & BETH",202 DESMONDE LN ,0,271200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1204.png
+1313,"RUMMAGE, RICHARD ANTHONY, TR",801 SETTLEMENT DR ,0,241600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1313.png
+1411,"GILL, RICHARD S & LAUREN",201 DESMONDE LN ,0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1411.png
+1498,Paramount Investments LLC,376 MERRIMAC TRL UNIT #113,0,184900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1498.png
+1501,"KAUFMAN, DAVID H & MILDRED LEE",376 MERRIMAC TRL UNIT #122,0,183800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1501.png
+1504,"Marston, Anna Maria & Shawn M",376 MERRIMAC TRL UNIT #211,0,200700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1504.png
+1508,RSH MIDLANDS LLC,376 MERRIMAC TRL UNIT #221,0,192800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1508.png
+1509,PSG Property Management LLC,376 MERRIMAC TRL UNIT #222,0,176500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1509.png
+1512,"Hume, Gary Leroy",376 MERRIMAC TRL UNIT #311,0,190500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1512.png
+1524,ATLED ALLIANCE LLC,376 MERRIMAC TRL UNIT #421,0,188400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1524.png
+1527,"RYLYK, ANDREW, TR",376 MERRIMAC TRL UNIT #424,0,188400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1527.png
+1530,"CAMPBELL, WESLEY L & GLORIA M",376 MERRIMAC TRL UNIT #513,0,164400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1530.png
+1531,"COLLINS, BRANDAN P",376 MERRIMAC TRL UNIT #514,0,188300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1531.png
+1534,"WELLS, GERALD C",376 MERRIMAC TRL UNIT #523,0,176500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1534.png
+1536,"LARSON, BERNICE S C, TR",376 MERRIMAC TRL UNIT #611,0,194400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1536.png
+1537,"WATSON, BARBARA ENGS & ENGS, MICHAEL SHELTON",376 MERRIMAC TRL UNIT #612,0,172800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1537.png
+1542,"MAY, KATHLEEN M & LEE, ROBERT A",376 MERRIMAC TRL UNIT #623,0,176500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1542.png
+1543,SHATZ FAMILY TRUST AGREEMENT,376 MERRIMAC TRL UNIT #624,0,181300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1543.png
+1605,"SHAKIBNIA, KAZEM & CAROL J",436 ZELKOVA RD ,0,335500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/1605.png
+2074,14 CLAIBORNE DRIVE 23185 LLC,14 CLAIBORNE DR ,0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2074.png
+2298,JJD PROPERTY LLC,512 S HENRY ST ,0,907100,Condo (Residential) Rental,1.0,3.0,4.0,1.0,data/property_data/image_data/2298.png
+2357,COLLEGE OF WILLIAM AND MARY REAL ESTATE FOUNDATION,338 JAMESTOWN RD UNIT #B,0,202200,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/2357.png
+2358,COLLEGE OF WILLIAM AND MARY REAL ESTATE FOUNDATION,338 JAMESTOWN RD ,0,321300,Condo (Residential) Rental,0.0,1.0,3.0,1.0,data/property_data/image_data/2358.png
+2721,Carol Laura Bender Revocable Trust Agreement,706 S HENRY ST UNIT #1,0,227600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2721.png
+2722,"Huddleston, Jon D & Cynthia N",706 S HENRY ST UNIT #2,0,240400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2722.png
+2723,"McPherson, Timothy C & McPherson, Karen A",706 S HENRY ST UNIT #3,0,219000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2723.png
+2724,"Carol Laura Bender, Trustee",706 S HENRY ST UNIT #4,0,227600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2724.png
+2725,"Menefee, Matthew Lee & Sarah E I",706 S HENRY ST UNIT #5,0,221900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2725.png
+2726,"LINDEMUTH, STEVEN DANIEL & KELLY HALVERSON",708 S HENRY ST UNIT #6,0,227600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2726.png
+2727,"Shrestha, Timila J TR & Shrestha, Laura B TR",708 S HENRY ST UNIT #7,0,221900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2727.png
+2728,Patricia Eden Living Trust,708 S HENRY ST UNIT #8,0,219000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2728.png
+2729,"Blank, Pamela J. & Molloy, Terrence D. ",708 S HENRY ST UNIT #9,0,239100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2729.png
+2730,"RIBEIRO, AGOSTINHO J",708 S HENRY ST UNIT #10,0,221900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2730.png
+2847,KABRA-2 LLC,1203 JAMESTOWN RD UNIT #A1,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2847.png
+2848,KABRA-2 LLC,1203 JAMESTOWN RD UNIT #A2,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2848.png
+2849,KABRA-2 LLC,1203 JAMESTOWN RD UNIT #A3,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2849.png
+2850,KABRA-2 LLC,1203 JAMESTOWN RD UNIT #A4,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2850.png
+2852,"Perkins Group, LLC",1203 JAMESTOWN RD UNIT #B1,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2852.png
+2853,Peppertree I3 LLC,1203 JAMESTOWN RD UNIT #B2,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2853.png
+2854,"Perkins Group, LLC",1203 JAMESTOWN RD UNIT #B3,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2854.png
+2855,"CAPELLI, MARCIA S, TR",1203 JAMESTOWN RD UNIT #B4,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2855.png
+2856,"SHINHOLSER, JOSEPHINE W, TR",1203 JAMESTOWN RD UNIT #C1,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2856.png
+2857,"Krupinski, Jonette",1203 JAMESTOWN RD UNIT #C2,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2857.png
+2858,"Perkins Group, LLC",1203 JAMESTOWN RD UNIT #C3,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2858.png
+2860,"Krupinski, Jonette",1203 JAMESTOWN RD UNIT #C4,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2860.png
+2861,"Ellison, Donna",1203 JAMESTOWN RD UNIT #D1,0,147600,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2861.png
+2862,"HARDY, DEREK T",1203 JAMESTOWN RD UNIT #D2,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2862.png
+2864,"Farschon, Michael G. & Robyn L.",1203 JAMESTOWN RD UNIT #D4,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2864.png
+2865,KABRA-2 LLC,1203 JAMESTOWN RD UNIT #E1,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2865.png
+2866,KABRA-2 LLC,1203 JAMESTOWN RD UNIT #E2,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2866.png
+2867,"MOORE, TRAVIS F & FIORDALISO, MATTHEW",1203 JAMESTOWN RD UNIT #E3,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2867.png
+2868,"HASTINGS, WILLIAM JUSTIN",1203 JAMESTOWN RD UNIT #E4,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2868.png
+2869,SPOTSWOOD BRAXTON LLC,1203 JAMESTOWN RD UNIT #F1,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2869.png
+2870,"HASSELBACHER, STEPHANIE R & BERRYHILL, JAMES B JR",1203 JAMESTOWN RD UNIT #F2,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2870.png
+2871,"Smith, Joseph J & Carol R., Trustees",1203 JAMESTOWN RD UNIT #F3,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2871.png
+2872,"Lord, Matt R. & Tracy A.",1203 JAMESTOWN RD UNIT #F4,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2872.png
+2873,"BUCCI, MICHAEL A ET UX",1203 JAMESTOWN RD UNIT #G1,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2873.png
+2879,KABRA-2 LLC,1203 JAMESTOWN RD UNIT #H3,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2879.png
+2880,Billsburg Leasing LLC,1203 JAMESTOWN RD UNIT #H4,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2880.png
+2882,"HAZLEWOOD, J E SR, TR & REBA H, TR",1203 JAMESTOWN RD UNIT #I2,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2882.png
+2883,Peppertree I3 LLC,1203 JAMESTOWN RD UNIT #I3,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2883.png
+2884,GILES M ROBERTSON JR REVOCABLE LIVING TRUST,1203 JAMESTOWN RD UNIT #I4,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2884.png
+2885,"Liu, Grace Chi-Kun TR",1203 JAMESTOWN RD UNIT #J1,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2885.png
+2886,SPIARCH PROPERTIES LLC,1203 JAMESTOWN RD UNIT #J2,0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2886.png
+2887,KABRA-2 LLC,1203 JAMESTOWN RD UNIT #J3,0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2887.png
+2953,"Dillingham, Diane Lynn",1103 SETTLEMENT DR ,0,261800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2953.png
+3183,"Beagle, Wayne & Kimberly",1184 JAMESTOWN RD UNIT #2,0,203600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3183.png
+3188,Cornelius Charles Wood Jr Revocable Trust,1184 JAMESTOWN RD UNIT #7,0,200300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3188.png
+3190,"SUN, WANGXIAOQI",1184 JAMESTOWN RD UNIT #9,0,198200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3190.png
+3192,"KJR, LLC",1184 JAMESTOWN RD UNIT #11,0,200300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3192.png
+3194,"MADRID, CARLOS A",1184 JAMESTOWN RD UNIT #13,0,198200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3194.png
+3195,"PEARSON, JOHN EDWARD & JENNY LYNN",1184 JAMESTOWN RD UNIT #14,0,200700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/3195.png
+3198,"Lamberson, Robert L TR",1184 JAMESTOWN RD UNIT #17,0,198200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3198.png
+3199,"AVELLAR, LINDA L",1184 JAMESTOWN RD UNIT #18,0,200700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/3199.png
+3202,"WOERNER, JOHN R & TERRY A",1184 JAMESTOWN RD UNIT #21,0,151100,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3202.png
+3204,"ERDT, YVONNE C",1184 JAMESTOWN RD UNIT #23,0,136400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3204.png
+3205,"Burch, Stephen Leon TR & Burch, Marsha Callis TR & Burch, Anthony Scott TR",1184 JAMESTOWN RD UNIT #24,0,143300,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3205.png
+3207,BULL PROPERTIES LLC,1184 JAMESTOWN RD UNIT #26,0,151100,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3207.png
+3210,BEVERLY Z ADATO DECLARATION OF TRUST,1184 JAMESTOWN RD UNIT #29,0,198200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3210.png
+3211,"COGHLAN, PATRICK J & JENNIFER A",1184 JAMESTOWN RD UNIT #30,0,200700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/3211.png
+3214,EURISKO RENTALS LLC,1184 JAMESTOWN RD UNIT #33,0,206500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3214.png
+3217,"Dillon, Barbara Gayle",1184 JAMESTOWN RD UNIT #36,0,219400,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3217.png
+3220,"Shimabukuro, Carlos A",1184 JAMESTOWN RD UNIT #39,0,208000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3220.png
+3221,"Kao Wan, LLC",1184 JAMESTOWN RD UNIT #40,0,208000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3221.png
+3228,1184 JAMESTOWN ROAD #47 LLC,1184 JAMESTOWN RD UNIT #47,0,203600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3228.png
+3232,"Schuerhoff, Todd H & Schuerhoff, Kelley R & Schuerhoff, Noah H",1184 JAMESTOWN RD UNIT #51,0,200700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/3232.png
+3235,"Chrishan, LLC",101 LAKE POWELL RD UNIT #I,0,123600,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3235.png
+3237,"Poulter, Kevin T & Erin M",101 LAKE POWELL RD UNIT #K,0,124000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3237.png
+3238,"LORD, MATTHEW ROBERT & TRACY AGOSTINO",101 LAKE POWELL RD UNIT #L,0,124000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3238.png
+3239,"Hake, Terry H Estate & Scholz, Paula & Scholz, Timothy",103 LAKE POWELL RD UNIT #E,0,123600,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3239.png
+3240,THH Business Trust,103 LAKE POWELL RD UNIT #F,0,117900,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3240.png
+3241,"LUONG, PAUL C & THUY HUONG T",103 LAKE POWELL RD UNIT #G,0,124000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3241.png
+3242,"Jamestown Properties, LLC",103 LAKE POWELL RD UNIT #H,0,118000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3242.png
+3243,KABRA-2 LLC,105 LAKE POWELL RD UNIT #A,0,117900,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3243.png
+3244,KABRA-2 LLC,105 LAKE POWELL RD UNIT #B,0,123600,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3244.png
+3246,KABRA-2 LLC,105 LAKE POWELL RD UNIT #D,0,124000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3246.png
+3259,"Nirvan, LLC",214 WOODMERE DR UNIT #B,0,295700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3259.png
+3261,"Patti, Thomas E James & Susan M",214 WOODMERE DR UNIT #D,0,315400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3261.png
+3265,"BREI, WILLIAM SAXTON & MARIELOUISE ANGELINA",208 WOODMERE DR UNIT #D,0,307800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3265.png
+3271,"Moore, Michelle et al",209 WOODMERE DR UNIT #B,0,292600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3271.png
+3273,"MADSEN, MELVILLE A & JOHN F",209 WOODMERE DR UNIT #D,0,312100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3273.png
+3278,Christopher James Properties LLC,217 WOODMERE DR UNIT #A,0,292600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3278.png
+3282,"Reveley, W Taylor III & Reveley, Helen B",221 WOODMERE DR UNIT #A,0,298800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3282.png
+3285,"CGWP PROPERTIES, LLC",221 WOODMERE DR UNIT #D,0,318800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3285.png
+3287,"MOULTON-LEVY, MEGAN",304 RAVEN TER ,0,316000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3287.png
+3300,"Cloud, Thomas & Laura",237 WOODMERE DR UNIT #B,0,318100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3300.png
+3422,"BALDWIN, RICHARD H & DONNA A",128 ZELKOVA RD ,0,343500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3422.png
+3432,"WOODSON, ERNEST T",237 ZELKOVA RD ,0,322000,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3432.png
+3479,"DAVIDSON, ADAM F & JAMIE M",54 CLAIBORNE DR ,0,285700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3479.png
+3491,"CORVELLI, MICHAEL C ET UX & HORNER, FINLEY H JR ET",263 CLAIBORNE DR ,0,307100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3491.png
+3543,"BISS, IVAN T & KIMBERLY J",71 DESMONDE LN ,0,312800,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3543.png
+3594,HAPI PROPERTIES LLC,702 SETTLEMENT DR ,0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3594.png
+3642,Graham Family Trust,1004 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3642.png
+3647,MARY CHRISTINA ALLEGRETTO TRUST,906 SETTLEMENT DR ,0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3647.png
+3650,JANET WIEAND LIVING TRUST,909 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3650.png
+3654,JACK MORTON MERELMAN REVOCABLE TRUST,1104 WESTGATE CIR ,0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3654.png
+3663,"Basilone, Michael W & Erin E",805 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3663.png
+3665,"BRIGGS, LESHAN M",807 SETTLEMENT DR ,0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3665.png
+3666,"808 Settlement Drive, LLC",808 SETTLEMENT DR ,0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3666.png
+3667,"ENG, ALBERT & HSIN, CINDY FUNG KAY",809 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3667.png
+3678,"DEW, LLC",703 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3678.png
+3679,"Ritz,, Mary L",1006 SETTLEMENT DR ,0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3679.png
+3686,"ENG, ALBERT & HSIN, CINDY FUNG KAY",705 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3686.png
+3688,"BORETSKY, MELANIE & KATHRINE & CHRISTINA & SARA",707 SETTLEMENT DR ,0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3688.png
+3689,MICHAEL EUGENE RAGAN AND IDA BELLE RAGAN REVOCABLE,708 SETTLEMENT DR ,0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3689.png
+3690,"SU, JI",709 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3690.png
+3692,AMS Enterprise LLC,1001 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3692.png
+3693,"Messier, Diane A & Messier, Marc P",1002 SETTLEMENT DR ,0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3693.png
+3694,RRS INVESTMENTS LLC,1003 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3694.png
+3695,"Everett, Ann Marie",1004 SETTLEMENT DR ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3695.png
+3696,"Lee, Susan A",1005 SETTLEMENT DR ,0,246000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3696.png
+3697,KANALS GROUP LIMITED LIABILITY COMPANY,1007 SETTLEMENT DR ,0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3697.png
+3699,"Maher, Michael Jr & Maher, Olga",1009 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3699.png
+3712,KANALS GROUP LIMITED LIABILITY COMPANY,403 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3712.png
+3715,"Hayes, Kenneth",283 RAVEN TER ,0,274000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3715.png
+3732,Island Homes LLC,123 CUTSPRING ARCH ,0,271200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3732.png
+3741,"CW Enterprises IV, LLC",501 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3741.png
+3743,"STEWART, FRED L & JULIA B",503 SETTLEMENT DR ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3743.png
+3744,"LI, LEI & CHEN, WEIYUE",505 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3744.png
+3746,"McBriarty, James & McBriarty, Phyllis M TR",507 SETTLEMENT DR ,0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3746.png
+3748,Kanals Group,509 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3748.png
+3749,"Srinivasan, Thandi D & Elisetty, Rajesh & Iyer, Ravikumar",510 SETTLEMENT DR ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3749.png
+3750,"URMI Realty, LLC",404 SETTLEMENT DR ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3750.png
+3752,BULLOCK FAMILY TRUST,405 SETTLEMENT DR ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3752.png
+3758,"NISSLEY, HARVEY B & JANICE M",201 BRISTOL CMN ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3758.png
+3760,"Brown, E Paul & Bartolf, Richard M",203 BRISTOL CMN ,0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3760.png
+3761,"Chrishan, LLC",204 BRISTOL CMN ,0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3761.png
+3763,"DIAU, MARVIN CHI CHUNG & MA LORENA ESGUERRA",207 BRISTOL CMN ,0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3763.png
+3764,"VISKOCHIL, SARAH OLIVIA & LICHTEL, MATTHEW W",208 BRISTOL CMN ,0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3764.png
+3765,"Parets, Greg S. & Brenda L, Trustees",209 BRISTOL CMN ,0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3765.png
+3767,"CULAR, ANGELA, TRUSTEE",1801 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3767.png
+3770,"BASKET, DEBORAH L",1804 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3770.png
+3774,"Grant, Tina & Lindsay, Thomas Edward II & McClain, Chiquitta",1901 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3774.png
+3777,WILLIAMSBURG PROPERTIES LLC,1904 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3777.png
+3784,"BAN, IOAN R & VATCHENKOVA, MARINA S",457 ZELKOVA RD ,0,340000,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3784.png
+3786,"Zheng, George & Zhao, Sonia",284 ZELKOVA RD ,0,362700,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3786.png
+3789,"School, Michael F TR & School, Kathleen C TR",2201 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3789.png
+3791,"TRIVEDI, ANKIT & ISHITA",2203 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3791.png
+3793,"TRIVEDI, GIRISH B & TRUPTI G",2102 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3793.png
+3794,"SPALLINA, JOSEPH A & LUCYLLE A",2103 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3794.png
+3796,"CORDELL, REBECCA L",2004 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3796.png
+3799,"GRANTHAM, DAVID LEON & ANGELA D",2001 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3799.png
+3805,"PARE, ANDREW P & PAMELA S",121 CUTSPRING ARCH ,0,312800,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3805.png
+3806,Sandy M Garner Living Trust,162 CUTSPRING ARCH ,0,271200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3806.png
+3810,"KABLAOUI, EDWARD S & NANCY K",2302 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3810.png
+3813,"HEAPS, ROY K & DANA K",2401 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3813.png
+3816,Whitaker Trust,2404 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3816.png
+3824,"Icsman, James Aaron & April Diane",272 ZELKOVA RD ,0,363400,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3824.png
+3830,"BISS, KIMBERLY & IVAN",2602 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3830.png
+3831,"BAYS, ROSS E & ANNALUCIA",2603 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3831.png
+3837,CRENSHAWS RENTALS LLC,284 RAVEN TER ,0,285700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3837.png
+3843,"CANDLER, GEORGE MICHAEL & CYNTHIA VAN NESS",102 CUTSPRING ARCH ,0,304000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3843.png
+3851,"HEALEY, DAWN",82 DESMONDE LN ,0,304000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3851.png
+3857,"BIRCKHEAD, LYNDA JEANNE",281 ZELKOVA RD ,0,343500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3857.png
+3871,"Crbrio Real Estate, LLC",34 CLAIBORNE DR ,0,285700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3871.png
+3888,"BKS Ventures, LLC",2502 WESTGATE CIR ,0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3888.png
+3899,"FUSCO, NICHOLAS & JUDITH M",172 CUTSPRING ARCH ,0,304000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3899.png
+3900,RVP LLC,174 CUTSPRING ARCH ,0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3900.png
+3901,"ZYCH, ROBERT M & PATRICIA L",92 DESMONDE LN ,0,293900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3901.png
+3904,182 CUTSPRING ARCH LLC,182 CUTSPRING ARCH ,0,271200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3904.png
+3909,Espigh Holdings I LLC,84 DESMONDE LN ,0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3909.png
+3911,"THEISEN, RAYMOND & JANE A",285 ZELKOVA RD ,0,350500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3911.png
+3964,"Ignatius, Paul F TR & Ignatius, Myoung JA C TR",481 ZELKOVA RD ,0,343500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3964.png
+4150,"Kimbro, Nathan Shawn & Erin Fowler",708 WYTHE LN ,0,304400,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/4150.png
+4165,"Barshis, Darr Co-TR & Barshis, Susan Co-TR",412 GRIFFIN AVE UNIT #A,0,251000,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4165.png
+4166,"Barshis, Darr Co-TR & Barshis, Susan Co-TR",412 GRIFFIN AVE ,0,338600,Condo (Residential) Rental,1.0,1.0,2.0,1.0,data/property_data/image_data/4166.png
+4189,PROMETHEUS INVESTMENTS INC,1200 RICHMOND RD UNIT #1,0,269500,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4189.png
+4190,PROMETHEUS INVESTMENTS INC,1200 RICHMOND RD UNIT #2,0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4190.png
+4191,PROMETHEUS INVESTMENTS INC,1200 RICHMOND RD UNIT #3,0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4191.png
+4192,PROMETHEUS INVESTMENTS INC,1200 RICHMOND RD UNIT #4,0,478800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4192.png
+4193,PROMETHEUS INVESTMENTS INC,1200 RICHMOND RD UNIT #5,0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4193.png
+4194,PROMETHEUS INVESTMENTS INC,1200 RICHMOND RD UNIT #6,0,269500,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4194.png
+4195,PROMETHEUS INVESTMENTS INC,1200 RICHMOND RD UNIT #7,0,478800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4195.png
+4196,PROMETHEUS INVESTMENTS INC,1200 RICHMOND RD UNIT #8,0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4196.png
+4197,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #1,0,269500,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4197.png
+4198,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #2,0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4198.png
+4199,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #3,0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4199.png
+4200,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #4,0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4200.png
+4201,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #5,0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4201.png
+4202,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #6,0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4202.png
+4203,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #7,0,478800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4203.png
+4204,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #8,0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4204.png
+4205,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #9,0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4205.png
+4206,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #10,0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4206.png
+4207,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #11,0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4207.png
+4208,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #12,0,478800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4208.png
+4209,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #13,0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4209.png
+4210,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #14,0,269500,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4210.png
+4211,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #15,0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4211.png
+4212,PROMETHEUS INVESTMENTS INC,1210 RICHMOND RD UNIT #16,0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4212.png
+4568,"2nd Street Shops, LLC",311 SECOND ST UNIT #201,0,340500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4568.png
+4569,"2nd Street Shops, LLC",311 SECOND ST UNIT #202,0,141100,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4569.png
+79504,"Cook, Deanna D & Cook, Richard D",4129 PROSPECT ST UNIT #1B,0,362200,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/79504.png
+79507,"Coulter Investments, LP",1421 REDOUBT RD UNIT #7B,0,369200,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/79507.png
+79529,"Bessingpas, Darren Alan TR & Bessingpas, Maureen Tyra TR",3992 PROSPECT ST UNIT #15B,0,392500,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/79529.png
+3334,"CHEETHAM, PAUL F, TR & JANE T, TR",209 BROOKWOOD DR ,0.14,463800,Duplex (Town House) (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/3334.png
+3440,"Olsen, Craig T. & Beverly W., Trustees",104 EXMOOR CT ,0.174,540100,Duplex (Town House) (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/3440.png
+3456,"CARTER, SCOTT W & JENNIFER D",112 BROCKTON CT ,0.094,437500,Duplex (Town House) (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/3456.png
+4306,"HEINER, NATHAN T",310 PAGE ST ,0.062,565200,Duplex (Town House) (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4306.png
+4310,"Hester, Peter W & Hester Molly Y",318 PAGE ST ,0.056,567700,Duplex (Town House) (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4310.png
+902,"SPRING ROAD APTS.,INC",1301 N MOUNT VERNON AVE ,2.35,2457400,Mixed Retail (w/Residential),0.0,0.0,0.0,32.0,data/property_data/image_data/902.png
+1765,"THE HITCHENS BUILDING, LLC",441 PRINCE GEORGE ST ,0.135,2310600,Mixed Retail (w/Residential),0.0,0.0,0.0,15.0,data/property_data/image_data/1765.png
+1766,"MITCHELL, MARY S, TR & ALEXANDRA, TR & ALLYSON, TR",433 PRINCE GEORGE ST ,0.117,1933800,Mixed Retail (w/Residential),0.0,0.0,0.0,8.0,data/property_data/image_data/1766.png
+1998,"Cyphers, David A",156 SECOND ST ,0.566,518600,Mixed Retail (w/Residential),0.0,4.0,4.0,8.0,data/property_data/image_data/1998.png
+2002,JAMES THOMAS WOOD RESIDUARY TRUST,134 SECOND ST ,0.448,611900,Mixed Retail (w/Residential),0.0,4.0,4.0,7.0,data/property_data/image_data/2002.png
+3347,"JCS Holdings, LLC",1205 JAMESTOWN RD ,0.11,449400,Mixed Retail (w/Residential),0.0,2.0,2.0,4.0,data/property_data/image_data/3347.png
+4291,TRIBE SQUARE LLC,249 RICHMOND RD ,1.056,3048500,Mixed Retail (w/Residential),0.0,0.0,0.0,4.0,data/property_data/image_data/4291.png
+4364,"G-SQUARE, INC",501 PRINCE GEORGE ST ,0.679,6247900,Mixed Retail (w/Residential),0.0,5.0,6.0,34.0,data/property_data/image_data/4364.png
+4376,PRINCE GEORGE INVESTMENT LLC,521 PRINCE GEORGE ST ,0.518,3674200,Mixed Retail (w/Residential),0.0,0.0,0.0,12.0,data/property_data/image_data/4376.png
+82060,BSR Midtown Current LLC,215 MONTICELLO AVE ,0,14538300,Mixed Retail (w/Residential),0.0,0.0,0.0,30.0,data/property_data/image_data/82060.png
+766,STILLNOLEFTA LLC,320 IRONBOUND RD ,0.25,330700,Multi-Family,1.0,2.0,4.0,2.0,data/property_data/image_data/766.png
+790,"GUERRA, ADELA",307 ROLAND ST ,0.172,292400,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/790.png
+796,"Travers, Dwuayne A",1503 ERNESTINE AVE ,0.172,255000,Multi-Family,0.0,2.0,2.0,2.0,data/property_data/image_data/796.png
+1038,"Morken, P Dennis & Morken, Martha Lupe",124 MATOAKA CT ,0.22,616500,Multi-Family,1.0,2.0,4.0,2.0,data/property_data/image_data/1038.png
+1040,"Cyphers, Robert T TR",120 MATOAKA CT ,0.327,516000,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1040.png
+1070,LONE-G INC,804 LAFAYETTE ST ,0.115,496000,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1070.png
+1086,"WALSH, DAVID IGNATIUS & STROH, MARY SABINA & WALSH",115 WESTOVER AVE ,0.134,550400,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1086.png
+1087,"Patzer, Axel & Patzer, Christopher",126 SHIRLEY AVE ,0.131,515200,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1087.png
+1090,"Ruff, Jeanne I",1107 RICHMOND RD ,0.132,673800,Multi-Family,0.0,0.0,0.0,3.0,data/property_data/image_data/1090.png
+1106,OLIVER FAMILY TRUST,809 LAFAYETTE ST ,0.149,590000,Multi-Family,0.0,3.0,4.0,3.0,data/property_data/image_data/1106.png
+1124,"Fairbanks, Chandler Cole",111 MATOAKA CT ,0.344,617500,Multi-Family,0.0,4.0,5.0,3.0,data/property_data/image_data/1124.png
+1125,"Funk, Dennis A Tr & Funk, Qui N Tr",109 MATOAKA CT ,0.344,861300,Multi-Family,1.0,4.0,6.0,4.0,data/property_data/image_data/1125.png
+1167,Georges House LLC,204 HARRISON AVE ,0.241,619200,Multi-Family,1.0,2.0,3.0,2.0,data/property_data/image_data/1167.png
+1168,WILLIAMSBURG HEIGHTS LLC,206 HARRISON AVE ,0.241,832500,Multi-Family,0.0,4.0,4.0,4.0,data/property_data/image_data/1168.png
+1169,"SHELLY, GARY L",208 HARRISON AVE ,0.161,619200,Multi-Family,0.0,3.0,4.0,2.0,data/property_data/image_data/1169.png
+1177,"Hunsucker, Steven H TR",210 NELSON AVE ,0.475,741000,Multi-Family,1.0,3.0,5.0,2.0,data/property_data/image_data/1177.png
+1190,C C Casey Sons LLC,727 RICHMOND RD ,1.9,1456500,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1190.png
+1197,MIDAS INC,217 HARRISON AVE ,0.172,540000,Multi-Family,0.0,2.0,2.0,2.0,data/property_data/image_data/1197.png
+1205,"Cyphers, Robert T TR",224 VIRGINIA AVE ,0.172,405000,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/1205.png
+1310,"SHELLY, GARY L",602 CAPITOL LANDING RD ,0.122,402500,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/1310.png
+1325,"DUCKER, JAMES K & KROENLEIN, JOHANNA M",113 WASHINGTON ST ,0.138,590000,Multi-Family,0.0,3.0,4.0,2.0,data/property_data/image_data/1325.png
+1424,Laramie Homes LLC,821 CAPITOL LANDING RD ,0.138,177100,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/1424.png
+1731,"Gyurjyan, Harutyun & Gyurjyan, Ani",333 N HENRY ST ,0.22,617500,Multi-Family,0.0,3.0,3.0,3.0,data/property_data/image_data/1731.png
+1738,415 Scotland Street LLC,415 SCOTLAND ST ,0.296,896800,Multi-Family,0.0,3.0,4.0,3.0,data/property_data/image_data/1738.png
+1785,COLONIAL WILLIAMSBURG FOUNDATION,245 N HENRY ST ,0.207,938600,Multi-Family,1.0,3.0,5.0,3.0,data/property_data/image_data/1785.png
+1969,RME HOLDINGS LLC,406 CAPITOL LANDING RD ,0.149,402500,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/1969.png
+2045,"LA Management Group, LLC",311 PENNIMAN RD ,0.293,309600,Multi-Family,0.0,3.0,4.0,2.0,data/property_data/image_data/2045.png
+2139,LCM PROPERTY HOLDINGS LLC,118 GRIFFIN AVE ,0.115,739800,Multi-Family,1.0,2.0,5.0,2.0,data/property_data/image_data/2139.png
+2149,"Morken, P Dennis & Morken, Martha Lupe",101 GRIFFIN AVE ,0.115,700200,Multi-Family,0.0,3.0,6.0,2.0,data/property_data/image_data/2149.png
+2157,"Casey, Lewis Coleman",232 GRIFFIN AVE ,0.115,619200,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/2157.png
+2182,"413-415 Griffin Avenue, LLC",413 GRIFFIN AVE ,0.401,992500,Multi-Family,0.0,5.0,5.0,5.0,data/property_data/image_data/2182.png
+2228,"LOUIS E CHUCKNEY, LLC",434 IRELAND ST ,0.317,1195000,Multi-Family,0.0,8.0,12.0,4.0,data/property_data/image_data/2228.png
+2230,"HALYO, NESIM",307 S BOUNDARY ST ,0.09,619200,Multi-Family,0.0,4.0,4.0,2.0,data/property_data/image_data/2230.png
+2262,"Ellis, Brandon Ray",508 NEWPORT AVE ,0.246,722400,Multi-Family,0.0,3.0,4.0,2.0,data/property_data/image_data/2262.png
+2285,SOUTH BOUNDARY LLC,304 S BOUNDARY ST ,0.161,619200,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/2285.png
+2286,"SHELLY, GARY L & RICHARD A PLATT",306 S BOUNDARY ST ,0.169,720000,Multi-Family,0.0,3.0,3.0,3.0,data/property_data/image_data/2286.png
+2378,Hughes Living Trust,103 WILLIAMSBURG AVE ,0.138,579600,Multi-Family,1.0,2.0,3.0,2.0,data/property_data/image_data/2378.png
+2388,TYLER STREET PROPERTIES LLC,505 TYLER ST ,0.149,750000,Multi-Family,0.0,4.0,4.0,4.0,data/property_data/image_data/2388.png
+2470,"PAPARIS & PAPARIS, INC",704 YORK ST ,0.578,661500,Multi-Family,0.0,5.0,7.0,4.0,data/property_data/image_data/2470.png
+2544,LONE-G INC,902 JAMESTOWN RD ,0.298,795000,Multi-Family,1.0,2.0,3.0,2.0,data/property_data/image_data/2544.png
+3181,BRITTS CORNER HOLDINGS LLC,1206 JAMESTOWN RD APT #B,0.12,430000,Multi-Family,1.0,1.0,4.0,2.0,data/property_data/image_data/3181.png
+4018,"SKINNER, WILSON F JR, TR & HOPE S, TR",110 BROOKS ST ,0.407,450000,Multi-Family,0.0,2.0,2.0,2.0,data/property_data/image_data/4018.png
+4021,FREDERICK WILLS BOELT REVOCABLE LIVING TRUST & BOE,331 RICHMOND RD ,0.109,619200,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/4021.png
+4026,GRH LLC,118 LONGHILL RD ,0.237,273700,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/4026.png
+4294,207 CARY STREET LLC,207 CARY ST ,0.172,841500,Multi-Family,0.0,3.0,6.0,3.0,data/property_data/image_data/4294.png
+4151,"Mulford, Virginia B",710 WYTHE LN ,0,474600,Multi-Family (Condo),0.0,3.0,3.0,3.0,data/property_data/image_data/4151.png
+80,"JENKS, SHERYL",120 SHAINDEL DR ,0.097,437400,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/80.png
+133,W R H A,743 SCOTLAND ST ,0.051,409300,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/133.png
+266,BRC Company LLC,129 PATRICK HENRY DR ,0.25,309800,Single-Family (Rental) ,2.0,2.0,4.0,1.0,data/property_data/image_data/266.png
+270,JENNY HOMES LLC,137 PATRICK HENRY DR ,0.25,290100,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/270.png
+274,"YANCEY, NICOLE G, TR",302 WALTZ FARM DR ,0.28,348800,Single-Family (Rental) ,1.0,1.0,4.0,1.0,data/property_data/image_data/274.png
+278,"LAKE, RICHARD E & SHEILA SUE STANFORD",126 PATRICK HENRY DR ,0.42,412700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/278.png
+318,"SPARLING, NANCY C",404 ASHWOOD DR ,0.32,578900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/318.png
+321,"HUBER, CAROL M",416 ASHWOOD DR ,0.314,542800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/321.png
+334,"KOKOLIS, GEORGE M & WENDY N",404 MAGNOLIA DR ,0.39,576600,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/334.png
+400,"Crossroad Properties, LLC",105 PATRICK HENRY DR ,0.37,327100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/400.png
+408,"CHAPPELL, MILES L JR & MARCIAL C",121 PATRICK HENRY DR ,0.23,311000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/408.png
+411,Jia Yuan Inc,127 PATRICK HENRY DR ,0.25,332000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/411.png
+413,"BIROCCO, KEVIN A & ELIZABETH S",122 PATRICK HENRY DR ,0.27,300200,Single-Family (Rental) ,2.0,1.0,3.0,1.0,data/property_data/image_data/413.png
+432,"Loza, Jose & Coloma, Andrea",206 JOHN PINCKNEY LN ,0.266,334000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/432.png
+447,"Loza, Jose & Coloma, Andrea C",207 JOHN PINCKNEY LN ,0.262,375000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/447.png
+449,"WRIGHT, MARK E & PAMELA H",201 JOHN PINCKNEY LN ,0.247,239500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/449.png
+453,REVOCABLE LIVING TRUST AGREEMENT OF JOSEPH ANTHONY,236 TYLER BROOKS DR ,0.31,298300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/453.png
+454,"EARMAN, STELLA M, TR & STETTER, MARIA E, TR",234 TYLER BROOKS DR ,0.35,279100,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/454.png
+456,"Taylor, Jennifer Lloyd & Schulte, Tim",230 TYLER BROOKS DR ,0.489,247700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/456.png
+459,"Yevstifeyev, Igor",237 CHRISTOPHER WREN RD ,0.289,330300,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/459.png
+460,"EISELE, JOHN C & SAKODA, NAOMI",239 CHRISTOPHER WREN RD ,0.289,303900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/460.png
+461,"WALKER, ROBERT F, TR",241 CHRISTOPHER WREN RD ,0.225,202600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/461.png
+463,"SCLATER, DANIEL W & KAY",248 TYLER BROOKS DR ,0.225,296300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/463.png
+469,"VALADEZ, MARIO & LETICIA",249 TYLER BROOKS DR ,0.29,233700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/469.png
+477,"Hintze, David L & Sheila",406 BEECHWOOD DR ,0.31,503000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/477.png
+495,PASCALE LIVING TRUST,223 CHRISTOPHER WREN RD ,0.3,363300,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/495.png
+497,"Newman, Kyle R",229 JOHN PINCKNEY LN ,0.209,259200,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/497.png
+499,"LANEHART, JESSE I, TR & GLENDA T, TR",229 CHRISTOPHER WREN RD ,0.225,256200,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/499.png
+500,"CRINKLAW-VOGT, MATTHEW",231 CHRISTOPHER WREN RD ,0.225,270800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/500.png
+501,"ZMA Properties, LLC",233 CHRISTOPHER WREN RD ,0.289,325600,Single-Family (Rental) ,0.0,3.0,5.0,1.0,data/property_data/image_data/501.png
+502,"SCHWEITZER, STEPHEN A & BELINDA H",235 CHRISTOPHER WREN RD ,0.225,344900,Single-Family (Rental) ,1.0,2.0,2.0,1.0,data/property_data/image_data/502.png
+503,"PETERSEN, CHRISTOPHER ALLEN",240 CHRISTOPHER WREN RD ,0.3,292200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/503.png
+509,"228 CW, LLC",228 CHRISTOPHER WREN RD ,0.27,314100,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/509.png
+510,"Yevstifeyev, Igor",226 CHRISTOPHER WREN RD ,0.273,346500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/510.png
+516,"Hartman, Ernest A & Melissa J, Trustees",227 THOMAS NELSON LN ,0.273,229500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/516.png
+521,"Busching, Karyssa Lee",237 THOMAS NELSON LN ,0.263,491000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/521.png
+522,"WRIGHT, MARK E",239 THOMAS NELSON LN ,0.25,211300,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/522.png
+526,"DORSEY, SCOTT B",217 THOMAS NELSON LN ,0.227,206900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/526.png
+528,"YEVSTIFEYEV, IGOR",220 THOMAS NELSON LN ,0.294,309900,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/528.png
+530,"ADAMS, JEREMY S & KIRA M",224 THOMAS NELSON LN ,0.357,300600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/530.png
+532,"ARMSRTONG, JOANNE G, TR & LUCAS, JONATHAN PATRICK",228 THOMAS NELSON LN ,0.31,208700,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/532.png
+534,"MCNULTY, MARY A",232 THOMAS NELSON LN ,0.31,249000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/534.png
+536,"Yevstifeyev, Igor",236 THOMAS NELSON LN ,0.31,314000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/536.png
+540,"Wilcox, Paul",208 CAPTAIN NEWPORT CIR ,0.417,330500,Single-Family (Rental) ,0.0,3.0,5.0,1.0,data/property_data/image_data/540.png
+543,"Cyphers, Robert T TR",213 CAPTAIN NEWPORT CIR ,0.32,269300,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/543.png
+544,"RAMSEY, ROSCOE W & PATRICIA P",211 CAPTAIN NEWPORT CIR ,0.483,297600,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/544.png
+547,"MPH Rentals, LLC",205 CAPTAIN NEWPORT CIR ,0.65,371000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/547.png
+553,"XIAO, JACOB A & YANLI",250 THOMAS NELSON LN ,0.433,281000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/553.png
+555,"WALKER, JANET R, TR",227 JOHN PINCKNEY LN ,0.224,228700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/555.png
+567,"WALKER, JANET R, TR",216 THOMAS NELSON LN ,0.38,277000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/567.png
+568,"WRIGHT, MARK EDWARD",218 THOMAS NELSON LN ,0.404,276900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/568.png
+571,"WALKER, JANET R, TR",207 ROBERT ELLIFFE RD ,0.344,279200,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/571.png
+584,KEVIN D GRAMIG AND CHERYL S GRAMIG LIVING TRUST,228 LONGHILL RD ,0.24,338500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/584.png
+586,"EARMAN, STELLA M, TR & STETTER, MARIA E, TR",232 LONGHILL RD ,0.187,237200,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/586.png
+587,"Walker, Mark R Trustee",234 LONGHILL RD ,0.195,237900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/587.png
+589,"GUSSMAN, VICTORIA D & DAVID S",238 LONGHILL RD ,0.223,254400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/589.png
+601,DALESSANDRO LIVING TRUST,87 CARLTON CT ,0.245,498800,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/601.png
+602,"HITCHCOCK, DOROTHY E, TR",89 CARLTON CT ,0.393,426600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/602.png
+610,"WRIGHT, MARK E & PAMELA H",220 LONGHILL RD ,0.258,236100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/610.png
+617,"BAKER, SHARON H",200 JOHN WYTHE PL ,0.26,363900,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/617.png
+620,"Wright, Barry",208 LONGHILL RD ,0.275,302100,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/620.png
+621,"Yevstifeyev, Igor",210 LONGHILL RD ,0.25,400300,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/621.png
+644,"Yevstifeyev, Igor",210 THOMAS NELSON LN ,0.37,296100,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/644.png
+645,DK Wolons LLC,205 ROBERT ELLIFFE RD ,0.36,378200,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/645.png
+655,"CREED, DANIEL F & MARGARET M",110 THOMAS NELSON LN ,0.3,238800,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/655.png
+661,"ABSALOM, LINDA FOSTER",113 GOVERNOR BERKELEY RD ,0.3,491400,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/661.png
+663,"Mactavish, LLC",111 GOVERNOR BERKELEY RD ,0.344,288300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/663.png
+666,HDP LLC,200 TYLER BROOKS DR ,0.36,292300,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/666.png
+677,"Kilinski, Jennifer",111 THOMAS NELSON LN ,0.29,400900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/677.png
+685,"Panayotis, Peter H Jr",124 LONGHILL RD ,0.274,242700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/685.png
+687,SHNI CORP,116 LONGHILL RD ,0.244,127600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/687.png
+688,"ESCOBAR, ROBERT & FLOEGEL, JODY E, TR & SCOTT R, T",112 LONGHILL RD ,0.246,273700,Single-Family (Rental) ,0.0,2.0,3.0,2.0,data/property_data/image_data/688.png
+701,"Inman, Matthew Mauck & Kelly Quave",189 LEWIS ROBERT LN ,0.244,427700,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/701.png
+761,Mildred Stone Family Trust,500 IRONBOUND RD ,0.427,182500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/761.png
+763,"HOWARD, SARA ASHBY",324 IRONBOUND RD ,0.25,141000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/763.png
+767,AW RE Group LLC,315 ROLAND ST ,0.172,143500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/767.png
+769,"Holloway Group, LLC",318 ROLAND ST ,0.48,133600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/769.png
+786,"Martin, Patrick Francis",314 ROLAND ST ,0.172,196500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/786.png
+792,"ROBINSON, MILDRED BROWN",305 ROLAND ST UNIT #B,0.172,71700,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/792.png
+793,"Cooke, Quovadis Mae",1506 ERNESTINE AVE ,0.344,207400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/793.png
+795,"Patil, Yogendra C",1501 ERNESTINE AVE ,0.152,307200,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/795.png
+797,"Lam, David",1505 ERNESTINE AVE ,0.172,228000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/797.png
+798,"TUCKER, WILLIAM H",1507 ERNESTINE AVE ,0.247,143600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/798.png
+807,"Zelli, Ylber",304 IRONBOUND RD ,0.218,210000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/807.png
+810,STILLNOLEFTA LLC,310 IRONBOUND RD ,0.27,158600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/810.png
+812,NEW HOPE REALTY GROUP LLC,316 IRONBOUND RD ,0.172,142100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/812.png
+839,Margaret M Witten Trust,1018 CAPITOL LANDING RD ,0.5,290200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/839.png
+842,"LAWRENCE, VERNIE C, TR & BETTY S, TR",213 SURI DR ,0.086,509800,Single-Family (Rental) ,1.0,4.0,4.0,1.0,data/property_data/image_data/842.png
+844,"Witten, Charles Spence Daley",1038 CAPITOL LANDING RD ,4,358700,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/844.png
+845,"MAHONE, THOMAS D, TR",1031 CAPITOL LANDING RD ,6.074,492100,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/845.png
+849,"RICCIO, ANTHONY M & LILLIAN ANNE",217 SURI DR ,0.117,459000,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/849.png
+873,"JONES, WILLIAM T & WILBUR, TR & RUTH E, TR",303 CALVIN ST ,0.161,165100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/873.png
+913,"Wilke, Thomas Z TR",1203 LAFAYETTE ST ,0.164,322300,Single-Family (Rental) ,0.0,2.0,4.0,0.0,
+914,"EARMAN, STELLA M, TR & STETTER, MARIA E, TR",1201 LAFAYETTE ST ,0.143,281900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/914.png
+916,"Casey, Lewis Coleman",1107 LAFAYETTE ST ,0.138,296600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/916.png
+925,"ELLIS, KENNETH L & LENITA J",511 HENDERSON ST ,0.447,186800,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/925.png
+935,ACL HP LLC,404 HENDERSON ST ,0.209,161800,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/935.png
+944,"Rutherford, Kenneth & Elliott, Steven D",523 ROYCROFT ST ,0.32,245000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/944.png
+948,"Lockwood, Amy K.",919 N HENRY ST ,0.2831,356400,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/948.png
+955,"427 Roycroft, LLC",427 ROYCROFT ST ,0.52,353100,Single-Family (Rental) ,0.0,3.0,6.0,2.0,data/property_data/image_data/955.png
+964,"TORRES, VICTOR S & GUYLAINE",6 FOREST HILL DR ,0.288,171400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/964.png
+968,"MASON, CHARLES F, TR & KNOTTS, JANET L, TR",104 HAYNES DR ,0.238,256800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/968.png
+971,"Dunn, Jeffrey H & Dunn, Jessica Lynn",114 HAYNES DR ,0.197,192000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/971.png
+982,"MDK Associates, LLC",102 WOODS DR ,0.551,212400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/982.png
+984,"Barshis, Darr Co-TR & Barshis, Susan Co-TR",118 WOODS DR ,1.397,273200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/984.png
+985,"Barshis, Darr Co-TR & Barshis, Susan Co-TR",111 WOODS DR ,0.39,138700,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/985.png
+992,"BERG, EDWARD D",503 PARKWAY DR ,0.372,240400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/992.png
+994,"MCROY, JAMES M",507 PARKWAY DR ,0.207,234500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/994.png
+1021,"Bentley, Timothy J III",128 MATOAKA CT ,0.386,423100,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1021.png
+1023,BARRY FAMILY TRUST,206 MATOAKA CT ,0.671,476600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1023.png
+1024,SARA K LEVY MARITAL TRUST,208 MATOAKA CT ,0.826,491800,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1024.png
+1030,"HAHN, GLORIA TURNER",125 MATOAKA CT ,0.517,521900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1030.png
+1033,"KALOMIRIS, MICHAEL V",205 MATOAKA CT ,0.475,543500,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1033.png
+1034,"Cyphers, Robert T TR",207 MATOAKA CT ,0.413,539500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1034.png
+1039,MKF LLC,122 MATOAKA CT ,0.327,371200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1039.png
+1062,"Golden Pond, Inc.",101 WYTHE AVE ,0.18,373200,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/1062.png
+1063,105 Wythe Ave LLC,105 WYTHE AVE ,0.172,486300,Single-Family (Rental) ,0.0,2.0,4.0,2.0,data/property_data/image_data/1063.png
+1067,"G-Square, Inc",105 DELAWARE AVE ,0.115,352000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1067.png
+1068,"G-Square, Inc",107 DELAWARE AVE ,0.115,432000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1068.png
+1069,"G-Square, Inc",109 DELAWARE AVE ,0.115,600000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1069.png
+1071,OLIVER FAMILY TRUST,108 WYTHE AVE ,0.115,345400,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1071.png
+1072,OLIVER FAMILY TRUST,106 WYTHE AVE ,0.115,283100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1072.png
+1073,G-SQUARE INC,104 WYTHE AVE ,0.115,385900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1073.png
+1074,"HILL-STEPHENS, HELEN & HITCHINGS, THOMAS E",102 WYTHE AVE ,0.115,300400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1074.png
+1079,"G-SQUARE, INC",127 SHIRLEY AVE ,0.126,480000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1079.png
+1080,"G-SQUARE, INC",110 DELAWARE AVE ,0.124,480000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1080.png
+1081,"G-SQUARE, INC",106 DELAWARE AVE ,0.116,439200,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1081.png
+1082,"G-SQUARE, INC",104 DELAWARE AVE ,0.115,576000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1082.png
+1083,"G-SQUARE, INC",102 DELAWARE AVE ,0.11,576000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1083.png
+1084,"MASON, TAYLOR MONTGOMERY & PAMELA H",109 WESTOVER AVE ,0.115,543800,Single-Family (Rental) ,0.0,3.0,5.0,2.0,data/property_data/image_data/1084.png
+1088,"SQUIRES, HERBERT B & MENDOZA, BEVERLEE AUGUSTA",112 SHIRLEY AVE ,0.115,451100,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1088.png
+1092,GRAHAM ALBERT TRICORN RENTALS LLC,1109 RICHMOND RD ,0.116,468600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1092.png
+1093,BROOKS LAND CORP,105 BACON AVE ,0.115,329500,Single-Family (Rental) ,0.0,0.0,0.0,1.0,data/property_data/image_data/1093.png
+1094,Midas Inc,104 WESTOVER AVE ,0.115,493300,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1094.png
+1097,"DAVIS, WILLIAM E, JR",1009 LAFAYETTE ST ,0.132,402500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1097.png
+1099,Knot & Key Inc,1005 LAFAYETTE ST ,0.193,368300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1099.png
+1100,COLONIAL DRC VENTURES INC,1003 LAFAYETTE ST ,0.132,320000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1100.png
+1101,"MARVIN, JANE MCKAY, TR",1001 LAFAYETTE ST ,0.132,528000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1101.png
+1104,OLIVER FAMILY TRUST,903 LAFAYETTE ST ,0.138,410600,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/1104.png
+1105,"901 Lafayette Street, LLC",901 LAFAYETTE ST ,0.143,295900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1105.png
+1107,LCM PROPERTY HOLDINGS LLC,807 LAFAYETTE ST ,0.155,305400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1107.png
+1108,"CWVA Properties, LLC",803 LAFAYETTE ST ,0.166,291200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1108.png
+1109,"Beacham, Michael A & Shell, Melton Arthur III",801 LAFAYETTE ST ,0.155,486300,Single-Family (Rental) ,0.0,2.0,4.0,2.0,data/property_data/image_data/1109.png
+1110,"BEACHAM, MICHAEL A & JEANNIE T",727 LAFAYETTE ST ,0.213,360500,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1110.png
+1112,"Gorenflo, Sean W & Kimberly B",723 LAFAYETTE ST ,0.2,339400,Single-Family (Rental) ,0.0,1.0,4.0,1.0,data/property_data/image_data/1112.png
+1113,"Cyphers, Robert T TR",118 MATOAKA CT ,0.34,365100,Single-Family (Rental) ,1.0,1.0,2.0,1.0,data/property_data/image_data/1113.png
+1122,MKF LLC,113 MATOAKA CT ,0.344,394600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1122.png
+1126,"Matoaka Court, LLC",107 MATOAKA CT ,0.195,407300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1126.png
+1127,"NUNNELLEY, FRED",702 COLLEGE TER ,0.293,829900,Single-Family (Rental) ,0.0,7.0,5.0,1.0,data/property_data/image_data/1127.png
+1139,Busbee Family Trust,721 COLLEGE TER ,0.293,708900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1139.png
+1140,DDD Property LLC,612 RICHMOND RD ,0.301,603700,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/1140.png
+1141,"Waldrop, Kenneth B & Lisa L",614 RICHMOND RD ,0.301,647000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1141.png
+1144,"Green, Alfred Mark & Green, Mary Ann Spratt",704 RICHMOND RD ,0.293,721500,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/1144.png
+1145,"Casey, Lewis C",706 RICHMOND RD ,0.293,795500,Single-Family (Rental) ,0.0,5.0,4.0,1.0,data/property_data/image_data/1145.png
+1149,CASEY BROTHERS LLC,721 LAFAYETTE ST ,0.301,288400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1149.png
+1159,"Shelly, Gary L",711 RICHMOND RD ,0.478,897100,Single-Family (Rental) ,1.0,4.0,8.0,1.0,data/property_data/image_data/1159.png
+1163,"CATCHINGS, TIMOTHY TITUS & BIERNACKI-PORAY, TERESA",205 HARRISON AVE ,0.172,1369100,Single-Family (Rental) ,3.0,4.0,4.0,1.0,data/property_data/image_data/1163.png
+1173,"Casey, Lewis C",207 NELSON AVE ,0.161,426900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1173.png
+1176,Pat Kelly Attorney at Law ,206 NELSON AVE ,0.551,669000,Single-Family (Rental) ,1.0,2.0,6.0,1.0,data/property_data/image_data/1176.png
+1189,CASEY BROTHERS LLC,717 LAFAYETTE ST ,0.308,341000,Single-Family (Rental) ,1.0,1.0,4.0,1.0,data/property_data/image_data/1189.png
+1196,"CUMMINGS, WILLIAM S NELSON & SEMINARIS, SUE ELIZAB",215 HARRISON AVE ,0.172,808500,Single-Family (Rental) ,0.0,3.0,5.0,3.0,data/property_data/image_data/1196.png
+1198,"McDowell, Robert M, Jennifer G, Griffin & Mary-Shea",219 HARRISON AVE ,0.17,687100,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/1198.png
+1200,LJ PROPERTY HOLDINGS LLC,221 HARRISON AVE ,0.165,526800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1200.png
+1201,LCM PROPERTY HOLDINGS LLC,218 VIRGINIA AVE ,0.172,369400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1201.png
+1202,"MATSUMOTO, HERBERT T & ETTA JANE",220 VIRGINIA AVE ,0.172,375500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1202.png
+1206,"Denby, Timothy David",226 VIRGINIA AVE ,0.172,426400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1206.png
+1209,Port Moyer Living Trust,225 VIRGINIA AVE ,0.209,537300,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1209.png
+1211,"Brown, Evelyn S Estate Et al",702 N HENRY ST ,0.23,188300,Single-Family (Rental) ,0.0,2.0,3.0,2.0,data/property_data/image_data/1211.png
+1212,"CARAGIULO, MARIA E & SHAWLER, JUSTIN L",706 N HENRY ST ,0.23,232800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1212.png
+1213,"Seminary Capital Management, LLC",710 N HENRY ST ,0.23,146900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1213.png
+1215,"ARORA, ASHOK K",716 N HENRY ST ,0.23,168000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1215.png
+1217,"Vogan, Charles E Jr & Boone, Judith Vogan",415 BURBANK ST ,0.344,218200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1217.png
+1218,"BRAXTON, BRENDA DEAN",520 ROYCROFT ST ,0.29,179300,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1218.png
+1220,"Johnson, Alonzo D",518 ROYCROFT ST ,0.24,154500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1220.png
+1223,"EARLY, NANCY, TR",510 ROYCROFT ST ,0.24,324900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1223.png
+1228,Lighthouse Beacon Corp & A F Chase LLC,418 ROYCROFT ST ,0.26,117900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1228.png
+1231,"JAMES, ANDRE",404 ROYCROFT ST ,0.22,154700,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1231.png
+1232,"BAUMGARTEN, BRUCE & CATHERINE",818 N HENRY ST ,0.124,218900,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1232.png
+1239,"Boyd, Marcia Darlene & Smith, Carol Ann & Smith, Harding & Smith, Ronald Edward",423 DUNNING ST ,0.258,156700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1239.png
+1242,"Seminary Capital Management, LLC",521 DUNNING ST ,0.172,303600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1242.png
+1243,NANCY EARLY TRUST,525 DUNNING ST ,0.41,185900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1243.png
+1253,"Rossman, Cheryl S.",508 DUNNING ST ,0.284,179800,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/1253.png
+1257,"Wynn, Joseph R.",421 BURBANK ST ,0.258,174400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1257.png
+1259,"OSBORNE, SAMUEL C & PERQUIDA Y",505 BURBANK ST ,0.275,128000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1259.png
+1260,"EWERT, MARGARET A",509 BURBANK ST ,0.284,349100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1260.png
+1262,"Byrd, William R",517 BURBANK ST ,0.275,128000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1262.png
+1265,HOUSING PARTNERSHIPS INC,533 BURBANK ST ,0.275,201600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1265.png
+1268,THE HUBERT THADDEUS ALEXANDER AND BOBBYE BURNS ALE,532 BURBANK ST ,0.562,229700,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1268.png
+1270,Comfort Room LLC,524 BURBANK ST ,0.562,117700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1270.png
+1271,"Conder, Robert Lee Co-Trustee & Cottrill, Mary E Co-Trustee",520 BURBANK ST ,0.562,222900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1271.png
+1272,"Conder, Robert Lee Co-Trustee & Cottrill, Mary E Co-Trustee",516 BURBANK ST ,0.562,296300,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/1272.png
+1276,"WILLIAMS, KYLE ANDREW",426 BURBANK ST ,0.603,241400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1276.png
+1277,"Piggott, Lucretia et al",420 BURBANK ST ,0.723,159200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1277.png
+1278,"Lowery Legacy 1, LLC",416 BURBANK ST ,0.723,157700,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1278.png
+1281,"Lam, David Kin TR",606 N HENRY ST ,0.275,184200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1281.png
+1282,WILLS WETLANDS LIMITED LIABILITY COMPANY,604 N HENRY ST ,0.258,331200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1282.png
+1289,"Seminary Capital Management, LLC",809 N HENRY ST ,0.501,234500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1289.png
+1292,"ARC PROPERTIES, LLC",715 N HENRY ST ,0.293,192700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1292.png
+1293,"Seminary Capital Management, LLC",709 N HENRY ST ,0.293,113600,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/1293.png
+1295,"Cooke, Giles Buckner & Diane",370 DUNNING ST ,0.359,231900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1295.png
+1304,"MAHONE, THOMAS D, TR",504 CAPITOL LANDING RD ,0.121,367100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1304.png
+1305,"HOLMES, DAVID L & CAROLYN C",506 CAPITOL LANDING RD ,0.179,358300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1305.png
+1306,HUNT FAMILY TRUST,104 WASHINGTON ST ,0.187,270400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1306.png
+1311,RME HOLDINGS LLC,604 CAPITOL LANDING RD ,0.202,314100,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1311.png
+1312,"STEVENS, JAMES & REBECCA & ETTINGER, PHILLIP P",116 WASHINGTON ST ,0.118,550500,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/1312.png
+1315,"Cramer, Harlan Carl TR & Cramer, Jean Gedettis TR",608 CAPITOL LANDING RD ,0.097,460500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1315.png
+1318,"Baxter, Gladys C Estate Et al",106 ADAMS ST ,0.138,361700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1318.png
+1319,"Pleibel, Nancy L TR",108 ADAMS ST ,0.138,306500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1319.png
+1321,"Fitts, William P TR & Fitts, Pamela F TR",112 ADAMS ST ,0.219,333800,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1321.png
+1323,"Quinter, Joshua Christopher & Quinter, Patricia Griffith",117 WASHINGTON ST ,0.207,318700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1323.png
+1329,105 Washington LLC,105 WASHINGTON ST ,0.157,365400,Single-Family (Rental) ,0.0,3.0,4.0,2.0,data/property_data/image_data/1329.png
+1330,LONE-G INC,714 CAPITOL LANDING RD ,0.121,329000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1330.png
+1331,"COLEMAN, CAMERON & JOHNSON, PATRICIA M",104 JEFFERSON ST ,0.176,360500,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1331.png
+1332,"JEFFREY, ROBERT W, JR",108 JEFFERSON ST ,0.207,288200,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1332.png
+1333,"Quarterpath Associates, L.P.",110 JEFFERSON ST ,0.138,345600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1333.png
+1334,"BROOKS, GEORGE U III",112 JEFFERSON ST ,0.138,304700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1334.png
+1338,"WAGNER, WILLIAM R & CYNTHIA S",115 ADAMS ST ,0.103,287100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1338.png
+1339,"WEBSTER, MATTHEW A & RENE M",121 ADAMS ST ,0.146,364700,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1339.png
+1342,UNITED STATES DEPARTMENT OF INTERIOR,109 JEFFERSON ST ,0.28,340800,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1342.png
+1345,"MAHONE, RICHARD DALEY JR & CAROL R",502 CAPITOL LANDING RD ,0.194,297100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1345.png
+1349,HARRY T HART & ELTA M HART REVOCABLE LIVING TRUST,505 CAPITOL LANDING RD ,0.125,352300,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1349.png
+1354,RME HOLDINGS LLC,603 CAPITOL LANDING RD ,0.136,240300,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/1354.png
+1356,"COUMBE, ARTHUR T & DEBORAH",511 CAPITOL LANDING RD ,0.201,490200,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/1356.png
+1359,"CONLEE, JOHN W & A M ET AL",706 MONUMENTAL AVE ,0.166,273100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1359.png
+1360,"Weagle, Steven",708 MONUMENTAL AVE ,0.161,221400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1360.png
+1362,"MLHP, LLC",712 MONUMENTAL AVE ,0.161,328200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1362.png
+1363,MONUMENTAL AVENUE LLC,714 MONUMENTAL AVE ,0.161,222400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1363.png
+1365,WDPWRM REVOCABLE TRUST,717 HAMILTON ST ,0.186,263500,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1365.png
+1366,"Funk, Dennis A Tr & Funk, Qui N Tr",715 HAMILTON ST ,0.161,266300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1366.png
+1376,"WEHRMANN, CAROL L",708 HAMILTON ST ,0.16,215300,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1376.png
+1382,"Anatolian, Ugur & Natasha Helena",7 GROVE AVE ,0.158,331500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1382.png
+1386,RME HOLDINGS LLC,715 MONUMENTAL AVE ,0.275,241500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1386.png
+1389,BRC Company LLC,707 MONUMENTAL AVE ,0.21,282400,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1389.png
+1390,"HIROSE, ROY Y, TR & CAROLE J, TR",705 MONUMENTAL AVE ,0.209,263500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1390.png
+1394,RME HOLDINGS LLC,501 PAGE ST ,0.21,228100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1394.png
+1395,PROUD DOG PROPERTIES V LLC,703 TANYARD ST ,0.172,260400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1395.png
+1396,TANYARD 705 LLC,705 TANYARD ST ,0.17,218800,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1396.png
+1400,"BULLINGTON, JAY A & PARR, PATRICIA M",15 GROVE AVE ,0.161,275800,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1400.png
+1402,"BULLINGTON, JAY A & PARR, PATRICIA M",19 GROVE AVE ,0.135,230900,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/1402.png
+1406,"CLARK, FRANK R & BITTINGER, GAIL M",704 TANYARD ST ,0.15,246600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1406.png
+1407,"LOWRY, CHRISTINA LYNN",702 TANYARD ST ,0.146,287400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1407.png
+1408,"Sartain, Dean & Bailey, Angela",700 TANYARD ST ,0.101,242800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1408.png
+1416,"MEADOWS, MARK K & GEMMA C",401 SURI DR ,0.1,437500,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1416.png
+1419,"Pierce, Ray W Jr & Pierce, Linda M & Pierce, Richard Earle",811 CAPITOL LANDING RD ,0.337,203300,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1419.png
+1421,"PIERCE, RAY W JR & LINDA M",815 CAPITOL LANDING RD ,0.305,257900,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1421.png
+1422,"Nice Heritage, LLC",819 CAPITOL LANDING RD ,0.186,284000,Single-Family (Rental) ,0.0,1.0,4.0,0.0,
+1426,"SMITH, JOHN M",103 HANGMANS LN ,0.275,150200,Single-Family (Rental) ,1.0,1.0,2.0,1.0,data/property_data/image_data/1426.png
+1613,W R H A,210 STRAWBERRY PLAINS RD UNIT #A,0.4,166600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1613.png
+1614,"CIMON, COREY J",216 STRAWBERRY PLAINS RD ,0.58,286300,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1614.png
+1616,"Kelly, Jennie L",210 STRAWBERRY PLAINS RD UNIT #C,0.55,190600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1616.png
+1624,"BITLER, JONATHAN E & MARGARET J",202 STRAWBERRY PLAINS RD ,0.192,163800,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1624.png
+1630,"Popham, Wayne Robert",606 COLLEGE TER ,0.293,672500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1630.png
+1631,"SMITH, EDWINA M, TR",608 COLLEGE TER ,0.312,601900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1631.png
+1643,"Mason, John Mark TR",506 RANDOLPH ST ,0.122,450000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1643.png
+1646,"Hill, Evelyn Ruth & Brown, Alexis Sara",520 RANDOLPH ST ,0.097,520400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1646.png
+1647,"SCHWARTZ, KEVIN G & NOREEN M & ERIN",519 RICHMOND RD ,0.187,808400,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/1647.png
+1650,"Davis, Thomas D & Amerika C",501 RANDOLPH ST ,0.172,912900,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/1650.png
+1658,745 Scotland LLC,745 SCOTLAND ST ,0.121,424200,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1658.png
+1662,"CRAWFORD, MAGNOLIA J",114 BRAXTON CT ,0.114,506600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1662.png
+1663,LOUIS E CHUCKNEY LLC,122 BRAXTON CT ,0.104,458800,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1663.png
+1664,"Gerst, Doris H & Gerst, Darrin H & Stewart, Jean E Gerst",124 BRAXTON CT ,0.098,463400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1664.png
+1667,"Robert Arnold Braxton & Hazel Pittman Braxton Revocable Living Trust & Braxton, Grego",120 BRAXTON CT ,0.115,434600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1667.png
+1668,"Stewart, Victor Alan Jr",118 BRAXTON CT ,0.115,487600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1668.png
+1669,"REI Real Estate Ventures, LLC",116 BRAXTON CT ,0.115,497100,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1669.png
+1671,"CAMPBELL, TIMOTHY J",104 BRAXTON CT ,0.115,468800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1671.png
+1672,"Schneider, Ingrid Kvam",100 BRAXTON CT ,0.071,606000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1672.png
+1679,"Rys, Godfrey E III & Lori V",406 HARRIET TUBMAN DR ,0.158,469300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1679.png
+1680,"OLSON, CHASE ELLIOT",408 HARRIET TUBMAN DR ,0.132,423900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1680.png
+1687,GRAHAM ALBERT TRICORN RENTALS LLC,420 HARRIET TUBMAN DR ,0.156,400300,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/1687.png
+1689,"MATHES, MARTIN C, TR",413 HARRIET TUBMAN DR ,0.113,311800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1689.png
+1690,"Brown, James H Jr & Connors, Mary J & Doyal, Reedia & Scarborough, Betty &",411 HARRIET TUBMAN DR ,0.111,312900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1690.png
+1691,"JOHNSON, KAREN",409 HARRIET TUBMAN DR ,0.113,300400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1691.png
+1692,MGB Living LLC,407 HARRIET TUBMAN DR ,0.117,423300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1692.png
+1693,"WM Griffin House, LLC",405 HARRIET TUBMAN DR ,0.117,418000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1693.png
+1697,"Hitchens, Mamie Ruth",204 LAFAYETTE ST ,0.119,395400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1697.png
+1732,"HEMPHILL, JAMES W & GAIL I",331 N HENRY ST ,0.184,588600,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1732.png
+1743,"Thomas, David & Kerrilynne & Shea Danielle",514 SCOTLAND ST ,0.096,440200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1743.png
+1773,424 Scotland Street LLC,424 SCOTLAND ST ,0.132,612000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1773.png
+1775,"Coal, LLC",402 SCOTLAND ST ,0.162,608000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1775.png
+1844,"Armistead, Robert Travis Jr. ",200 PRINCE GEORGE ST ,0.149,496100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1844.png
+1968,"Witten, Richard Mahone",408 CAPITOL LANDING RD ,0.149,337400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1968.png
+1971,MHLP LLC,400 CAPITOL LANDING RD ,0.149,351400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1971.png
+2010,A & A Properties LLC,506 CAPITOL CT ,0.328,334100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2010.png
+2020,Seu Family Trust,118 PENNIMAN RD ,0.184,174400,Single-Family (Rental) ,0.0,2.0,2.0,2.0,data/property_data/image_data/2020.png
+2041,"MANNO, MICHAEL & CAROL ANN",407 CAPITOL LANDING RD ,0.578,623800,Single-Family (Rental) ,1.0,4.0,6.0,1.0,data/property_data/image_data/2041.png
+2066,"HEWLETT, DALE M & CARRIE C",218 STRAWBERRY PLAINS RD ,0.37,213000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2066.png
+2070,"TYNES, LAWRENCE, JR",238 STRAWBERRY PLAINS RD ,0.43,116100,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/2070.png
+2080,"Bommer, Stephen K",802 JAMESTOWN RD ,0.327,1212500,Single-Family (Rental) ,0.0,8.0,6.0,4.0,data/property_data/image_data/2080.png
+2089,T Kevin DeNicola Revocable Trust & Nancy Hope Flynn DeNicola Revocable Trust,703 POWELL ST ,0.275,638000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2089.png
+2096,"Smoltz, Elizabeth",675 POWELL ST ,0.4445,525700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2096.png
+2103,Pinkney Corporation,303 WALTZ FARM DR ,0.26,205800,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2103.png
+2112,BRC Company LLC,105 INDIAN SPRINGS RD ,0.096,452400,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2112.png
+2114,INDIAN SPRINGS LLC,107 INDIAN SPRINGS RD ,0.268,622700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2114.png
+2123,"Kushan, Jeffrey Paul & Mary Hallahan",305 INDIAN SPRINGS RD ,0.168,677000,Single-Family (Rental) ,2.0,2.0,4.0,1.0,data/property_data/image_data/2123.png
+2124,"Macrini, Anthony R III",307 INDIAN SPRINGS RD ,0.239,682600,Single-Family (Rental) ,0.0,4.0,5.0,1.0,data/property_data/image_data/2124.png
+2130,TRUSTEES OF TEMPLE BETH EL OF WILLIAMSBURG,106 INDIAN SPRINGS RD ,0.17,447900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2130.png
+2132,"GILLETT, ELIZABETH G, TR",604 JAMESTOWN RD ,0.385,789400,Single-Family (Rental) ,0.0,4.0,5.0,2.0,data/property_data/image_data/2132.png
+2133,MIDAS INC,608 JAMESTOWN RD ,0.28,524900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2133.png
+2138,C C Casey Sons LLC,114 GRIFFIN AVE ,0.115,422000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2138.png
+2141,"BELL, BAXTER I JR, TR",103 CARY ST ,0.115,452600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2141.png
+2146,"SHELLY, GARY L & CARLSON, ELAINE M",100 CHANDLER CT ,0.139,654900,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2146.png
+2150,Thomas Z Wilke Living Trust,119 GRIFFIN AVE ,0.126,630000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2150.png
+2151,MIDAS INC,201 GRIFFIN AVE ,0.103,498500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2151.png
+2158,"Casey, Lewis C",230 GRIFFIN AVE ,0.115,641000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2158.png
+2159,"SHELLY, GARY L & WILKE, THOMAS Z",228 GRIFFIN AVE ,0.115,672000,Single-Family (Rental) ,1.0,3.0,4.0,2.0,data/property_data/image_data/2159.png
+2161,LONE-G INC,303 CARY ST ,0.169,517500,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2161.png
+2163,"CW 302 Griffin, LLC",302 GRIFFIN AVE ,0.181,607600,Single-Family (Rental) ,0.0,3.0,5.0,2.0,data/property_data/image_data/2163.png
+2164,"SHELLY, GARY L & CARLSON, ELAINE MARY",404 NORFOLK ST ,0.068,462400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2164.png
+2165,"KATHARINE R CHUCKNEY, LLC",400 NORFOLK ST ,0.069,460600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2165.png
+2174,"Asano, Gary Y TR",3 POLLARD PARK ,0.264,877600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2174.png
+2178,"CANNETTI, RAYMOND J, TR & KING, JULIA A, TR",1 BALLARD LN ,0.117,560400,Single-Family (Rental) ,1.0,2.0,2.0,1.0,data/property_data/image_data/2178.png
+2181,"GLAZENER, MICOU S",409 GRIFFIN AVE ,0.258,562200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2181.png
+2183,"PANOS, HELEN",410 GRIFFIN AVE ,0.115,570200,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2183.png
+2185,SUSSEX INC,309 CARY ST ,0.189,497500,Single-Family (Rental) ,0.0,2.0,4.0,2.0,data/property_data/image_data/2185.png
+2193,"PRAKASH, RACHNA",127 INDIAN SPRINGS RD ,0.28,805800,Single-Family (Rental) ,1.0,4.0,5.0,2.0,data/property_data/image_data/2193.png
+2195,"Lee, Yi Ching & Chung, Tingting",131 INDIAN SPRINGS RD ,0.388,740100,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2195.png
+2202,"STATHOPOULOS, ANDREAS & SMIRNI, EVGENIA",120 INDIAN SPRINGS RD ,0.188,563500,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2202.png
+2203,"POERTNER, WILLIAM K & KATHY M",118 INDIAN SPRINGS RD ,0.166,573800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2203.png
+2206,"Kalomiris, Vasilios E TR & Kalomiris, Anne TR",308 CARY ST ,0.455,665600,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/2206.png
+2207,"Kalomiris, Michael",310 CARY ST ,0.234,491900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2207.png
+2231,LTBS LLC,309 S BOUNDARY ST ,0.075,445400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2231.png
+2232,STB LLC,313 S BOUNDARY ST ,0.138,459600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2232.png
+2235,"GLAZENER, CHARLES H & MICOU S",319 S BOUNDARY ST ,0.324,1784600,Single-Family (Rental) ,2.0,6.0,5.0,1.0,data/property_data/image_data/2235.png
+2237,"GLAZENER, SACIA HALL",409 S BOUNDARY ST ,0.149,441200,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2237.png
+2244,"REID, MARY E",506 S BOUNDARY ST ,0.143,593200,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/2244.png
+2248,"SHS Propco, LLC",620 S HENRY ST ,0.101,513000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2248.png
+2250,SHS Propco LLC,623 S HENRY ST ,0.087,502500,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/2250.png
+2259,"WALLACE, CAROLYN R",500 NEWPORT AVE ,0.177,645400,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2259.png
+2265,"Gibson, Anthony J & Cynthia L",518 NEWPORT AVE ,0.16,654500,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2265.png
+2275,"Fortune, Joel R",503 NEWPORT AVE ,0.172,734800,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2275.png
+2304,SHS Propco LLC,621 S HENRY ST ,0.134,576200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2304.png
+2366,COLONIAL WILLIAMSBURG FOUNDATION,420 TYLER ST ,0.459,612800,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/2366.png
+2367,COLONIAL WILLIAMSBURG FOUNDATION,410 TYLER ST ,0.517,698100,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2367.png
+2371,COLONIAL WILLIAMSBURG FOUNDATION,414 S ENGLAND ST ,0.15,464900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2371.png
+2373,ALGONQUIN INVESTMENTS LLC,107 WILLIAMSBURG AVE ,0.075,411200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2373.png
+2374,ALGONQUIN INVESTMENTS LLC,111 WILLIAMSBURG AVE ,0.075,425400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2374.png
+2381,COLONIAL WILLIAMSBURG FOUNDATION,510 TYLER ST ,0.287,436600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2381.png
+2382,COLONIAL WILLIAMSBURG FOUNDATION,528 TYLER ST ,0.75,750900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2382.png
+2387,C Allan Bamforth Jr Revocable Trust,509 TYLER ST ,0.149,502600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2387.png
+2389,"SNIPES, MARJORIE MOORE",507 TYLER ST ,0.149,481700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2389.png
+2393,"Kelafant, Jonathan R. & Barbara R., Trustees",505 S ENGLAND ST ,0.287,928800,Single-Family (Rental) ,0.0,3.0,5.0,0.0,
+2394,COLONIAL WILLIAMSBURG FOUNDATION,507 S ENGLAND ST ,0.287,589800,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2394.png
+2395,COLONIAL WILLIAMSBURG FOUNDATION,509 S ENGLAND ST ,0.29,572900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2395.png
+2396,COLONIAL WILLIAMSBURG FOUNDATION,515 S ENGLAND ST ,0.468,590600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2396.png
+2410,"WILLIAMSON, ROBERT K & SANDY C",513 TYLER ST ,0.19,1110600,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/2410.png
+2411,"Foster, Cheryl A TR",511 TYLER ST ,0.19,727800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2411.png
+2421,COLONIAL WILLIAMSBURG FOUNDATION,405 S ENGLAND ST ,1.15,4004800,Single-Family (Rental) ,7.0,6.0,5.0,2.0,data/property_data/image_data/2421.png
+2440,HDP LLC,305 POWHATAN ST ,0.115,103500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2440.png
+2441,"PICKIN, HARRIETT DALE, TR",307 POWHATAN ST ,0.172,215000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2441.png
+2442,HDP LLC,309 POWHATAN ST ,0.115,103500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2442.png
+2446,"TABB, CALVIN R & VIOLA",308 POCAHONTAS ST ,0.115,209000,Single-Family (Rental) ,1.0,1.0,2.0,1.0,data/property_data/image_data/2446.png
+2447,"ELLIS, CHARLOTTE L",310 POCAHONTAS ST ,0.23,324600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2447.png
+2452,"CARRITHERS, DONALD R",403 POCAHONTAS ST ,0.115,150100,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2452.png
+2457,"JONES, RHONDA LEWIS",402 POCAHONTAS ST ,0.23,193000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2457.png
+2458,"Regelski, Gregory T",410 POCAHONTAS ST ,0.266,383300,Single-Family (Rental) ,0.0,3.0,4.0,2.0,data/property_data/image_data/2458.png
+2461,G-SQUARE INC,507 YORK ST ,0.429,452900,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2461.png
+2474,Quarterpath Associates LP,205 QUARTERPATH RD ,0.206,310000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2474.png
+2475,Quarterpath Associates LP,203 QUARTERPATH RD ,0.08,228900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2475.png
+2476,"Golden Pond, Inc & Spalone, Samuel S",201 QUARTERPATH RD ,0.147,154300,Single-Family (Rental) ,0.0,2.0,3.0,2.0,data/property_data/image_data/2476.png
+2489,"Frey, Alice M",206 GOVERNORS DR ,0.32,483600,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2489.png
+2493,"Hutton, William Evan & Jones, Martha Taylor",101 WALNUT HILLS DR ,0.31,500700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2493.png
+2500,"SMOLENYAK, BRIAN P & MEGAN A",115 WALNUT HILLS DR ,0.39,510000,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/2500.png
+2509,"Coleman, Kelly & McKeown, Marie-Victorine",110 WALNUT HILLS DR ,0.6,567200,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2509.png
+2514,"GREER, JACQUELINE J, TR",15 BAYBERRY LN ,0.834,487500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2514.png
+2525,LONE-G INC,207 MILL NECK RD ,0.68,390000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2525.png
+2526,"CHURCH, METHODIST-",194 MILL NECK RD ,0.3,667300,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2526.png
+2536,"SKIFF, PETER",9 CANTERBURY LN ,0.621,636400,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2536.png
+2543,"BROWN, RICHARD & JUDITH C",946 JAMESTOWN RD ,0.31,479800,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2543.png
+2546,"JONES, GABRIELLE R",226 ROLFE RD ,0.25,509900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2546.png
+2549,"DWYER, JAMES G, TR",220 ROLFE RD ,1.1,557200,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/2549.png
+2560,"Maslin, Edward F TR",136 MILL NECK RD ,0.77,569700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2560.png
+2567,"SERGHI, SOPHIA",230 ROLFE RD ,0.196,498900,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2567.png
+2568,"STATHOPOULOS, ANDREAS & SMIRNI, EVGENIA",234 ROLFE RD ,0.187,472400,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2568.png
+2570,Alice M Mountjoy Revocable Trust,111 ROLFE RD ,0.49,635600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2570.png
+2573,"Dwyer, James G",141 ROLFE RD ,0.95,682900,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/2573.png
+2578,U CABINS LLC,712 POWELL ST ,0.609,542100,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2578.png
+2584,"STAUFFER, JAMES L",701 GOODWIN ST ,0.275,410900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2584.png
+2587,"BILLINGS, WARREN MARTIN & CAROL DUNLAP",707 GOODWIN ST ,0.275,550800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2587.png
+2588,"MIDAS, INC.",711 GOODWIN ST ,0.413,784000,Single-Family (Rental) ,0.0,4.0,4.0,1.0,data/property_data/image_data/2588.png
+2590,"Hunt, Anne E & Grabowski, Charlene M.",700 GOODWIN ST ,0.41,663800,Single-Family (Rental) ,1.0,4.0,4.0,1.0,data/property_data/image_data/2590.png
+2597,"Tyndall, Meg & O'Hearn, Brian",310 BURNS LN ,0.418,490100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2597.png
+2602,LCM PROPERTY HOLDINGS LLC,309 BURNS LN ,0.94,600900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2602.png
+2613,PETER M CROW REVOCABLE TRUST AGREEMENT,340 BURNS LN ,5.03,727000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2613.png
+2636,"Field, Michael Lee Jr",311 INDIAN SPRINGS RD ,0.52,858800,Single-Family (Rental) ,2.0,2.0,4.0,1.0,data/property_data/image_data/2636.png
+2641,"KENNEY, KEVIN M & LEE MARGARET",112 SIR THOMAS LUNSFORD DR ,1.278,258800,Single-Family (Rental) ,1.0,3.0,4.0,0.0,
+2651,"BLAISDELL, JAMES P",209 INDIAN SPRINGS RD ,0.25,643900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2651.png
+2652,MCCONNELL FAMILY TRUST,211 INDIAN SPRINGS RD ,0.25,685100,Single-Family (Rental) ,0.0,3.0,4.0,2.0,data/property_data/image_data/2652.png
+2655,"SPURZEM, HARRISON A",134 INDIAN SPRINGS RD ,0.171,532000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2655.png
+2659,"GERLACH, JEFFREY R",408 IDLEWOOD LN ,0.295,503100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2659.png
+2660,"KING, HAROLD BAKER JR",410 IDLEWOOD LN ,0.279,624100,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2660.png
+2661,"SERGHI, SOPHIA",412 IDLEWOOD LN ,0.9,655900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2661.png
+2662,"SERGHI, SOPHIA",413 IDLEWOOD LN ,0.283,512300,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2662.png
+2664,"Roberts, Colby & Colley, Jay W",116 MIMOSA DR ,0.39,430200,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2664.png
+2665,"Roberts, Colby & Colley, Jay W",118 MIMOSA DR ,0.44,430200,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2665.png
+2666,"SHELLY, GARY L",120 MIMOSA DR ,0.402,247300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2666.png
+2670,"Prince, Nelson B. & Janet S.",128 MIMOSA DR ,0.403,532700,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/2670.png
+2700,"Millison, Dan B  Co-TR & Rasmussen, Anne K Co-TR",119 MIMOSA DR ,0.336,274800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2700.png
+2701,BSP Williamsburg LLC,117 MIMOSA DR ,0.448,526000,Single-Family (Rental) ,1.0,6.0,6.0,1.0,data/property_data/image_data/2701.png
+2702,"SHELLY, GARY L",115 MIMOSA DR ,0.84,331400,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/2702.png
+2705,"SHERMAN, DAVID R, TR & KARLA N, TR",628 S HENRY ST ,0.048,255400,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/2705.png
+2710,"GENAKOS, STEPHEN G",111 MIMOSA DR ,0.269,251600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2710.png
+2712,114 MIMOSA LLC,114 MIMOSA DR ,0.328,238500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2712.png
+2713,GARY R FANNIN REVOCABLE TRUST & DIANE S FANNIN REV,112 MIMOSA DR ,0.328,246200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2713.png
+2714,Mimosa 110 LLC,110 MIMOSA DR ,0.057,179500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2714.png
+2762,Mountain Rehabilitation LLLP,606 POCAHONTAS ST ,0.115,110900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2762.png
+2764,"RICHARD, RYAN L & RHODES, GINA L",610 POCAHONTAS ST ,0.157,219100,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2764.png
+2766,"DILLINGHAM, JAMES GEORGE & LAURA MALIA",505 POCAHONTAS ST ,0.115,192200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2766.png
+2769,"WYNNE, WARREN O & MABLE V",513 POCAHONTAS ST ,0.161,162700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2769.png
+2771,"Richard, Ryan",603 POCAHONTAS ST ,0.115,132300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2771.png
+2772,"FUTRELL, BENNIE R & CARMEN Y",607 POCAHONTAS ST ,0.115,245900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2772.png
+2794,"WALKER, ROBERT F, TR",515 MILL NECK RD ,0.429,384500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2794.png
+2795,"PANOS, GEORGE",521 MILL NECK RD ,0.396,516900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2795.png
+2806,"BONO, CHARLES E & NORDSTROM-BONO, JUDY",413 MILL NECK RD ,0.3,303500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2806.png
+2808,"Hall, Dorothy & Sullivan, David",115 JOHN TYLER LN ,0.31,538800,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2808.png
+2813,"Long Family Properties Virginia, LLC",105 JOHN TYLER LN ,0.46,455800,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2813.png
+2815,"Bono, Charles E & Nordstrom-Bono, Judy G",118 BERKELEY LN ,0.41,360400,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2815.png
+2841,Lone-G Inc,108 JOHN TYLER LN ,0.41,495000,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2841.png
+2982,"Roberts, Jeffrey W TR",204 JONES MILL LN ,1.109,861100,Single-Family (Rental) ,1.0,4.0,5.0,1.0,data/property_data/image_data/2982.png
+2986,"Raskin, James R. & Gail E.",213 SIR THOMAS LUNSFORD DR ,0.402,891100,Single-Family (Rental) ,2.0,3.0,4.0,1.0,data/property_data/image_data/2986.png
+2990,SKA PROPERTIES LLC,229 SIR THOMAS LUNSFORD DR ,0.44,768000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2990.png
+2994,EDWIN SCOTT & CHERYL LYNN ORR TRUST,224 SIR THOMAS LUNSFORD DR ,0.526,851500,Single-Family (Rental) ,1.0,4.0,6.0,1.0,data/property_data/image_data/2994.png
+3012,"Foster, Tracy A",121 SIR THOMAS LUNSFORD DR ,0.507,1085500,Single-Family (Rental) ,1.0,6.0,5.0,1.0,data/property_data/image_data/3012.png
+3036,"MIYAMASU, MARY KEIKO, TR",6 HAGUE CLOSE ,0.33,638200,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3036.png
+3043,"Armstrong, Ronald E & Armstrong, Debra A",3 THE PALISADES ,0.25,759700,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/3043.png
+3051,"Dobbins, John B & Mianna R",14 THE PALISADES ,0.162,891900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/3051.png
+3074,"NAGRAJ, HOSKOTE S & ANNETTE M",113 SIR THOMAS LUNSFORD DR ,0.447,508600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3074.png
+3087,"Hinrichs, Joseph R TR & Hinrichs, Maria E TR",224 HOLLY HILLS DR ,1.544,1881800,Single-Family (Rental) ,2.0,4.0,5.0,1.0,data/property_data/image_data/3087.png
+3096,"Horlick, Michael D TR",1 CHANTERAINE CLOSE ,0.34,513400,Single-Family (Rental) ,1.0,2.0,2.0,1.0,data/property_data/image_data/3096.png
+3100,"Ritchie, Tannas Dale TR & Ritchie, Johnna Morrison TR",4 CHANTERAINE CLOSE ,0.23,655600,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/3100.png
+3108,"SUSLAVICH, FRANK J & NANCY T",1 HAGUE CLOSE ,0.2,600100,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3108.png
+3109,"Coutino, Maria Orlena Garcia",140 WILLIAM WAY ,0.37,668900,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/3109.png
+3126,"KING, LEON GARY, TR & GAIL ELIZABETH, TR",5 WILDWOOD LN ,0.18,594200,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3126.png
+3303,CONDOR PROPERTIES AT WILLIAMSBURG,509 SHAINDEL DR ,0.127,500000,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3303.png
+3419,"Prince, Ryan Thomas & Courtney Dionne",305 YORKSHIRE DR ,0.408,790900,Single-Family (Rental) ,2.0,3.0,4.0,1.0,data/property_data/image_data/3419.png
+3423,"NASSABI, JENNIFER LYNN & ASHKAN BAHRAMI",325 YORKSHIRE DR ,0.423,738500,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3423.png
+3424,"Everist, Donald G",329 YORKSHIRE DR ,0.431,798100,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3424.png
+3521,"KIM, YOUNG SIL & YUNG S",108 SHAINDEL DR ,0.078,432300,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3521.png
+3588,"WILLIAMS, STEPHEN & LUCIA",231 SHAINDEL DR ,0.123,456300,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3588.png
+3595,CITY OF WILLIAMSBURG,223 LONGHILL RD ,0.31,206000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/3595.png
+3624,"McRae, Joanne",208 SURI DR ,0.098,469000,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3624.png
+3634,JLH Holdings LLC,104 SURI DR ,0.137,457700,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3634.png
+3704,"Holzer, Mark W & Deborah O",517 SURI DR ,0.116,445700,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3704.png
+3707,"NOVACK, JOHN M, TR & SUSAN C, TR",416 SURI DR ,0.113,524800,Single-Family (Rental) ,1.0,4.0,4.0,1.0,data/property_data/image_data/3707.png
+3711,Hinnant Family Trust,400 SURI DR ,0.1,433600,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3711.png
+3716,"Buckhalter, Brenda B & Christopher S",409 SHAINDEL DR ,0.107,521800,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/3716.png
+3718,"Burke, Margaret Lever TR",417 SHAINDEL DR ,0.114,451900,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3718.png
+3726,"ENG, ALBERT & HSIN, CINDY FUNG KAY",260 PATRICKS XING ,0.291,503900,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3726.png
+3866,"Veras, Fausto E & Diadina",308 BAILEY DR ,0.193,418000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/3866.png
+3882,"MATHEW, GEORGE ",400 SHAINDEL DR ,0.127,518100,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/3882.png
+3917,"Gustavsen, William S & Jennifer Lynne",109 PEARL ST ,0.126,304700,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3917.png
+3955,"BUJOLD, KATHRYN L S & BREEDING, PAULINE & KING, DA",104 WATSON DR ,0.168,265000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/3955.png
+3999,NUNN LLC,206 ROLFE RD ,3.217,954700,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/3999.png
+4022,FREDERICK WILLS BOELT REVOCABLE LIVING TRUST & BOE,736 SCOTLAND ST ,0.057,471900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/4022.png
+4025,GRH LLC,120 LONGHILL RD ,0.237,199300,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/4025.png
+4033,G-SQUARE INC,113 SHIRLEY AVE ,0.113,312000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/4033.png
+4034,SUSSEX INC,726 CAPITOL LANDING RD ,0.18,413400,Single-Family (Rental) ,1.0,1.0,2.0,1.0,data/property_data/image_data/4034.png
+4038,ALGONQUIN INVESTMENTS LLC,119 MATOAKA CT ,0.786,444200,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/4038.png
+4058,"Bogger, Tommy L & Nannie H",506 POCAHONTAS ST ,0.115,114000,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/4058.png
+4105,STILLNOLEFTA LLC,314 IRONBOUND RD ,0.08,102000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/4105.png
+4130,BROOKS LAND CORPORATION,107 BACON AVE ,0.115,312000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/4130.png
+4135,"Staik, Howard & Athena",410 LEWIS BURWELL PL ,0.204,458500,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/4135.png
+4154,"LEMERE, NICHOLAS A & MARY ANN G",134 MIMOSA DR ,0.69,346900,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/4154.png
+4168,"Lockwood, Amy K",416 DUNNING ST ,0.344,118000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/4168.png
+4171,C C Casey Sons LLC,715 LAFAYETTE ST ,1.49,624600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/4171.png
+4296,"Scudi, John T & Scudi, Patricia B",305 CAPITOL LANDING RD ,0.147,768200,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/4296.png
+4323,Mahone Family Limited Partnership LLP,1039 CAPITOL LANDING RD ,5.836,463300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/4323.png
+4324,Mahone Family Limited Partnership LLP,1037 CAPITOL LANDING RD ,1.879,359800,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/4324.png
+4325,Mahone Family Limited Partnership LLP,1011 CAPITOL LANDING RD ,1.051,333400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/4325.png
+4334,"Crow, Peter M TR & Swagler, Carol Anne TR",334 BURNS LN ,1.779,753600,Single-Family (Rental) ,1.0,3.0,2.0,1.0,data/property_data/image_data/4334.png
+4498,William And Mary Real Estate Foundation,605 WYTHE LN ,0.129,1325000,Single-Family (Rental) ,1.0,4.0,4.0,1.0,data/property_data/image_data/4498.png
+4552,"Fab 5S, LLC",805 LAFAYETTE ST ,0.161,594400,Single-Family (Rental) ,0.0,4.0,4.0,1.0,data/property_data/image_data/4552.png
+4556,"Corson, Charles F TR & Corson Gayle E TR",931 N HENRY ST ,0.435,66200,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/4556.png
+4624,509 Randolph Street LLC,509 RANDOLPH ST ,0.221,534600,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/4624.png
+79491,"Armstrong, Ronald E & Armstrong, Debra A",204 POCAHONTAS ST ,0.122,576900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/79491.png
+110779,"Blacano, Laura E",937 N HENRY ST ,0.764,82700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/110779.png
+1020,"LING, MICHAEL PEK-MING & YEOH, ADELINE BENG GAIK",126 MATOAKA CT ,0.367,612500,Single-Family (Rental) 4 Person,0.0,3.0,3.0,1.0,data/property_data/image_data/1020.png
+1031,201 MATOAKA COURT LLC,201 MATOAKA CT ,0.475,393800,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/1031.png
+1032,REVOCABLE LIVING TRUST AGREEMENT OF JOSEPH ANTHONY,203 MATOAKA CT ,0.475,455000,Single-Family (Rental) 4 Person,1.0,2.0,5.0,1.0,data/property_data/image_data/1032.png
+1035,BARRY FAMILY TRUST,209 MATOAKA CT ,0.413,595000,Single-Family (Rental) 4 Person,0.0,2.0,4.0,1.0,data/property_data/image_data/1035.png
+1098,"Mason, Taylor M & Mason, Pamela H",1007 LAFAYETTE ST ,0.129,528000,Single-Family (Rental) 4 Person,0.0,3.0,4.0,1.0,data/property_data/image_data/1098.png
+1114,"Mackert, George P & Sharon",116 MATOAKA CT ,0.331,595000,Single-Family (Rental) 4 Person,0.0,4.0,5.0,1.0,data/property_data/image_data/1114.png
+1119,BARRY FAMILY TRUST,121 MATOAKA CT ,0.413,630000,Single-Family (Rental) 4 Person,0.0,2.0,3.0,1.0,data/property_data/image_data/1119.png
+1151,"Casey, Calvin Lewis Estate Et al & 721 Richmond Road LLC",721 RICHMOND RD ,0.809,900000,Single-Family (Rental) 4 Person,0.0,5.0,6.0,1.0,data/property_data/image_data/1151.png
+1171,"KONEFAL, STEPHAN V & BETSY O",203 NELSON AVE ,0.161,522000,Single-Family (Rental) 4 Person,0.0,3.0,3.0,1.0,data/property_data/image_data/1171.png
+1172,LJ PROPERTY HOLDINGS LLC,205 NELSON AVE ,0.161,612000,Single-Family (Rental) 4 Person,1.0,3.0,4.0,1.0,data/property_data/image_data/1172.png
+1666,LONE-G INC,126 BRAXTON CT ,0.115,615000,Single-Family (Rental) 4 Person,1.0,2.0,3.0,1.0,data/property_data/image_data/1666.png
+1670,LONE-G INC,106 BRAXTON CT ,0.115,750000,Single-Family (Rental) 4 Person,1.0,5.0,5.0,1.0,data/property_data/image_data/1670.png
+2079,LONE-G INC,800 JAMESTOWN RD ,0.201,735000,Single-Family (Rental) 4 Person,0.0,4.0,4.0,1.0,data/property_data/image_data/2079.png
+2081,LONE-G INC,804 JAMESTOWN RD ,0.31,735000,Single-Family (Rental) 4 Person,0.0,4.0,4.0,1.0,data/property_data/image_data/2081.png
+2094,SMEATON FAMILY TRUST,203 BURNS LN ,0.274,656000,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/2094.png
+2110,LONE-G INC,610 JAMESTOWN RD ,0.55,750000,Single-Family (Rental) 4 Person,0.0,4.0,4.0,1.0,data/property_data/image_data/2110.png
+2111,G-SQUARE INC,520 JAMESTOWN RD ,0.265,750000,Single-Family (Rental) 4 Person,0.0,4.0,4.0,1.0,data/property_data/image_data/2111.png
+2127,"Casey, Lewis C",202 INDIAN SPRINGS RD ,0.179,630000,Single-Family (Rental) 4 Person,1.0,2.0,3.0,1.0,data/property_data/image_data/2127.png
+2156,"JOHNSON, THOMAS A & KAREN H",234 GRIFFIN AVE ,0.11,588000,Single-Family (Rental) 4 Person,1.0,3.0,4.0,1.0,data/property_data/image_data/2156.png
+2162,LONE-G INC,307 CARY ST ,0.172,630000,Single-Family (Rental) 4 Person,0.0,5.0,4.0,1.0,data/property_data/image_data/2162.png
+2184,SWEET HOME VIRGINIA LLC,416 GRIFFIN AVE ,0.472,504000,Single-Family (Rental) 4 Person,0.0,3.0,4.0,1.0,data/property_data/image_data/2184.png
+2187,"Sartain, Dean Dale & Wilke, Thomas Z",312 CARY ST ,0.298,626300,Single-Family (Rental) 4 Person,0.0,2.0,3.0,1.0,data/property_data/image_data/2187.png
+2188,LJ PROPERTY HOLDINGS LLC,117 INDIAN SPRINGS RD ,0.414,525000,Single-Family (Rental) 4 Person,1.0,3.0,3.0,1.0,data/property_data/image_data/2188.png
+2191,GCR INVESTMENTS LLC,123 INDIAN SPRINGS RD ,0.273,585400,Single-Family (Rental) 4 Person,0.0,2.0,3.0,1.0,data/property_data/image_data/2191.png
+2243,GRAHAM ALBERT TRICORN RENTALS LLC,504 S BOUNDARY ST ,0.19,576000,Single-Family (Rental) 4 Person,0.0,1.0,4.0,1.0,data/property_data/image_data/2243.png
+2545,"HOWARD, PAUL D & MAUREEN",906 JAMESTOWN RD ,0.298,675000,Single-Family (Rental) 4 Person,1.0,2.0,3.0,1.0,data/property_data/image_data/2545.png
+2569,Lone-G Inc,101 ROLFE RD ,0.298,675000,Single-Family (Rental) 4 Person,0.0,3.0,3.0,1.0,data/property_data/image_data/2569.png
+2580,SMEATON FAMILY TRUST,702 POWELL ST ,0.293,656000,Single-Family (Rental) 4 Person,0.0,2.0,4.0,1.0,data/property_data/image_data/2580.png
+2589,SMEATON FAMILY TRUST,713 GOODWIN ST ,0.327,656000,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/2589.png
+2650,Sterling N Ransone Jr Inheritors Exempt Irrevocable Trust,210 INDIAN SPRINGS RD ,0.25,595000,Single-Family (Rental) 4 Person,0.0,3.0,4.0,1.0,data/property_data/image_data/2650.png
+4019,"SKINNER, WILSON F JR, TR & HOPE S, TR",108 BROOKS ST ,0.433,648000,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/4019.png
+4295,CAPITOL LANDING LLC,205 CARY ST ,0.115,648000,Single-Family (Rental) 4 Person,1.0,3.0,3.0,1.0,data/property_data/image_data/4295.png
+4499,"BOULDEN, ROBERT H II",210 VIRGINIA AVE ,0.172,738000,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/4499.png
+733,"WELLS, GERALD C",124 GOVERNOR BERKELEY RD UNIT #1,0.16,262100,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/733.png
+734,"Zheng, Xiu Yun & Li",124 GOVERNOR BERKELEY RD UNIT #3,0.05,245000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/734.png
+735,"Dapalmtree Properties, LLC",124 GOVERNOR BERKELEY RD UNIT #5,0.05,244000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/735.png
+737,"SINCLAIR, ROBERT G",124 GOVERNOR BERKELEY RD UNIT #9,0.06,247100,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/737.png
+738,"MCGUIRE, DANIEL PATRICK",124 GOVERNOR BERKELEY RD UNIT #11,0.06,247100,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/738.png
+739,CAROLYN P WHITTEN MARITAL TRUST,124 GOVERNOR BERKELEY RD UNIT #13,0.13,260600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/739.png
+740,"Riley, Daniel L",124 GOVERNOR BERKELEY RD UNIT #10,0.1,259100,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/740.png
+742,"Maison De Confort, LLC",124 GOVERNOR BERKELEY RD UNIT #6,0.05,246600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/742.png
+743,"Fox, Paul M",124 GOVERNOR BERKELEY RD UNIT #4,0.06,281500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/743.png
+744,"Krupinski, Mark",124 GOVERNOR BERKELEY RD UNIT #2,0.13,260600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/744.png
+1433,GREGASH15 LLC,285 MERRIMAC TRL UNIT #15,0.051,187000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1433.png
+1434,GREGASH17 LLC,285 MERRIMAC TRL UNIT #17,0.038,162100,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1434.png
+1435,GREGASH19 LLC,285 MERRIMAC TRL UNIT #19,0.056,176400,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1435.png
+1436,"SCHUBRING, PAUL & AMY",285 MERRIMAC TRL UNIT #21,0.052,191100,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1436.png
+1439,"Krupinski, Jonette",285 MERRIMAC TRL UNIT #27,0.034,166800,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1439.png
+1440,"Krupinski, Jonette",285 MERRIMAC TRL UNIT #29,0.034,166800,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1440.png
+1441,"LEGG, SAMUEL BRADFORD II",285 MERRIMAC TRL UNIT #31,0.054,196800,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1441.png
+1445,"Patel, Rashmikant S & Patel, Jayshree R",285 MERRIMAC TRL UNIT #51,0.034,169200,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1445.png
+1448,"MATTHEWS, CHARLES O II AND JUDITH C",285 MERRIMAC TRL UNIT #33,0.053,177700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1448.png
+1449,CDN INVESTMENTS LLC,285 MERRIMAC TRL UNIT #35,0.033,168400,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1449.png
+1452,JACQUELINE R WAYMACK LIVING TRUST,285 MERRIMAC TRL UNIT #41,0.032,166600,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1452.png
+1455,"Boca, Traian F & Ban, Ioana E",285 MERRIMAC TRL UNIT #1,0.039,169900,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1455.png
+1457,"BURDICK, ART",285 MERRIMAC TRL UNIT #5,0.053,190000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1457.png
+1459,"Kahn, Shanna Marie",285 MERRIMAC TRL UNIT #9,0.052,187100,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1459.png
+1461,"ABBOTT, BRENDA J",285 MERRIMAC TRL UNIT #13,0.057,189300,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1461.png
+1465,"Sartain, Dean & Bailey, Angela",285 MERRIMAC TRL UNIT #6,0.031,160000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1465.png
+1466,"Sartain, Dean & Bailey, Angela",285 MERRIMAC TRL UNIT #4,0.032,160000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1466.png
+1467,"Sartain, Dean & Bailey, Angela",285 MERRIMAC TRL UNIT #2,0.061,189500,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1467.png
+1469,"Sessler, Monique N TR",285 MERRIMAC TRL UNIT #22,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1469.png
+1470,"Lee, Roosevelt & Lee, Lydia Banks",285 MERRIMAC TRL UNIT #20,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1470.png
+1472,"FERRELL, ROBERTA A",285 MERRIMAC TRL UNIT #16,0.031,160000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1472.png
+1486,"Krupinski, Jonette",285 MERRIMAC TRL UNIT #52,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1486.png
+1487,"Simmons, Dawn L",285 MERRIMAC TRL UNIT #50,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1487.png
+1488,"Krupinski, Jonette",285 MERRIMAC TRL UNIT #48,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1488.png
+1489,"CONCEPCION, THANIA Y",285 MERRIMAC TRL UNIT #46,0.064,189700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1489.png
+1491,"WIGGINTON, WESLEY A & BRENDA B",285 MERRIMAC TRL UNIT #60,0.032,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1491.png
+1493,"EVONITZ, RICHARD W",285 MERRIMAC TRL UNIT #64,0.032,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1493.png
+1494,"ALLYN, DAVID CLARK & CATHY LYNCH",285 MERRIMAC TRL UNIT #66,0.032,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1494.png
+1495,Mark A. Krupinski,285 MERRIMAC TRL UNIT #68,0.076,190300,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1495.png
+1545,MAPP LIVING TRUST,1 PRIORSLEE LN ,0.06,175000,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/1545.png
+1546,THOMAS W DANA III REVOCABLE LIVING TRUST,3 PRIORSLEE LN ,0.03,202600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1546.png
+1547,"ABDELNOUR, DIANE L",5 PRIORSLEE LN ,0.03,199800,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1547.png
+1549,"Ho, David Tuan & Pham, Hoa Thi Thanh",9 PRIORSLEE LN ,0.04,203200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1549.png
+1556,"LANGENHENNIG, WILLIAM E & ELIZABETH M",23 PRIORSLEE LN ,0.03,199800,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1556.png
+1557,"NORSWORTHY, KEVIN & SUZANNE",25 PRIORSLEE LN ,0.04,203700,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1557.png
+1558,"CLASEN, KENNETH M",27 PRIORSLEE LN ,0.03,199800,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1558.png
+1561,"SASSER, HATTIE J (LIFE EST)",33 PRIORSLEE LN ,0.06,173300,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/1561.png
+1562,"RODGERS, JARED M & MARGARET G",35 PRIORSLEE LN ,0.06,175000,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/1562.png
+1564,JOY & WILLIAM LLC,39 PRIORSLEE LN ,0.04,204400,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1564.png
+1567,"Denby, Timothy David",70 PRIORSLEE LN ,0.06,241200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1567.png
+1573,Leek Properties LLC,58 PRIORSLEE LN ,0.07,241700,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1573.png
+1575,"Klotzbuecher, David L",54 PRIORSLEE LN ,0.04,197500,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1575.png
+1576,"SUNDAR, KODAGANALLUR G & SHARADA",52 PRIORSLEE LN ,0.04,234200,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1576.png
+1578,"WEINBERG, BRIAN & JEANETTE S",48 PRIORSLEE LN ,0.07,213900,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1578.png
+1582,"VAN KESTEREN, JOHN A",40 PRIORSLEE LN ,0.04,203100,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1582.png
+1588,Robert Arnold Braxton & Hazel Pittman Braxton Revocable Living Trust,28 PRIORSLEE LN ,0.04,201200,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1588.png
+1594,"WITHEROW, ELLIS E & HIROKO & EUGENIA O",16 PRIORSLEE LN ,0.06,193100,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1594.png
+1599,"CAMPANA, VINCENT A JR",6 PRIORSLEE LN ,0.04,203100,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1599.png
+1698,MOYE FAMILY TRUST,417 SCOTLAND ST ,0.013,328000,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1698.png
+1699,MOYE FAMILY TRUST,419 SCOTLAND ST ,0.012,324300,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1699.png
+1700,"WAGNER, MICHAEL L, TR & MARY F, TR",421 SCOTLAND ST UNIT #3,0.012,325000,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1700.png
+1704,"Lewis, Jeff & Lewis, Kristen",421 SCOTLAND ST UNIT #6,0.014,346100,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1704.png
+1705,"Scotland Street 421, LLC",421 SCOTLAND ST UNIT #7,0.014,321600,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1705.png
+1706,"Elstner, Earl T Jr & Elstner, Carolyn J & Elstner, Peter Thomas",421 SCOTLAND ST UNIT #8,0.014,320800,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1706.png
+1709,"Fauquier Hunt Properties, LLC",301 N BOUNDARY ST UNIT #2,0.013,323500,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1709.png
+1710,Fauquier Hunt Properties LLC,301 N BOUNDARY ST UNIT #3,0.013,323500,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1710.png
+1711,Fauquier Hunt Properties LLC,301 N BOUNDARY ST UNIT #4,0.013,338000,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1711.png
+1715,"234 N Boundary Street, LLC",234 N BOUNDARY ST ,0.02,591000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1715.png
+1718,"WILHELM, CHARLES E & VICKI S",240 N BOUNDARY ST ,0.026,598800,Town House (Rental),0.0,3.0,3.0,1.0,data/property_data/image_data/1718.png
+1719,JOHN M SIMMONS JR REVOCABLE LIVING TRUST & KRISTIN,242 N BOUNDARY ST ,0.017,625600,Town House (Rental),2.0,2.0,3.0,1.0,data/property_data/image_data/1719.png
+1721,"246 N Boundary Street, LLC",246 N BOUNDARY ST ,0.029,713500,Town House (Rental),0.0,4.0,4.0,1.0,data/property_data/image_data/1721.png
+2290,PITTMAN INVESTMENTS CO LLC,501 S BOUNDARY ST ,0.123,526500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2290.png
+2291,PITTMAN INVESTMENT CO LLC,503 S BOUNDARY ST ,0.067,501800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2291.png
+2292,"WAGGONER, ROBERT & AMANDA M",505 S BOUNDARY ST ,0.055,472300,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/2292.png
+2315,"Eckert, Paul R & Eckert, Deborah A",604 COUNSELORS WAY ,0.032,741700,Town House (Rental),2.0,2.0,3.0,1.0,data/property_data/image_data/2315.png
+2320,"WYKLE, KENNETH R & MARY O",642 COUNSELORS WAY ,0.041,674300,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/2320.png
+2332,"Yates Basement, LLC",660 COUNSELORS WAY ,0.033,628600,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/2332.png
+2397,"Cooley, David M TR & Severson, Marlene J TR",460 TYLER ST ,0.09,667800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2397.png
+2401,"Metzler, Paul Gregory & Metzler, Natalie Hass & Metzler, Madeleine",456 TYLER ST ,0.05,581500,Town House (Rental),0.0,3.0,3.0,1.0,data/property_data/image_data/2401.png
+2403,"FPH And Associates, LLC",454 TYLER ST ,0.05,577900,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2403.png
+2405,BAKER REVOCABLE TRUST,452 TYLER ST ,0.11,756300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2405.png
+3505,"Vette, Christopher A & Vette, Douglas R",2133 S HENRY ST UNIT #45,0.04,303000,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3505.png
+3509,"Two Tulips, LLC",2133 S HENRY ST UNIT #49,0.043,383300,Town House (Rental),1.0,3.0,2.0,1.0,data/property_data/image_data/3509.png
+3532,"GOUGH, WILLIAM H JR",2133 S HENRY ST UNIT #3,0.06,242000,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/3532.png
+3537,"BRITT, KYLE M & CHONG S",2133 S HENRY ST UNIT #6,0.059,216700,Town House (Rental),0.0,1.0,1.0,1.0,data/property_data/image_data/3537.png
+3538,"Kane, Joseph William",2133 S HENRY ST UNIT #7,0.071,212600,Town House (Rental),0.0,1.0,1.0,1.0,data/property_data/image_data/3538.png
+3541,"MATKINS, JUANITA J & SHORT, RAYMOND D",2133 S HENRY ST UNIT #10,0.04,297600,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3541.png
+3545,"Hill, Mary Rogers N",2133 S HENRY ST UNIT #13,0.049,307600,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3545.png
+3555,LISA B COLLIGAN REVOCABLE TRUST,2133 S HENRY ST UNIT #20,0.04,292100,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3555.png
+3557,"BRIGGS, BONNIE ANNE",2133 S HENRY ST UNIT #22,0.04,287900,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3557.png
+3570,"MCSHERRY, MICHAEL & BONNIE",2133 S HENRY ST UNIT #37,0.048,307600,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3570.png
+3578,"Sherri Lynn Powers, Trustee",2133 S HENRY ST UNIT #41,0.04,287200,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3578.png
+3579,"WILLIAMS, RONALD W & HAZEL M",2133 S HENRY ST UNIT #42,0.049,307600,Town House (Rental),0.0,0.0,0.0,0.0,
+4070,"Distaso, Stephen Anthony & Distaso, Alisa Joyce & Distaso, Chloe Teima",223 QUARTERPATH RD ,0.065,340400,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4070.png
+4071,"LAROSE, MARK J",225 QUARTERPATH RD ,0.065,312200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4071.png
+4075,"Scopa, Brian F. & Brittany L. ",105 GREEN ST ,0.06,354700,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/4075.png
+4082,"Dobbins, Matthew J & Dobbins, Colleen M",226 LEWIS BURWELL PL ,0.06,318600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4082.png
+4087,"Minamino, Koichiro",208 LEWIS BURWELL PL ,0.06,334300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4087.png
+4108,"CS1031 Sterling Manor Apartments, DST",1461 MANOR BLVD ,0.105,945000,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4108.png
+4109,"CS1031 Sterling Manor Apartments, DST",1459 MANOR BLVD ,0.055,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4109.png
+4110,"CS1031 Sterling Manor Apartments, DST",1457 MANOR BLVD ,0.055,819000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4110.png
+4111,"CS1031 Sterling Manor Apartments, DST",1455 MANOR BLVD ,0.055,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4111.png
+4112,"CS1031 Sterling Manor Apartments, DST",1453 MANOR BLVD ,0.089,945000,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4112.png
+4113,"CS1031 Sterling Manor Apartments, DST",1451 MANOR BLVD ,0.075,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4113.png
+4114,"CS1031 Sterling Manor Apartments, DST",1449 MANOR BLVD ,0.055,819000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4114.png
+4115,"CS1031 Sterling Manor Apartments, DST",1447 MANOR BLVD ,0.076,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4115.png
+4116,"CS1031 Sterling Manor Apartments, DST",1446 MANOR BLVD ,0.076,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4116.png
+4117,"CS1031 Sterling Manor Apartments, DST",1448 MANOR BLVD ,0.055,819000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4117.png
+4118,"CS1031 Sterling Manor Apartments, DST",1450 MANOR BLVD ,0.074,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4118.png
+4119,"CS1031 Sterling Manor Apartments, DST",1452 MANOR BLVD ,0.088,945000,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4119.png
+4120,"CS1031 Sterling Manor Apartments, DST",1454 MANOR BLVD ,0.055,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4120.png
+4121,"CS1031 Sterling Manor Apartments, DST",1456 MANOR BLVD ,0.055,819000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4121.png
+4122,"CS1031 Sterling Manor Apartments, DST",1458 MANOR BLVD ,0.055,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4122.png
+4123,"CS1031 Sterling Manor Apartments, DST",1460 MANOR BLVD ,0.104,945000,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4123.png
+4137,PAUL & EVELYN KRISIK LIVING TRUST,114 PARK PL ,0.105,370400,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4137.png
+4143,CATHRYNE M GARRETT LIVING TRUST,102 PARK PL ,0.06,331600,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/4143.png
+4145,"WHITMORE, STEVEN M & MARIDEL A",409 QUARTERPATH RD ,0.104,400800,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4145.png
+4147,BECKY Z JANKOWSKI 2006 LIVING TRUST,413 QUARTERPATH RD ,0.06,334300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4147.png
+4220,"MYERS, CHARLES N & LINDA T",406 LEWIS BURWELL PL ,0.104,367200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4220.png
+4225,"CRAWFORD, CHRISTOPHER A & KELLY M",209 QUARTERPATH RD ,0.153,398300,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4225.png
+4253,"Davis, Timothy A & Jeanine B",239 LEWIS BURWELL PL ,0.052,327300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4253.png
+4271,"Magliaro, Brian C & Magliaro, Anne M & Magliaro, Abigail R",403 LEWIS BURWELL PL ,0.052,329200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4271.png
+4275,"STOVER, GREGORY & SHELLEY K",411 LEWIS BURWELL PL ,0.071,340000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4275.png
+4336,Dandy Land LLC,100 CHANTICLEER CT ,0.105,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4336.png
+4337,Dandy Land LLC,104 CHANTICLEER CT ,0.059,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4337.png
+4338,Dandy Land LLC,108 CHANTICLEER CT ,0.115,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4338.png
+4339,Dandy Land LLC,112 CHANTICLEER CT ,0.11,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4339.png
+4340,Dandy Land LLC,116 CHANTICLEER CT ,0.06,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4340.png
+4341,Dandy Land LLC,120 CHANTICLEER CT ,0.195,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4341.png
+4342,Dandy Land LLC,113 CHANTICLEER CT ,0.139,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4342.png
+4343,Dandy Land LLC,117 CHANTICLEER CT ,0.07,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4343.png
+4344,Dandy Land LLC,121 CHANTICLEER CT ,0.217,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4344.png
+4345,Dandy Land LLC,101 CHANTICLEER CT ,0.138,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4345.png
+4346,Dandy Land LLC,105 CHANTICLEER CT ,0.074,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4346.png
+4347,Dandy Land LLC,109 CHANTICLEER CT ,0.14,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4347.png
+4381,ADRIANNE V MCKINNEY REVOCABLE TRUST,108 PARKWAY CT ,0.043,401000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4381.png
+4389,"Palermo, Charles J Sr TR",140 PARKWAY CT ,0.043,353600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4389.png
+4390,"CHANG, ALBERT & CHEN, AMY",144 PARKWAY CT ,0.043,346600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4390.png
+4391,MAGEE LIVING TRUST,148 PARKWAY CT ,0.043,356700,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4391.png
+4403,DIMENSIONS LLC,121 PARKWAY CT ,0.043,402100,Town House (Rental),0.0,3.0,3.0,1.0,data/property_data/image_data/4403.png
+4405,"BARKER, DAVID & SATURNINO, ALONA",113 PARKWAY CT ,0.043,400200,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4405.png
+4407,VOSSEL LIVING TRUST,105 PARKWAY CT ,0.06,416500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4407.png
+4424,"PATTERSON, STEVEN SCOTT & SHANNON MORELOCK",4117 PROSPECT ST ,0.026,386000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4424.png
+4425,"HINCHLIFFE, SARAH & HERMAN, RICHARD",4115 PROSPECT ST ,0.026,399500,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4425.png
+4433,CASEY LIVING TRUST,4103 PROSPECT ST ,0.026,389200,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4433.png
+4434,"Thompson, Matthew William & Mark William & Elizbaeth S",4031 PROSPECT ST ,0.041,406400,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4434.png
+4447,"SCUDI, JOHN T",4124 PROSPECT ST ,0.049,428200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4447.png
+4452,"Paquin, Stephen & Amendola, Maria Grace J",4060 PROSPECT ST ,0.061,432300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4452.png
+4474,"BAKSH, KEMAL FEROZE II & TERRESA ANN",4013 PROSPECT ST ,0.026,389200,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4474.png
+4508,"AREHART, BRADLEY M & RHONDA M",3941 PROSPECT ST ,0.033,400500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4508.png
+4515,"Silk, Brian P",3927 PROSPECT ST ,0.026,402800,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4515.png
+4519,"Minichiello, Vittorio",3919 PROSPECT ST ,0.026,402800,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4519.png
+4523,"Minichiello, Vittorio",3911 PROSPECT ST ,0.037,403900,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4523.png
+4540,"Furze, Gordon L & Furze, Margaret M",3966 PROSPECT ST ,0.049,413500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4540.png
+4586,"Kwok, Wellington Ying-Wei & Doris",4119 NORTHRIDGE ST ,0.067,448700,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4586.png
+4591,"4055NS, LLC",4055 NORTHRIDGE ST ,0.054,415800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4591.png
+4607,"Silk, Brian P",3937 NORTHRIDGE ST ,0.054,413800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4607.png
+4610,"Ananthram, Vasudev & Angelina",3919 NORTHRIDGE ST ,0.068,452400,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4610.png
+4611,"Ananthram, Vasudev",3913 NORTHRIDGE ST ,0.054,433800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4611.png
+4674,"Staib, Philippe & Staib, Ute",109 MEETING PL ,0.1208,505400,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4674.png
+4677,MKC Investments LLC,115 MEETING PL ,0.0653,454500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4677.png
+4679,"Auslender, Aaron H & Auslender, Margery G",119 MEETING PL ,0.0965,574400,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4679.png
+4681,"Luddy, Maria Coll TR",123 MEETING PL ,0.0755,453200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4681.png
+4683,"Staib, Philippe & Staib, Ute",127 MEETING PL ,0.0816,453500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4683.png
+4685,"Carter, Jennifer D",201 MEETING PL ,0.0892,502900,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4685.png
+4686,"Johnson, Michael Joseph TR",203 MEETING PL ,0.0589,437300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4686.png
+4698,"Carrera Investments, LLC",214 MEETING PL ,0.0522,428300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4698.png
+4699,"Carrera Investments, LLC",212 MEETING PL ,0.0522,428300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4699.png
+110787,"Kirbor At Tutters Neck, LLC",4398 BATTERY BLVD ,0.083,79200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/110787.png
+110788,"Kirbor At Tutters Neck, LLC",4396 BATTERY BLVD ,0.069,78500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/110788.png
+110789,"Kirbor At Tutters Neck, LLC",4394 BATTERY BLVD ,0.087,79400,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/110789.png

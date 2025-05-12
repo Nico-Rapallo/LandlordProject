@@ -1,0 +1,1118 @@
+pid,company_name,address,acres,total_value,usage,half_baths,full_baths,bedrooms,rental_units,image_path,address_display
+1101,marvinjanemckaytr,1001lafayettest,0.132,528000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1101.png,1001 LAFAYETTE ST 
+3692,amsenterprisellc,1001settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3692.png,1001 SETTLEMENT DR 
+31,lancellottiwilliamgjrtredwardwtr,1001westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/31.png,1001 WESTGATE CIR 
+3693,messierdianeamessiermarcp,1002settlementdr,0.0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3693.png,1002 SETTLEMENT DR 
+1100,colonialdrcventuresinc,1003lafayettest,0.132,320000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1100.png,1003 LAFAYETTE ST 
+3694,rrsinvestmentsllc,1003settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3694.png,1003 SETTLEMENT DR 
+33,fungkayhsincindyengalberthsindanie,1003westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/33.png,1003 WESTGATE CIR 
+3695,everettannmarie,1004settlementdr,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3695.png,1004 SETTLEMENT DR 
+3642,grahamfamilytrust,1004westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3642.png,1004 WESTGATE CIR 
+1099,knotkeyinc,1005lafayettest,0.193,368300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1099.png,1005 LAFAYETTE ST 
+3696,leesusana,1005settlementdr,0.0,246000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3696.png,1005 SETTLEMENT DR 
+3679,ritzmaryl,1006settlementdr,0.0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3679.png,1006 SETTLEMENT DR 
+1098,masontaylormmasonpamelah,1007lafayettest,0.129,528000,Single-Family (Rental) 4 Person,0.0,3.0,4.0,1.0,data/property_data/image_data/1098.png,1007 LAFAYETTE ST 
+3697,kanalsgrouplimitedliabilitycompany,1007settlementdr,0.0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3697.png,1007 SETTLEMENT DR 
+1097,daviswilliamejr,1009lafayettest,0.132,402500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1097.png,1009 LAFAYETTE ST 
+3699,mahermichaeljrmaherolga,1009settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3699.png,1009 SETTLEMENT DR 
+1672,schneideringridkvam,100braxtonct,0.071,606000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1672.png,100 BRAXTON CT 
+2146,shellygarylcarlsonelainem,100chandlerct,0.139,654900,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2146.png,100 CHANDLER CT 
+4336,dandylandllc,100chanticleerct,0.105,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4336.png,100 CHANTICLEER CT 
+2577,geiludwellllctrpludwellllc,100rolferd,4.456,24622500,Apartment (High Rise),0.0,0.0,0.0,114.0,data/property_data/image_data/2577.png,100 ROLFE RD 
+4325,mahonefamilylimitedpartnershipllp,1011capitollandingrd,1.051,333400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/4325.png,1011 CAPITOL LANDING RD 
+839,margaretmwittentrust,1018capitollandingrd,0.5,290200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/839.png,1018 CAPITOL LANDING RD 
+184,durbinterrenceelindah,101bristolcmn,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/184.png,101 BRISTOL CMN 
+4345,dandylandllc,101chanticleerct,0.138,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4345.png,101 CHANTICLEER CT 
+2149,morkenpdennismorkenmarthalupe,101griffinave,0.115,700200,Multi-Family,0.0,3.0,6.0,2.0,data/property_data/image_data/2149.png,101 GRIFFIN AVE 
+3235,chrishanllc,101lakepowellrduniti,0.0,123600,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3235.png,101 LAKE POWELL RD UNIT #I
+3237,poulterkevinterinm,101lakepowellrdunitk,0.0,124000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3237.png,101 LAKE POWELL RD UNIT #K
+3238,lordmatthewroberttracyagostino,101lakepowellrdunitl,0.0,124000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3238.png,101 LAKE POWELL RD UNIT #L
+2569,loneginc,101rolferd,0.298,675000,Single-Family (Rental) 4 Person,0.0,3.0,3.0,1.0,data/property_data/image_data/2569.png,101 ROLFE RD 
+2493,huttonwilliamevanjonesmarthataylor,101walnuthillsdr,0.31,500700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2493.png,101 WALNUT HILLS DR 
+1062,goldenpondinc,101wytheave,0.18,373200,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/1062.png,101 WYTHE AVE 
+3843,candlergeorgemichaelcynthiavanness,102cutspringarch,0.0,304000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3843.png,102 CUTSPRING ARCH 
+1083,gsquareinc,102delawareave,0.11,576000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1083.png,102 DELAWARE AVE 
+4143,cathrynemgarrettlivingtrust,102parkpl,0.06,331600,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/4143.png,102 PARK PL 
+982,mdkassociatesllc,102woodsdr,0.551,212400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/982.png,102 WOODS DR 
+1074,hillstephenshelenhitchingsthomase,102wytheave,0.115,300400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1074.png,102 WYTHE AVE 
+845,mahonethomasdtr,1031capitollandingrd,6.074,492100,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/845.png,1031 CAPITOL LANDING RD 
+4324,mahonefamilylimitedpartnershipllp,1037capitollandingrd,1.879,359800,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/4324.png,1037 CAPITOL LANDING RD 
+844,wittencharlesspencedaley,1038capitollandingrd,4.0,358700,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/844.png,1038 CAPITOL LANDING RD 
+4323,mahonefamilylimitedpartnershipllp,1039capitollandingrd,5.836,463300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/4323.png,1039 CAPITOL LANDING RD 
+206,patrinicolathomassandrai,103bristolcmn,0.0,245300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/206.png,103 BRISTOL CMN 
+2141,bellbaxterijrtr,103caryst,0.115,452600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2141.png,103 CARY ST 
+1426,smithjohnm,103hangmansln,0.275,150200,Single-Family (Rental) ,1.0,1.0,2.0,1.0,data/property_data/image_data/1426.png,103 HANGMANS LN 
+3239,haketerryhestatescholzpaulascholztimothy,103lakepowellrdunite,0.0,123600,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3239.png,103 LAKE POWELL RD UNIT #E
+3240,thhbusinesstrust,103lakepowellrdunitf,0.0,117900,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3240.png,103 LAKE POWELL RD UNIT #F
+3241,luongpaulcthuyhuongt,103lakepowellrdunitg,0.0,124000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3241.png,103 LAKE POWELL RD UNIT #G
+3242,jamestownpropertiesllc,103lakepowellrdunith,0.0,118000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3242.png,103 LAKE POWELL RD UNIT #H
+2378,hugheslivingtrust,103williamsburgave,0.138,579600,Multi-Family,1.0,2.0,3.0,2.0,data/property_data/image_data/2378.png,103 WILLIAMSBURG AVE 
+1671,campbelltimothyj,104braxtonct,0.115,468800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1671.png,104 BRAXTON CT 
+207,lozajose,104bristolcmn,0.0,266500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/207.png,104 BRISTOL CMN 
+4337,dandylandllc,104chanticleerct,0.059,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4337.png,104 CHANTICLEER CT 
+1082,gsquareinc,104delawareave,0.115,576000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1082.png,104 DELAWARE AVE 
+3440,olsencraigtbeverlywtrustees,104exmoorct,0.174,540100,Duplex (Town House) (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/3440.png,104 EXMOOR CT 
+968,masoncharlesftrknottsjanetltr,104haynesdr,0.238,256800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/968.png,104 HAYNES DR 
+1331,colemancameronjohnsonpatriciam,104jeffersonst,0.176,360500,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1331.png,104 JEFFERSON ST 
+3634,jlhholdingsllc,104suridr,0.137,457700,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3634.png,104 SURI DR 
+1306,huntfamilytrust,104washingtonst,0.187,270400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1306.png,104 WASHINGTON ST 
+3955,bujoldkathrynlsbreedingpaulinekingda,104watsondr,0.168,265000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/3955.png,104 WATSON DR 
+1094,midasinc,104westoverave,0.115,493300,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1094.png,104 WESTOVER AVE 
+1073,gsquareinc,104wytheave,0.115,385900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1073.png,104 WYTHE AVE 
+1093,brookslandcorp,105baconave,0.115,329500,Single-Family (Rental) ,0.0,0.0,0.0,1.0,data/property_data/image_data/1093.png,105 BACON AVE 
+208,stephenshenryhlarrainec,105bristolcmn,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/208.png,105 BRISTOL CMN 
+4346,dandylandllc,105chanticleerct,0.074,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4346.png,105 CHANTICLEER CT 
+1067,gsquareinc,105delawareave,0.115,352000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1067.png,105 DELAWARE AVE 
+4075,scopabrianfbrittanyl,105greenst,0.06,354700,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/4075.png,105 GREEN ST 
+2112,brccompanyllc,105indianspringsrd,0.096,452400,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2112.png,105 INDIAN SPRINGS RD 
+2813,longfamilypropertiesvirginiallc,105johntylerln,0.46,455800,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2813.png,105 JOHN TYLER LN 
+3243,kabra2llc,105lakepowellrdunita,0.0,117900,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3243.png,105 LAKE POWELL RD UNIT #A
+3244,kabra2llc,105lakepowellrdunitb,0.0,123600,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3244.png,105 LAKE POWELL RD UNIT #B
+3246,kabra2llc,105lakepowellrdunitd,0.0,124000,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/3246.png,105 LAKE POWELL RD UNIT #D
+4407,vossellivingtrust,105parkwayct,0.06,416500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4407.png,105 PARKWAY CT 
+400,crossroadpropertiesllc,105patrickhenrydr,0.37,327100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/400.png,105 PATRICK HENRY DR 
+1329,105washingtonllc,105washingtonst,0.157,365400,Single-Family (Rental) ,0.0,3.0,4.0,2.0,data/property_data/image_data/1329.png,105 WASHINGTON ST 
+1063,105wytheavellc,105wytheave,0.172,486300,Single-Family (Rental) ,0.0,2.0,4.0,2.0,data/property_data/image_data/1063.png,105 WYTHE AVE 
+1318,baxtergladyscestateetal,106adamsst,0.138,361700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1318.png,106 ADAMS ST 
+1670,loneginc,106braxtonct,0.115,750000,Single-Family (Rental) 4 Person,1.0,5.0,5.0,1.0,data/property_data/image_data/1670.png,106 BRAXTON CT 
+1081,gsquareinc,106delawareave,0.116,439200,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1081.png,106 DELAWARE AVE 
+2130,trusteesoftemplebethelofwilliamsburg,106indianspringsrd,0.17,447900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2130.png,106 INDIAN SPRINGS RD 
+1308,washingtonstreetinvestmentsllc,106washingtonst,0.18,562500,Apartment,0.0,5.0,5.0,5.0,data/property_data/image_data/1308.png,106 WASHINGTON ST 
+1072,oliverfamilytrust,106wytheave,0.115,283100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1072.png,106 WYTHE AVE 
+4130,brookslandcorporation,107baconave,0.115,312000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/4130.png,107 BACON AVE 
+1068,gsquareinc,107delawareave,0.115,432000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1068.png,107 DELAWARE AVE 
+2114,indianspringsllc,107indianspringsrd,0.268,622700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2114.png,107 INDIAN SPRINGS RD 
+1126,matoakacourtllc,107matoakact,0.195,407300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1126.png,107 MATOAKA CT 
+2373,algonquininvestmentsllc,107williamsburgave,0.075,411200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2373.png,107 WILLIAMSBURG AVE 
+1319,pleibelnancyltr,108adamsst,0.138,306500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1319.png,108 ADAMS ST 
+211,jenkinspamelaj,108bristolcmn,0.0,235200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/211.png,108 BRISTOL CMN 
+4019,skinnerwilsonfjrtrhopestr,108brooksst,0.433,648000,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/4019.png,108 BROOKS ST 
+4338,dandylandllc,108chanticleerct,0.115,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4338.png,108 CHANTICLEER CT 
+1332,jeffreyrobertwjr,108jeffersonst,0.207,288200,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1332.png,108 JEFFERSON ST 
+2841,loneginc,108johntylerln,0.41,495000,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2841.png,108 JOHN TYLER LN 
+4381,adriannevmckinneyrevocabletrust,108parkwayct,0.043,401000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4381.png,108 PARKWAY CT 
+3521,kimyoungsilyungs,108shaindeldr,0.078,432300,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3521.png,108 SHAINDEL DR 
+1071,oliverfamilytrust,108wytheave,0.115,345400,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1071.png,108 WYTHE AVE 
+212,millerandrewpelizabethhannav,109bristolcmn,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/212.png,109 BRISTOL CMN 
+4347,dandylandllc,109chanticleerct,0.14,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4347.png,109 CHANTICLEER CT 
+1069,gsquareinc,109delawareave,0.115,600000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1069.png,109 DELAWARE AVE 
+1342,unitedstatesdepartmentofinterior,109jeffersonst,0.28,340800,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1342.png,109 JEFFERSON ST 
+1125,funkdennisatrfunkquintr,109matoakact,0.344,861300,Multi-Family,1.0,4.0,6.0,4.0,data/property_data/image_data/1125.png,109 MATOAKA CT 
+4674,staibphilippestaibute,109meetingpl,0.1208,505400,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4674.png,109 MEETING PL 
+3917,gustavsenwilliamsjenniferlynne,109pearlst,0.126,304700,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3917.png,109 PEARL ST 
+1328,109washingtonllc,109washingtonst,0.145,562500,Apartment,0.0,5.0,5.0,5.0,data/property_data/image_data/1328.png,109 WASHINGTON ST 
+1084,masontaylormontgomerypamelah,109westoverave,0.115,543800,Single-Family (Rental) ,0.0,3.0,5.0,2.0,data/property_data/image_data/1084.png,109 WESTOVER AVE 
+387,klusosthenesyaotr,1101settlementdr,0.0,261800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/387.png,1101 SETTLEMENT DR 
+2953,dillinghamdianelynn,1103settlementdr,0.0,261800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2953.png,1103 SETTLEMENT DR 
+146,oconnorioned,1104settlementdr,0.0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/146.png,1104 SETTLEMENT DR 
+3654,jackmortonmerelmanrevocabletrust,1104westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3654.png,1104 WESTGATE CIR 
+147,demattiaangelotrdeborahtr,1105settlementdr,0.0,257600,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/147.png,1105 SETTLEMENT DR 
+148,dewllc,1106settlementdr,0.0,256900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/148.png,1106 SETTLEMENT DR 
+916,caseylewiscoleman,1107lafayettest,0.138,296600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/916.png,1107 LAFAYETTE ST 
+1090,ruffjeannei,1107richmondrd,0.132,673800,Multi-Family,0.0,0.0,0.0,3.0,data/property_data/image_data/1090.png,1107 RICHMOND RD 
+149,rossmarilynr,1107settlementdr,0.0,261100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/149.png,1107 SETTLEMENT DR 
+1092,grahamalberttricornrentalsllc,1109richmondrd,0.116,468600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1092.png,1109 RICHMOND RD 
+151,hapipropertiesllc,1109settlementdr,0.0,257600,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/151.png,1109 SETTLEMENT DR 
+213,elkochristopherb,110bristolcmn,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/213.png,110 BRISTOL CMN 
+4018,skinnerwilsonfjrtrhopestr,110brooksst,0.407,450000,Multi-Family,0.0,2.0,2.0,2.0,data/property_data/image_data/4018.png,110 BROOKS ST 
+1080,gsquareinc,110delawareave,0.124,480000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1080.png,110 DELAWARE AVE 
+1333,quarterpathassociateslp,110jeffersonst,0.138,345600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1333.png,110 JEFFERSON ST 
+2714,mimosa110llc,110mimosadr,0.057,179500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2714.png,110 MIMOSA DR 
+655,creeddanielfmargaretm,110thomasnelsonln,0.3,238800,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/655.png,110 THOMAS NELSON LN 
+2509,colemankellymckeownmarievictorine,110walnuthillsdr,0.6,567200,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2509.png,110 WALNUT HILLS DR 
+152,stanleykarenv,1110settlementdr,0.0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/152.png,1110 SETTLEMENT DR 
+663,mactavishllc,111governorberkeleyrd,0.344,288300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/663.png,111 GOVERNOR BERKELEY RD 
+1124,fairbankschandlercole,111matoakact,0.344,617500,Multi-Family,0.0,4.0,5.0,3.0,data/property_data/image_data/1124.png,111 MATOAKA CT 
+2710,genakosstepheng,111mimosadr,0.269,251600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2710.png,111 MIMOSA DR 
+2570,alicemmountjoyrevocabletrust,111rolferd,0.49,635600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2570.png,111 ROLFE RD 
+677,kilinskijennifer,111thomasnelsonln,0.29,400900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/677.png,111 THOMAS NELSON LN 
+2374,algonquininvestmentsllc,111williamsburgave,0.075,425400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2374.png,111 WILLIAMSBURG AVE 
+985,barshisdarrcotrbarshissusancotr,111woodsdr,0.39,138700,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/985.png,111 WOODS DR 
+1321,fittswilliamptrfittspamelaftr,112adamsst,0.219,333800,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1321.png,112 ADAMS ST 
+3456,carterscottwjenniferd,112brocktonct,0.094,437500,Duplex (Town House) (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/3456.png,112 BROCKTON CT 
+4339,dandylandllc,112chanticleerct,0.11,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4339.png,112 CHANTICLEER CT 
+2120,harrisnancyg,112indianspringsrd,0.937,1916500,Apartment,0.0,0.0,0.0,14.0,data/property_data/image_data/2120.png,112 INDIAN SPRINGS RD 
+1334,brooksgeorgeuiii,112jeffersonst,0.138,304700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1334.png,112 JEFFERSON ST 
+688,escobarrobertfloegeljodyetrscottrt,112longhillrd,0.246,273700,Single-Family (Rental) ,0.0,2.0,3.0,2.0,data/property_data/image_data/688.png,112 LONGHILL RD 
+2713,garyrfanninrevocabletrustdianesfanninrev,112mimosadr,0.328,246200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2713.png,112 MIMOSA DR 
+1088,squiresherbertbmendozabeverleeaugusta,112shirleyave,0.115,451100,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1088.png,112 SHIRLEY AVE 
+2641,kenneykevinmleemargaret,112sirthomaslunsforddr,1.278,258800,Single-Family (Rental) ,1.0,3.0,4.0,0.0,,112 SIR THOMAS LUNSFORD DR 
+4342,dandylandllc,113chanticleerct,0.139,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4342.png,113 CHANTICLEER CT 
+661,absalomlindafoster,113governorberkeleyrd,0.3,491400,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/661.png,113 GOVERNOR BERKELEY RD 
+1122,mkfllc,113matoakact,0.344,394600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1122.png,113 MATOAKA CT 
+4405,barkerdavidsaturninoalona,113parkwayct,0.043,400200,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4405.png,113 PARKWAY CT 
+4033,gsquareinc,113shirleyave,0.113,312000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/4033.png,113 SHIRLEY AVE 
+3074,nagrajhoskotesannettem,113sirthomaslunsforddr,0.447,508600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3074.png,113 SIR THOMAS LUNSFORD DR 
+1325,duckerjameskkroenleinjohannam,113washingtonst,0.138,590000,Multi-Family,0.0,3.0,4.0,2.0,data/property_data/image_data/1325.png,113 WASHINGTON ST 
+1662,crawfordmagnoliaj,114braxtonct,0.114,506600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1662.png,114 BRAXTON CT 
+2138,cccaseysonsllc,114griffinave,0.115,422000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2138.png,114 GRIFFIN AVE 
+971,dunnjeffreyhdunnjessicalynn,114haynesdr,0.197,192000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/971.png,114 HAYNES DR 
+2712,114mimosallc,114mimosadr,0.328,238500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2712.png,114 MIMOSA DR 
+4137,paulevelynkrisiklivingtrust,114parkpl,0.105,370400,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4137.png,114 PARK PL 
+1338,wagnerwilliamrcynthias,115adamsst,0.103,287100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1338.png,115 ADAMS ST 
+2808,halldorothysullivandavid,115johntylerln,0.31,538800,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2808.png,115 JOHN TYLER LN 
+4677,mkcinvestmentsllc,115meetingpl,0.0653,454500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4677.png,115 MEETING PL 
+2702,shellygaryl,115mimosadr,0.84,331400,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/2702.png,115 MIMOSA DR 
+2500,smolenyakbrianpmegana,115walnuthillsdr,0.39,510000,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/2500.png,115 WALNUT HILLS DR 
+1086,walshdavidignatiusstrohmarysabinawalsh,115westoverave,0.134,550400,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1086.png,115 WESTOVER AVE 
+1669,reirealestateventuresllc,116braxtonct,0.115,497100,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1669.png,116 BRAXTON CT 
+4340,dandylandllc,116chanticleerct,0.06,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4340.png,116 CHANTICLEER CT 
+687,shnicorp,116longhillrd,0.244,127600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/687.png,116 LONGHILL RD 
+1114,mackertgeorgepsharon,116matoakact,0.331,595000,Single-Family (Rental) 4 Person,0.0,4.0,5.0,1.0,data/property_data/image_data/1114.png,116 MATOAKA CT 
+2664,robertscolbycolleyjayw,116mimosadr,0.39,430200,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2664.png,116 MIMOSA DR 
+1312,stevensjamesrebeccaettingerphillipp,116washingtonst,0.118,550500,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/1312.png,116 WASHINGTON ST 
+4343,dandylandllc,117chanticleerct,0.07,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4343.png,117 CHANTICLEER CT 
+2188,ljpropertyholdingsllc,117indianspringsrd,0.414,525000,Single-Family (Rental) 4 Person,1.0,3.0,3.0,1.0,data/property_data/image_data/2188.png,117 INDIAN SPRINGS RD 
+2701,bspwilliamsburgllc,117mimosadr,0.448,526000,Single-Family (Rental) ,1.0,6.0,6.0,1.0,data/property_data/image_data/2701.png,117 MIMOSA DR 
+1323,quinterjoshuachristopherquinterpatriciagriffith,117washingtonst,0.207,318700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1323.png,117 WASHINGTON ST 
+3192,kjrllc,1184jamestownrdunit11,0.0,200300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3192.png,1184 JAMESTOWN RD UNIT #11
+3194,madridcarlosa,1184jamestownrdunit13,0.0,198200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3194.png,1184 JAMESTOWN RD UNIT #13
+3195,pearsonjohnedwardjennylynn,1184jamestownrdunit14,0.0,200700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/3195.png,1184 JAMESTOWN RD UNIT #14
+3198,lambersonrobertltr,1184jamestownrdunit17,0.0,198200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3198.png,1184 JAMESTOWN RD UNIT #17
+3199,avellarlindal,1184jamestownrdunit18,0.0,200700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/3199.png,1184 JAMESTOWN RD UNIT #18
+3183,beaglewaynekimberly,1184jamestownrdunit2,0.0,203600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3183.png,1184 JAMESTOWN RD UNIT #2
+3202,woernerjohnrterrya,1184jamestownrdunit21,0.0,151100,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3202.png,1184 JAMESTOWN RD UNIT #21
+3204,erdtyvonnec,1184jamestownrdunit23,0.0,136400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3204.png,1184 JAMESTOWN RD UNIT #23
+3205,burchstephenleontrburchmarshacallistrburchanthonyscotttr,1184jamestownrdunit24,0.0,143300,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3205.png,1184 JAMESTOWN RD UNIT #24
+3207,bullpropertiesllc,1184jamestownrdunit26,0.0,151100,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3207.png,1184 JAMESTOWN RD UNIT #26
+3210,beverlyzadatodeclarationoftrust,1184jamestownrdunit29,0.0,198200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3210.png,1184 JAMESTOWN RD UNIT #29
+3211,coghlanpatrickjjennifera,1184jamestownrdunit30,0.0,200700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/3211.png,1184 JAMESTOWN RD UNIT #30
+3214,euriskorentalsllc,1184jamestownrdunit33,0.0,206500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3214.png,1184 JAMESTOWN RD UNIT #33
+3217,dillonbarbaragayle,1184jamestownrdunit36,0.0,219400,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3217.png,1184 JAMESTOWN RD UNIT #36
+3220,shimabukurocarlosa,1184jamestownrdunit39,0.0,208000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3220.png,1184 JAMESTOWN RD UNIT #39
+3221,kaowanllc,1184jamestownrdunit40,0.0,208000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3221.png,1184 JAMESTOWN RD UNIT #40
+3228,1184jamestownroad47llc,1184jamestownrdunit47,0.0,203600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3228.png,1184 JAMESTOWN RD UNIT #47
+3232,schuerhofftoddhschuerhoffkelleyrschuerhoffnoahh,1184jamestownrdunit51,0.0,200700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/3232.png,1184 JAMESTOWN RD UNIT #51
+3188,corneliuscharleswoodjrrevocabletrust,1184jamestownrdunit7,0.0,200300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3188.png,1184 JAMESTOWN RD UNIT #7
+3190,sunwangxiaoqi,1184jamestownrdunit9,0.0,198200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3190.png,1184 JAMESTOWN RD UNIT #9
+2815,bonocharlesenordstrombonojudyg,118berkeleyln,0.41,360400,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2815.png,118 BERKELEY LN 
+1668,stewartvictoralanjr,118braxtonct,0.115,487600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1668.png,118 BRAXTON CT 
+2139,lcmpropertyholdingsllc,118griffinave,0.115,739800,Multi-Family,1.0,2.0,5.0,2.0,data/property_data/image_data/2139.png,118 GRIFFIN AVE 
+2203,poertnerwilliamkkathym,118indianspringsrd,0.166,573800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2203.png,118 INDIAN SPRINGS RD 
+4026,grhllc,118longhillrd,0.237,273700,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/4026.png,118 LONGHILL RD 
+1113,cyphersrobertttr,118matoakact,0.34,365100,Single-Family (Rental) ,1.0,1.0,2.0,1.0,data/property_data/image_data/1113.png,118 MATOAKA CT 
+2665,robertscolbycolleyjayw,118mimosadr,0.44,430200,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2665.png,118 MIMOSA DR 
+2020,seufamilytrust,118pennimanrd,0.184,174400,Single-Family (Rental) ,0.0,2.0,2.0,2.0,data/property_data/image_data/2020.png,118 PENNIMAN RD 
+984,barshisdarrcotrbarshissusancotr,118woodsdr,1.397,273200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/984.png,118 WOODS DR 
+2150,thomaszwilkelivingtrust,119griffinave,0.126,630000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2150.png,119 GRIFFIN AVE 
+4038,algonquininvestmentsllc,119matoakact,0.786,444200,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/4038.png,119 MATOAKA CT 
+4679,auslenderaaronhauslendermargeryg,119meetingpl,0.0965,574400,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4679.png,119 MEETING PL 
+2700,millisondanbcotrrasmussenannekcotr,119mimosadr,0.336,274800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2700.png,119 MIMOSA DR 
+823,taylorcynthiactr,11claibornedr,0.0,312800,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/823.png,11 CLAIBORNE DR 
+4189,prometheusinvestmentsinc,1200richmondrdunit1,0.0,269500,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4189.png,1200 RICHMOND RD UNIT #1
+4190,prometheusinvestmentsinc,1200richmondrdunit2,0.0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4190.png,1200 RICHMOND RD UNIT #2
+4191,prometheusinvestmentsinc,1200richmondrdunit3,0.0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4191.png,1200 RICHMOND RD UNIT #3
+4192,prometheusinvestmentsinc,1200richmondrdunit4,0.0,478800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4192.png,1200 RICHMOND RD UNIT #4
+4193,prometheusinvestmentsinc,1200richmondrdunit5,0.0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4193.png,1200 RICHMOND RD UNIT #5
+4194,prometheusinvestmentsinc,1200richmondrdunit6,0.0,269500,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4194.png,1200 RICHMOND RD UNIT #6
+4195,prometheusinvestmentsinc,1200richmondrdunit7,0.0,478800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4195.png,1200 RICHMOND RD UNIT #7
+4196,prometheusinvestmentsinc,1200richmondrdunit8,0.0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4196.png,1200 RICHMOND RD UNIT #8
+914,earmanstellamtrstettermariaetr,1201lafayettest,0.143,281900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/914.png,1201 LAFAYETTE ST 
+2847,kabra2llc,1203jamestownrdunita1,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2847.png,1203 JAMESTOWN RD UNIT #A1
+2848,kabra2llc,1203jamestownrdunita2,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2848.png,1203 JAMESTOWN RD UNIT #A2
+2849,kabra2llc,1203jamestownrdunita3,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2849.png,1203 JAMESTOWN RD UNIT #A3
+2850,kabra2llc,1203jamestownrdunita4,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2850.png,1203 JAMESTOWN RD UNIT #A4
+2852,perkinsgroupllc,1203jamestownrdunitb1,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2852.png,1203 JAMESTOWN RD UNIT #B1
+2853,peppertreei3llc,1203jamestownrdunitb2,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2853.png,1203 JAMESTOWN RD UNIT #B2
+2854,perkinsgroupllc,1203jamestownrdunitb3,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2854.png,1203 JAMESTOWN RD UNIT #B3
+2855,capellimarciastr,1203jamestownrdunitb4,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2855.png,1203 JAMESTOWN RD UNIT #B4
+2856,shinholserjosephinewtr,1203jamestownrdunitc1,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2856.png,1203 JAMESTOWN RD UNIT #C1
+2857,krupinskijonette,1203jamestownrdunitc2,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2857.png,1203 JAMESTOWN RD UNIT #C2
+2858,perkinsgroupllc,1203jamestownrdunitc3,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2858.png,1203 JAMESTOWN RD UNIT #C3
+2860,krupinskijonette,1203jamestownrdunitc4,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2860.png,1203 JAMESTOWN RD UNIT #C4
+2861,ellisondonna,1203jamestownrdunitd1,0.0,147600,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2861.png,1203 JAMESTOWN RD UNIT #D1
+2862,hardyderekt,1203jamestownrdunitd2,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2862.png,1203 JAMESTOWN RD UNIT #D2
+2864,farschonmichaelgrobynl,1203jamestownrdunitd4,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2864.png,1203 JAMESTOWN RD UNIT #D4
+2865,kabra2llc,1203jamestownrdunite1,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2865.png,1203 JAMESTOWN RD UNIT #E1
+2866,kabra2llc,1203jamestownrdunite2,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2866.png,1203 JAMESTOWN RD UNIT #E2
+2867,mooretravisffiordalisomatthew,1203jamestownrdunite3,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2867.png,1203 JAMESTOWN RD UNIT #E3
+2868,hastingswilliamjustin,1203jamestownrdunite4,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2868.png,1203 JAMESTOWN RD UNIT #E4
+2869,spotswoodbraxtonllc,1203jamestownrdunitf1,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2869.png,1203 JAMESTOWN RD UNIT #F1
+2870,hasselbacherstephanierberryhilljamesbjr,1203jamestownrdunitf2,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2870.png,1203 JAMESTOWN RD UNIT #F2
+2871,smithjosephjcarolrtrustees,1203jamestownrdunitf3,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2871.png,1203 JAMESTOWN RD UNIT #F3
+2872,lordmattrtracya,1203jamestownrdunitf4,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2872.png,1203 JAMESTOWN RD UNIT #F4
+2873,buccimichaelaetux,1203jamestownrdunitg1,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2873.png,1203 JAMESTOWN RD UNIT #G1
+2879,kabra2llc,1203jamestownrdunith3,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2879.png,1203 JAMESTOWN RD UNIT #H3
+2880,billsburgleasingllc,1203jamestownrdunith4,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2880.png,1203 JAMESTOWN RD UNIT #H4
+2882,hazlewoodjesrtrrebahtr,1203jamestownrduniti2,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2882.png,1203 JAMESTOWN RD UNIT #I2
+2883,peppertreei3llc,1203jamestownrduniti3,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2883.png,1203 JAMESTOWN RD UNIT #I3
+2884,gilesmrobertsonjrrevocablelivingtrust,1203jamestownrduniti4,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2884.png,1203 JAMESTOWN RD UNIT #I4
+2885,liugracechikuntr,1203jamestownrdunitj1,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2885.png,1203 JAMESTOWN RD UNIT #J1
+2886,spiarchpropertiesllc,1203jamestownrdunitj2,0.0,138100,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2886.png,1203 JAMESTOWN RD UNIT #J2
+2887,kabra2llc,1203jamestownrdunitj3,0.0,138400,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/2887.png,1203 JAMESTOWN RD UNIT #J3
+913,wilkethomasztr,1203lafayettest,0.164,322300,Single-Family (Rental) ,0.0,2.0,4.0,0.0,,1203 LAFAYETTE ST 
+3347,jcsholdingsllc,1205jamestownrd,0.11,449400,Mixed Retail (w/Residential),0.0,2.0,2.0,4.0,data/property_data/image_data/3347.png,1205 JAMESTOWN RD 
+3181,brittscornerholdingsllc,1206jamestownrdaptb,0.12,430000,Multi-Family,1.0,1.0,4.0,2.0,data/property_data/image_data/3181.png,1206 JAMESTOWN RD APT #B
+1667,robertarnoldbraxtonhazelpittmanbraxtonrevocablelivingtrustbraxtongrego,120braxtonct,0.115,434600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1667.png,120 BRAXTON CT 
+4341,dandylandllc,120chanticleerct,0.195,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4341.png,120 CHANTICLEER CT 
+2202,stathopoulosandreassmirnievgenia,120indianspringsrd,0.188,563500,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2202.png,120 INDIAN SPRINGS RD 
+4025,grhllc,120longhillrd,0.237,199300,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/4025.png,120 LONGHILL RD 
+1040,cyphersrobertttr,120matoakact,0.327,516000,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1040.png,120 MATOAKA CT 
+2666,shellygaryl,120mimosadr,0.402,247300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2666.png,120 MIMOSA DR 
+80,jenkssheryl,120shaindeldr,0.097,437400,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/80.png,120 SHAINDEL DR 
+4197,prometheusinvestmentsinc,1210richmondrdunit1,0.0,269500,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4197.png,1210 RICHMOND RD UNIT #1
+4206,prometheusinvestmentsinc,1210richmondrdunit10,0.0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4206.png,1210 RICHMOND RD UNIT #10
+4207,prometheusinvestmentsinc,1210richmondrdunit11,0.0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4207.png,1210 RICHMOND RD UNIT #11
+4208,prometheusinvestmentsinc,1210richmondrdunit12,0.0,478800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4208.png,1210 RICHMOND RD UNIT #12
+4209,prometheusinvestmentsinc,1210richmondrdunit13,0.0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4209.png,1210 RICHMOND RD UNIT #13
+4210,prometheusinvestmentsinc,1210richmondrdunit14,0.0,269500,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4210.png,1210 RICHMOND RD UNIT #14
+4211,prometheusinvestmentsinc,1210richmondrdunit15,0.0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4211.png,1210 RICHMOND RD UNIT #15
+4212,prometheusinvestmentsinc,1210richmondrdunit16,0.0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4212.png,1210 RICHMOND RD UNIT #16
+4198,prometheusinvestmentsinc,1210richmondrdunit2,0.0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4198.png,1210 RICHMOND RD UNIT #2
+4199,prometheusinvestmentsinc,1210richmondrdunit3,0.0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4199.png,1210 RICHMOND RD UNIT #3
+4200,prometheusinvestmentsinc,1210richmondrdunit4,0.0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4200.png,1210 RICHMOND RD UNIT #4
+4201,prometheusinvestmentsinc,1210richmondrdunit5,0.0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4201.png,1210 RICHMOND RD UNIT #5
+4202,prometheusinvestmentsinc,1210richmondrdunit6,0.0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4202.png,1210 RICHMOND RD UNIT #6
+4203,prometheusinvestmentsinc,1210richmondrdunit7,0.0,478800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4203.png,1210 RICHMOND RD UNIT #7
+4204,prometheusinvestmentsinc,1210richmondrdunit8,0.0,578700,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/4204.png,1210 RICHMOND RD UNIT #8
+4205,prometheusinvestmentsinc,1210richmondrdunit9,0.0,311300,Condo (Residential) Rental,0.0,1.0,2.0,1.0,data/property_data/image_data/4205.png,1210 RICHMOND RD UNIT #9
+1339,webstermatthewarenem,121adamsst,0.146,364700,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1339.png,121 ADAMS ST 
+4344,dandylandllc,121chanticleerct,0.217,418300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4344.png,121 CHANTICLEER CT 
+3805,pareandrewppamelas,121cutspringarch,0.0,312800,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3805.png,121 CUTSPRING ARCH 
+1119,barryfamilytrust,121matoakact,0.413,630000,Single-Family (Rental) 4 Person,0.0,2.0,3.0,1.0,data/property_data/image_data/1119.png,121 MATOAKA CT 
+4403,dimensionsllc,121parkwayct,0.043,402100,Town House (Rental),0.0,3.0,3.0,1.0,data/property_data/image_data/4403.png,121 PARKWAY CT 
+408,chappellmilesljrmarcialc,121patrickhenrydr,0.23,311000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/408.png,121 PATRICK HENRY DR 
+3012,fostertracya,121sirthomaslunsforddr,0.507,1085500,Single-Family (Rental) ,1.0,6.0,5.0,1.0,data/property_data/image_data/3012.png,121 SIR THOMAS LUNSFORD DR 
+1663,louisechuckneyllc,122braxtonct,0.104,458800,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1663.png,122 BRAXTON CT 
+1039,mkfllc,122matoakact,0.327,371200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1039.png,122 MATOAKA CT 
+413,biroccokevinaelizabeths,122patrickhenrydr,0.27,300200,Single-Family (Rental) ,2.0,1.0,3.0,1.0,data/property_data/image_data/413.png,122 PATRICK HENRY DR 
+3732,islandhomesllc,123cutspringarch,0.0,271200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3732.png,123 CUTSPRING ARCH 
+2191,gcrinvestmentsllc,123indianspringsrd,0.273,585400,Single-Family (Rental) 4 Person,0.0,2.0,3.0,1.0,data/property_data/image_data/2191.png,123 INDIAN SPRINGS RD 
+4681,luddymariacolltr,123meetingpl,0.0755,453200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4681.png,123 MEETING PL 
+1664,gerstdorishgerstdarrinhstewartjeanegerst,124braxtonct,0.098,463400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1664.png,124 BRAXTON CT 
+733,wellsgeraldc,124governorberkeleyrdunit1,0.16,262100,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/733.png,124 GOVERNOR BERKELEY RD UNIT #1
+740,rileydaniell,124governorberkeleyrdunit10,0.1,259100,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/740.png,124 GOVERNOR BERKELEY RD UNIT #10
+738,mcguiredanielpatrick,124governorberkeleyrdunit11,0.06,247100,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/738.png,124 GOVERNOR BERKELEY RD UNIT #11
+739,carolynpwhittenmaritaltrust,124governorberkeleyrdunit13,0.13,260600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/739.png,124 GOVERNOR BERKELEY RD UNIT #13
+744,krupinskimark,124governorberkeleyrdunit2,0.13,260600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/744.png,124 GOVERNOR BERKELEY RD UNIT #2
+734,zhengxiuyunli,124governorberkeleyrdunit3,0.05,245000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/734.png,124 GOVERNOR BERKELEY RD UNIT #3
+743,foxpaulm,124governorberkeleyrdunit4,0.06,281500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/743.png,124 GOVERNOR BERKELEY RD UNIT #4
+735,dapalmtreepropertiesllc,124governorberkeleyrdunit5,0.05,244000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/735.png,124 GOVERNOR BERKELEY RD UNIT #5
+742,maisondeconfortllc,124governorberkeleyrdunit6,0.05,246600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/742.png,124 GOVERNOR BERKELEY RD UNIT #6
+737,sinclairrobertg,124governorberkeleyrdunit9,0.06,247100,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/737.png,124 GOVERNOR BERKELEY RD UNIT #9
+685,panayotispeterhjr,124longhillrd,0.274,242700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/685.png,124 LONGHILL RD 
+1038,morkenpdennismorkenmarthalupe,124matoakact,0.22,616500,Multi-Family,1.0,2.0,4.0,2.0,data/property_data/image_data/1038.png,124 MATOAKA CT 
+1030,hahngloriaturner,125matoakact,0.517,521900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1030.png,125 MATOAKA CT 
+1666,loneginc,126braxtonct,0.115,615000,Single-Family (Rental) 4 Person,1.0,2.0,3.0,1.0,data/property_data/image_data/1666.png,126 BRAXTON CT 
+1020,lingmichaelpekmingyeohadelinebenggaik,126matoakact,0.367,612500,Single-Family (Rental) 4 Person,0.0,3.0,3.0,1.0,data/property_data/image_data/1020.png,126 MATOAKA CT 
+278,lakerichardesheilasuestanford,126patrickhenrydr,0.42,412700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/278.png,126 PATRICK HENRY DR 
+1087,patzeraxelpatzerchristopher,126shirleyave,0.131,515200,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1087.png,126 SHIRLEY AVE 
+2193,prakashrachna,127indianspringsrd,0.28,805800,Single-Family (Rental) ,1.0,4.0,5.0,2.0,data/property_data/image_data/2193.png,127 INDIAN SPRINGS RD 
+4683,staibphilippestaibute,127meetingpl,0.0816,453500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4683.png,127 MEETING PL 
+411,jiayuaninc,127patrickhenrydr,0.25,332000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/411.png,127 PATRICK HENRY DR 
+1079,gsquareinc,127shirleyave,0.126,480000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1079.png,127 SHIRLEY AVE 
+1021,bentleytimothyjiii,128matoakact,0.386,423100,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1021.png,128 MATOAKA CT 
+2670,princenelsonbjanets,128mimosadr,0.403,532700,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/2670.png,128 MIMOSA DR 
+3422,baldwinrichardhdonnaa,128zelkovard,0.0,343500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3422.png,128 ZELKOVA RD 
+266,brccompanyllc,129patrickhenrydr,0.25,309800,Single-Family (Rental) ,2.0,2.0,4.0,1.0,data/property_data/image_data/266.png,129 PATRICK HENRY DR 
+902,springroadaptsinc,1301nmountvernonave,2.35,2457400,Mixed Retail (w/Residential),0.0,0.0,0.0,32.0,data/property_data/image_data/902.png,1301 N MOUNT VERNON AVE 
+4015,juliaanneapartmentsinc,1316mountvernonave,1.306,758600,Apartment,0.0,0.0,0.0,8.0,data/property_data/image_data/4015.png,1316 MOUNT VERNON AVE 
+4014,juliaanneapartmentsinc,1319mountvernonave,0.722,948200,Apartment,0.0,0.0,0.0,10.0,data/property_data/image_data/4014.png,1319 MOUNT VERNON AVE 
+2195,leeyichingchungtingting,131indianspringsrd,0.388,740100,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2195.png,131 INDIAN SPRINGS RD 
+4559,lawsonenterprisesinc,1324smountvernonave,7.88,8172000,Apartment,0.0,2.0,0.0,80.0,data/property_data/image_data/4559.png,1324 S MOUNT VERNON AVE 
+904,springroadaptsinc,1329mountvernonave,1.18,1973100,Apartment,0.0,5.0,5.0,20.0,data/property_data/image_data/904.png,1329 MOUNT VERNON AVE 
+4013,juliaanneapartmentsinc,1344smountvernonave,2.849,3223800,Apartment,0.0,0.0,0.0,34.0,data/property_data/image_data/4013.png,1344 S MOUNT VERNON AVE 
+2655,spurzemharrisona,134indianspringsrd,0.171,532000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2655.png,134 INDIAN SPRINGS RD 
+4154,lemerenicholasamaryanng,134mimosadr,0.69,346900,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/4154.png,134 MIMOSA DR 
+2002,jamesthomaswoodresiduarytrust,134secondst,0.448,611900,Mixed Retail (w/Residential),0.0,4.0,4.0,7.0,data/property_data/image_data/2002.png,134 SECOND ST 
+2560,maslinedwardftr,136millneckrd,0.77,569700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2560.png,136 MILL NECK RD 
+270,jennyhomesllc,137patrickhenrydr,0.25,290100,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/270.png,137 PATRICK HENRY DR 
+882,dagdorllc,1400middlest,2.609,12162700,Apartment (High Rise),0.0,0.0,0.0,139.0,data/property_data/image_data/882.png,1400 MIDDLE ST 
+905,springroadaptsinc,1400nmountvernonave,5.021,9307600,Apartment,0.0,0.0,0.0,115.0,data/property_data/image_data/905.png,1400 N MOUNT VERNON AVE 
+173,incatasciatowilliamakehoekristiec,1403westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/173.png,1403 WESTGATE CIR 
+174,ramasamymanickammanickamchellam,1404westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/174.png,1404 WESTGATE CIR 
+4389,palermocharlesjsrtr,140parkwayct,0.043,353600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4389.png,140 PARKWAY CT 
+3109,coutinomariaorlenagarcia,140williamway,0.37,668900,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/3109.png,140 WILLIAM WAY 
+2573,dwyerjamesg,141rolferd,0.95,682900,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/2573.png,141 ROLFE RD 
+79507,coulterinvestmentslp,1421redoubtrdunit7b,0.0,369200,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/79507.png,1421 REDOUBT RD UNIT #7B
+4052,wrha,143mimosadr,4.116,3979300,Apartment,0.0,14.0,1039.0,14.0,data/property_data/image_data/4052.png,143 MIMOSA DR 
+4116,cs1031sterlingmanorapartmentsdst,1446manorblvd,0.076,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4116.png,1446 MANOR BLVD 
+4115,cs1031sterlingmanorapartmentsdst,1447manorblvd,0.076,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4115.png,1447 MANOR BLVD 
+4117,cs1031sterlingmanorapartmentsdst,1448manorblvd,0.055,819000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4117.png,1448 MANOR BLVD 
+4114,cs1031sterlingmanorapartmentsdst,1449manorblvd,0.055,819000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4114.png,1449 MANOR BLVD 
+4390,changalbertchenamy,144parkwayct,0.043,346600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4390.png,144 PARKWAY CT 
+4118,cs1031sterlingmanorapartmentsdst,1450manorblvd,0.074,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4118.png,1450 MANOR BLVD 
+4113,cs1031sterlingmanorapartmentsdst,1451manorblvd,0.075,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4113.png,1451 MANOR BLVD 
+4119,cs1031sterlingmanorapartmentsdst,1452manorblvd,0.088,945000,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4119.png,1452 MANOR BLVD 
+4112,cs1031sterlingmanorapartmentsdst,1453manorblvd,0.089,945000,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4112.png,1453 MANOR BLVD 
+4120,cs1031sterlingmanorapartmentsdst,1454manorblvd,0.055,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4120.png,1454 MANOR BLVD 
+4111,cs1031sterlingmanorapartmentsdst,1455manorblvd,0.055,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4111.png,1455 MANOR BLVD 
+4121,cs1031sterlingmanorapartmentsdst,1456manorblvd,0.055,819000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4121.png,1456 MANOR BLVD 
+4110,cs1031sterlingmanorapartmentsdst,1457manorblvd,0.055,819000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4110.png,1457 MANOR BLVD 
+4122,cs1031sterlingmanorapartmentsdst,1458manorblvd,0.055,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4122.png,1458 MANOR BLVD 
+4109,cs1031sterlingmanorapartmentsdst,1459manorblvd,0.055,882000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4109.png,1459 MANOR BLVD 
+4123,cs1031sterlingmanorapartmentsdst,1460manorblvd,0.104,945000,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4123.png,1460 MANOR BLVD 
+4108,cs1031sterlingmanorapartmentsdst,1461manorblvd,0.105,945000,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4108.png,1461 MANOR BLVD 
+4391,mageelivingtrust,148parkwayct,0.043,356700,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/4391.png,148 PARKWAY CT 
+2074,14claibornedrive23185llc,14claibornedr,0.0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2074.png,14 CLAIBORNE DR 
+3051,dobbinsjohnbmiannar,14thepalisades,0.162,891900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/3051.png,14 THE PALISADES 
+795,patilyogendrac,1501ernestineave,0.152,307200,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/795.png,1501 ERNESTINE AVE 
+796,traversdwuaynea,1503ernestineave,0.172,255000,Multi-Family,0.0,2.0,2.0,2.0,data/property_data/image_data/796.png,1503 ERNESTINE AVE 
+797,lamdavid,1505ernestineave,0.172,228000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/797.png,1505 ERNESTINE AVE 
+793,cookequovadismae,1506ernestineave,0.344,207400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/793.png,1506 ERNESTINE AVE 
+798,tuckerwilliamh,1507ernestineave,0.247,143600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/798.png,1507 ERNESTINE AVE 
+4577,hsaptlandlc,150kingsmanordr,5.996,73386500,Apartment (High Rise),0.0,0.0,0.0,233.0,data/property_data/image_data/4577.png,150 KINGS MANOR DR 
+4060,cs1031sterlingmanorapartmentsdst,1515sterlingmanordr,1.968,15499300,Apartment (High Rise),0.0,0.0,0.0,74.0,data/property_data/image_data/4060.png,151-5 STERLING MANOR DR 
+4061,cs1031sterlingmanorapartmentsdst,151sterlingmanordr,4.892,39732700,Apartment (High Rise),0.0,2.0,0.0,160.0,data/property_data/image_data/4061.png,151 STERLING MANOR DR 
+1998,cyphersdavida,156secondst,0.566,518600,Mixed Retail (w/Residential),0.0,4.0,4.0,8.0,data/property_data/image_data/1998.png,156 SECOND ST 
+4576,hsaptlandlc,159kingsmanordr,4.783,25644900,Apartment,0.0,0.0,0.0,96.0,data/property_data/image_data/4576.png,159 KINGS MANOR DR 
+1003,160merrimacassociatesllc,159merrimactrl,26.956,28514000,Apartment (High Rise),0.0,0.0,0.0,252.0,data/property_data/image_data/1003.png,159 MERRIMAC TRL 
+2514,greerjacquelinejtr,15bayberryln,0.834,487500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2514.png,15 BAYBERRY LN 
+1400,bullingtonjayaparrpatriciam,15groveave,0.161,275800,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1400.png,15 GROVE AVE 
+1091,poteetterril,1601westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1091.png,1601 WESTGATE CIR 
+608,desainarendragdesainiravnarendradesaimeera,161cutspringarch,0.0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/608.png,161 CUTSPRING ARCH 
+3806,sandymgarnerlivingtrust,162cutspringarch,0.0,271200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3806.png,162 CUTSPRING ARCH 
+1594,witherowellisehirokoeugeniao,16priorsleeln,0.06,193100,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1594.png,16 PRIORSLEE LN 
+197,sharperickymelveram,1703westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/197.png,1703 WESTGATE CIR 
+3899,fusconicholasjudithm,172cutspringarch,0.0,304000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3899.png,172 CUTSPRING ARCH 
+3900,rvpllc,174cutspringarch,0.0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3900.png,174 CUTSPRING ARCH 
+3767,cularangelatrustee,1801westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3767.png,1801 WESTGATE CIR 
+3770,basketdeborahl,1804westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3770.png,1804 WESTGATE CIR 
+3904,182cutspringarchllc,182cutspringarch,0.0,271200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3904.png,182 CUTSPRING ARCH 
+701,inmanmatthewmauckkellyquave,189lewisrobertln,0.244,427700,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/701.png,189 LEWIS ROBERT LN 
+3774,granttinalindsaythomasedwardiimcclainchiquitta,1901westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3774.png,1901 WESTGATE CIR 
+3777,williamsburgpropertiesllc,1904westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3777.png,1904 WESTGATE CIR 
+2526,churchmethodist,194millneckrd,0.3,667300,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2526.png,194 MILL NECK RD 
+1402,bullingtonjayaparrpatriciam,19groveave,0.135,230900,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/1402.png,19 GROVE AVE 
+2178,cannettiraymondjtrkingjuliaatr,1ballardln,0.117,560400,Single-Family (Rental) ,1.0,2.0,2.0,1.0,data/property_data/image_data/2178.png,1 BALLARD LN 
+3096,horlickmichaeldtr,1chanteraineclose,0.34,513400,Single-Family (Rental) ,1.0,2.0,2.0,1.0,data/property_data/image_data/3096.png,1 CHANTERAINE CLOSE 
+3108,suslavichfrankjnancyt,1hagueclose,0.2,600100,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3108.png,1 HAGUE CLOSE 
+1545,mapplivingtrust,1priorsleeln,0.06,175000,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/1545.png,1 PRIORSLEE LN 
+3799,granthamdavidleonangelad,2001westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3799.png,2001 WESTGATE CIR 
+3796,cordellrebeccal,2004westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3796.png,2004 WESTGATE CIR 
+617,bakersharonh,200johnwythepl,0.26,363900,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/617.png,200 JOHN WYTHE PL 
+896,wrha,200newhoperd,3.373,5019600,Apartment,0.0,0.0,0.0,28.0,data/property_data/image_data/896.png,200 NEW HOPE RD 
+1844,armisteadroberttravisjr,200princegeorgest,0.149,496100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1844.png,200 PRINCE GEORGE ST 
+666,hdpllc,200tylerbrooksdr,0.36,292300,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/666.png,200 TYLER BROOKS DR 
+3758,nissleyharveybjanicem,201bristolcmn,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3758.png,201 BRISTOL CMN 
+2155,201caryllc,201caryst,0.164,775300,Apartment,0.0,6.0,6.0,6.0,data/property_data/image_data/2155.png,201 CARY ST 
+1411,gillrichardslauren,201desmondeln,0.0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1411.png,201 DESMONDE LN 
+2151,midasinc,201griffinave,0.103,498500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2151.png,201 GRIFFIN AVE 
+449,wrightmarkepamelah,201johnpinckneyln,0.247,239500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/449.png,201 JOHN PINCKNEY LN 
+1031,201matoakacourtllc,201matoakact,0.475,393800,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/1031.png,201 MATOAKA CT 
+4685,carterjenniferd,201meetingpl,0.0892,502900,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4685.png,201 MEETING PL 
+2476,goldenpondincspalonesamuels,201quarterpathrd,0.147,154300,Single-Family (Rental) ,0.0,2.0,3.0,2.0,data/property_data/image_data/2476.png,201 QUARTERPATH RD 
+1204,fraherwilliamgbeth,202desmondeln,0.0,271200,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1204.png,202 DESMONDE LN 
+2127,caseylewisc,202indianspringsrd,0.179,630000,Single-Family (Rental) 4 Person,1.0,2.0,3.0,1.0,data/property_data/image_data/2127.png,202 INDIAN SPRINGS RD 
+1624,bitlerjonathanemargaretj,202strawberryplainsrd,0.192,163800,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1624.png,202 STRAWBERRY PLAINS RD 
+11,pergallc,202westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/11.png,202 WESTGATE CIR 
+3760,brownepaulbartolfrichardm,203bristolcmn,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3760.png,203 BRISTOL CMN 
+2094,smeatonfamilytrust,203burnsln,0.274,656000,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/2094.png,203 BURNS LN 
+1032,revocablelivingtrustagreementofjosephanthony,203matoakact,0.475,455000,Single-Family (Rental) 4 Person,1.0,2.0,5.0,1.0,data/property_data/image_data/1032.png,203 MATOAKA CT 
+4686,johnsonmichaeljosephtr,203meetingpl,0.0589,437300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4686.png,203 MEETING PL 
+1171,konefalstephanvbetsyo,203nelsonave,0.161,522000,Single-Family (Rental) 4 Person,0.0,3.0,3.0,1.0,data/property_data/image_data/1171.png,203 NELSON AVE 
+2475,quarterpathassociateslp,203quarterpathrd,0.08,228900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2475.png,203 QUARTERPATH RD 
+3761,chrishanllc,204bristolcmn,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3761.png,204 BRISTOL CMN 
+1167,georgeshousellc,204harrisonave,0.241,619200,Multi-Family,1.0,2.0,3.0,2.0,data/property_data/image_data/1167.png,204 HARRISON AVE 
+2982,robertsjeffreywtr,204jonesmillln,1.109,861100,Single-Family (Rental) ,1.0,4.0,5.0,1.0,data/property_data/image_data/2982.png,204 JONES MILL LN 
+1697,hitchensmamieruth,204lafayettest,0.119,395400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1697.png,204 LAFAYETTE ST 
+79491,armstrongronaldearmstrongdebraa,204pocahontasst,0.122,576900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/79491.png,204 POCAHONTAS ST 
+547,mphrentalsllc,205captainnewportcir,0.65,371000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/547.png,205 CAPTAIN NEWPORT CIR 
+4295,capitollandingllc,205caryst,0.115,648000,Single-Family (Rental) 4 Person,1.0,3.0,3.0,1.0,data/property_data/image_data/4295.png,205 CARY ST 
+1163,catchingstimothytitusbiernackiporayteresa,205harrisonave,0.172,1369100,Single-Family (Rental) ,3.0,4.0,4.0,1.0,data/property_data/image_data/1163.png,205 HARRISON AVE 
+1033,kalomirismichaelv,205matoakact,0.475,543500,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1033.png,205 MATOAKA CT 
+1172,ljpropertyholdingsllc,205nelsonave,0.161,612000,Single-Family (Rental) 4 Person,1.0,3.0,4.0,1.0,data/property_data/image_data/1172.png,205 NELSON AVE 
+2474,quarterpathassociateslp,205quarterpathrd,0.206,310000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2474.png,205 QUARTERPATH RD 
+645,dkwolonsllc,205robertellifferd,0.36,378200,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/645.png,205 ROBERT ELLIFFE RD 
+2489,freyalicem,206governorsdr,0.32,483600,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2489.png,206 GOVERNORS DR 
+1168,williamsburgheightsllc,206harrisonave,0.241,832500,Multi-Family,0.0,4.0,4.0,4.0,data/property_data/image_data/1168.png,206 HARRISON AVE 
+432,lozajosecolomaandrea,206johnpinckneyln,0.266,334000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/432.png,206 JOHN PINCKNEY LN 
+1023,barryfamilytrust,206matoakact,0.671,476600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1023.png,206 MATOAKA CT 
+1176,patkellyattorneyatlaw,206nelsonave,0.551,669000,Single-Family (Rental) ,1.0,2.0,6.0,1.0,data/property_data/image_data/1176.png,206 NELSON AVE 
+3999,nunnllc,206rolferd,3.217,954700,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/3999.png,206 ROLFE RD 
+3763,diaumarvinchichungmalorenaesguerra,207bristolcmn,0.0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3763.png,207 BRISTOL CMN 
+4294,207carystreetllc,207caryst,0.172,841500,Multi-Family,0.0,3.0,6.0,3.0,data/property_data/image_data/4294.png,207 CARY ST 
+447,lozajosecolomaandreac,207johnpinckneyln,0.262,375000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/447.png,207 JOHN PINCKNEY LN 
+1034,cyphersrobertttr,207matoakact,0.413,539500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1034.png,207 MATOAKA CT 
+2525,loneginc,207millneckrd,0.68,390000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2525.png,207 MILL NECK RD 
+1173,caseylewisc,207nelsonave,0.161,426900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1173.png,207 NELSON AVE 
+571,walkerjanetrtr,207robertellifferd,0.344,279200,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/571.png,207 ROBERT ELLIFFE RD 
+3764,viskochilsaraholivialichtelmattheww,208bristolcmn,0.0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3764.png,208 BRISTOL CMN 
+540,wilcoxpaul,208captainnewportcir,0.417,330500,Single-Family (Rental) ,0.0,3.0,5.0,1.0,data/property_data/image_data/540.png,208 CAPTAIN NEWPORT CIR 
+1169,shellygaryl,208harrisonave,0.161,619200,Multi-Family,0.0,3.0,4.0,2.0,data/property_data/image_data/1169.png,208 HARRISON AVE 
+4087,minaminokoichiro,208lewisburwellpl,0.06,334300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4087.png,208 LEWIS BURWELL PL 
+620,wrightbarry,208longhillrd,0.275,302100,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/620.png,208 LONGHILL RD 
+1024,saraklevymaritaltrust,208matoakact,0.826,491800,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1024.png,208 MATOAKA CT 
+3624,mcraejoanne,208suridr,0.098,469000,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3624.png,208 SURI DR 
+3265,breiwilliamsaxtonmarielouiseangelina,208woodmeredrunitd,0.0,307800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3265.png,208 WOODMERE DR UNIT #D
+3765,paretsgregsbrendaltrustees,209bristolcmn,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3765.png,209 BRISTOL CMN 
+3334,cheethampaulftrjanettr,209brookwooddr,0.14,463800,Duplex (Town House) (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/3334.png,209 BROOKWOOD DR 
+2651,blaisdelljamesp,209indianspringsrd,0.25,643900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2651.png,209 INDIAN SPRINGS RD 
+1035,barryfamilytrust,209matoakact,0.413,595000,Single-Family (Rental) 4 Person,0.0,2.0,4.0,1.0,data/property_data/image_data/1035.png,209 MATOAKA CT 
+4225,crawfordchristopherakellym,209quarterpathrd,0.153,398300,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4225.png,209 QUARTERPATH RD 
+3271,mooremichelleetal,209woodmeredrunitb,0.0,292600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3271.png,209 WOODMERE DR UNIT #B
+3273,madsenmelvilleajohnf,209woodmeredrunitd,0.0,312100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3273.png,209 WOODMERE DR UNIT #D
+3793,trivedigirishbtruptig,2102westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3793.png,2102 WESTGATE CIR 
+3794,spallinajosephalucyllea,2103westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3794.png,2103 WESTGATE CIR 
+2650,sterlingnransonejrinheritorsexemptirrevocabletrust,210indianspringsrd,0.25,595000,Single-Family (Rental) 4 Person,0.0,3.0,4.0,1.0,data/property_data/image_data/2650.png,210 INDIAN SPRINGS RD 
+621,yevstifeyevigor,210longhillrd,0.25,400300,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/621.png,210 LONGHILL RD 
+1177,hunsuckerstevenhtr,210nelsonave,0.475,741000,Multi-Family,1.0,3.0,5.0,2.0,data/property_data/image_data/1177.png,210 NELSON AVE 
+1613,wrha,210strawberryplainsrdunita,0.4,166600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1613.png,210 STRAWBERRY PLAINS RD UNIT #A
+1616,kellyjenniel,210strawberryplainsrdunitc,0.55,190600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1616.png,210 STRAWBERRY PLAINS RD UNIT #C
+644,yevstifeyevigor,210thomasnelsonln,0.37,296100,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/644.png,210 THOMAS NELSON LN 
+4499,bouldenroberthii,210virginiaave,0.172,738000,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/4499.png,210 VIRGINIA AVE 
+544,ramseyroscoewpatriciap,211captainnewportcir,0.483,297600,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/544.png,211 CAPTAIN NEWPORT CIR 
+1165,tritoniiiinc,211harrisonave,0.344,1335000,Apartment,1.0,9.0,12.0,8.0,data/property_data/image_data/1165.png,211 HARRISON AVE 
+2652,mcconnellfamilytrust,211indianspringsrd,0.25,685100,Single-Family (Rental) ,0.0,3.0,4.0,2.0,data/property_data/image_data/2652.png,211 INDIAN SPRINGS RD 
+4699,carrerainvestmentsllc,212meetingpl,0.0522,428300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4699.png,212 MEETING PL 
+57,scottlivingtrust,212zelkovard,0.0,353000,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/57.png,212 ZELKOVA RD 
+3541,matkinsjuanitajshortraymondd,2133shenrystunit10,0.04,297600,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3541.png,2133 S HENRY ST UNIT #10
+3545,hillmaryrogersn,2133shenrystunit13,0.049,307600,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3545.png,2133 S HENRY ST UNIT #13
+3555,lisabcolliganrevocabletrust,2133shenrystunit20,0.04,292100,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3555.png,2133 S HENRY ST UNIT #20
+3557,briggsbonnieanne,2133shenrystunit22,0.04,287900,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3557.png,2133 S HENRY ST UNIT #22
+3532,goughwilliamhjr,2133shenrystunit3,0.06,242000,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/3532.png,2133 S HENRY ST UNIT #3
+3570,mcsherrymichaelbonnie,2133shenrystunit37,0.048,307600,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3570.png,2133 S HENRY ST UNIT #37
+3578,sherrilynnpowerstrustee,2133shenrystunit41,0.04,287200,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3578.png,2133 S HENRY ST UNIT #41
+3579,williamsronaldwhazelm,2133shenrystunit42,0.049,307600,Town House (Rental),0.0,0.0,0.0,0.0,,2133 S HENRY ST UNIT #42
+3505,vettechristopheravettedouglasr,2133shenrystunit45,0.04,303000,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/3505.png,2133 S HENRY ST UNIT #45
+3509,twotulipsllc,2133shenrystunit49,0.043,383300,Town House (Rental),1.0,3.0,2.0,1.0,data/property_data/image_data/3509.png,2133 S HENRY ST UNIT #49
+3537,brittkylemchongs,2133shenrystunit6,0.059,216700,Town House (Rental),0.0,1.0,1.0,1.0,data/property_data/image_data/3537.png,2133 S HENRY ST UNIT #6
+3538,kanejosephwilliam,2133shenrystunit7,0.071,212600,Town House (Rental),0.0,1.0,1.0,1.0,data/property_data/image_data/3538.png,2133 S HENRY ST UNIT #7
+543,cyphersrobertttr,213captainnewportcir,0.32,269300,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/543.png,213 CAPTAIN NEWPORT CIR 
+2986,raskinjamesrgaile,213sirthomaslunsforddr,0.402,891100,Single-Family (Rental) ,2.0,3.0,4.0,1.0,data/property_data/image_data/2986.png,213 SIR THOMAS LUNSFORD DR 
+842,lawrenceverniectrbettystr,213suridr,0.086,509800,Single-Family (Rental) ,1.0,4.0,4.0,1.0,data/property_data/image_data/842.png,213 SURI DR 
+4698,carrerainvestmentsllc,214meetingpl,0.0522,428300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4698.png,214 MEETING PL 
+3259,nirvanllc,214woodmeredrunitb,0.0,295700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3259.png,214 WOODMERE DR UNIT #B
+3261,pattithomasejamessusanm,214woodmeredrunitd,0.0,315400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3261.png,214 WOODMERE DR UNIT #D
+1196,cummingswilliamsnelsonseminarissueelizab,215harrisonave,0.172,808500,Single-Family (Rental) ,0.0,3.0,5.0,3.0,data/property_data/image_data/1196.png,215 HARRISON AVE 
+82058,bsrmidtowncurrentllc,215monticelloave,0.0,116431200,Apartment (High Rise),0.0,0.0,0.0,240.0,data/property_data/image_data/82058.png,215 MONTICELLO AVE 
+2036,bajrangllc,216parkwaydr,0.885,3800000,Apartment,0.0,0.0,0.0,42.0,data/property_data/image_data/2036.png,216 PARKWAY DR 
+1614,cimoncoreyj,216strawberryplainsrd,0.58,286300,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1614.png,216 STRAWBERRY PLAINS RD 
+567,walkerjanetrtr,216thomasnelsonln,0.38,277000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/567.png,216 THOMAS NELSON LN 
+1197,midasinc,217harrisonave,0.172,540000,Multi-Family,0.0,2.0,2.0,2.0,data/property_data/image_data/1197.png,217 HARRISON AVE 
+849,riccioanthonymlilliananne,217suridr,0.117,459000,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/849.png,217 SURI DR 
+526,dorseyscottb,217thomasnelsonln,0.227,206900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/526.png,217 THOMAS NELSON LN 
+3278,christopherjamespropertiesllc,217woodmeredrunita,0.0,292600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3278.png,217 WOODMERE DR UNIT #A
+2066,hewlettdalemcarriec,218strawberryplainsrd,0.37,213000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2066.png,218 STRAWBERRY PLAINS RD 
+568,wrightmarkedward,218thomasnelsonln,0.404,276900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/568.png,218 THOMAS NELSON LN 
+1201,lcmpropertyholdingsllc,218virginiaave,0.172,369400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1201.png,218 VIRGINIA AVE 
+1198,mcdowellrobertmjenniferggriffinmaryshea,219harrisonave,0.17,687100,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/1198.png,219 HARRISON AVE 
+3789,schoolmichaelftrschoolkathleenctr,2201westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3789.png,2201 WESTGATE CIR 
+3791,trivediankitishita,2203westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3791.png,2203 WESTGATE CIR 
+610,wrightmarkepamelah,220longhillrd,0.258,236100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/610.png,220 LONGHILL RD 
+2549,dwyerjamesgtr,220rolferd,1.1,557200,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/2549.png,220 ROLFE RD 
+528,yevstifeyevigor,220thomasnelsonln,0.294,309900,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/528.png,220 THOMAS NELSON LN 
+1202,matsumotoherberttettajane,220virginiaave,0.172,375500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1202.png,220 VIRGINIA AVE 
+1200,ljpropertyholdingsllc,221harrisonave,0.165,526800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1200.png,221 HARRISON AVE 
+3282,reveleywtayloriiireveleyhelenb,221woodmeredrunita,0.0,298800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3282.png,221 WOODMERE DR UNIT #A
+3285,cgwppropertiesllc,221woodmeredrunitd,0.0,318800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3285.png,221 WOODMERE DR UNIT #D
+1005,colonialpinesapartmentsllc,222merrimactrl,5.708,8059100,Apartment,0.0,0.0,0.0,68.0,data/property_data/image_data/1005.png,222 MERRIMAC TRL 
+495,pascalelivingtrust,223christopherwrenrd,0.3,363300,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/495.png,223 CHRISTOPHER WREN RD 
+3595,cityofwilliamsburg,223longhillrd,0.31,206000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/3595.png,223 LONGHILL RD 
+4070,distasostephenanthonydistasoalisajoycedistasochloeteima,223quarterpathrd,0.065,340400,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4070.png,223 QUARTERPATH RD 
+1208,cyphersrobertttr,223virginiaave,0.155,605800,Apartment,0.0,4.0,4.0,4.0,data/property_data/image_data/1208.png,223 VIRGINIA AVE 
+3087,hinrichsjosephrtrhinrichsmariaetr,224hollyhillsdr,1.544,1881800,Single-Family (Rental) ,2.0,4.0,5.0,1.0,data/property_data/image_data/3087.png,224 HOLLY HILLS DR 
+2994,edwinscottcheryllynnorrtrust,224sirthomaslunsforddr,0.526,851500,Single-Family (Rental) ,1.0,4.0,6.0,1.0,data/property_data/image_data/2994.png,224 SIR THOMAS LUNSFORD DR 
+530,adamsjeremyskiram,224thomasnelsonln,0.357,300600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/530.png,224 THOMAS NELSON LN 
+1205,cyphersrobertttr,224virginiaave,0.172,405000,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/1205.png,224 VIRGINIA AVE 
+60,devineedwardjtrjenniemtr,224zelkovard,0.0,368600,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/60.png,224 ZELKOVA RD 
+4071,larosemarkj,225quarterpathrd,0.065,312200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4071.png,225 QUARTERPATH RD 
+1209,portmoyerlivingtrust,225virginiaave,0.209,537300,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1209.png,225 VIRGINIA AVE 
+510,yevstifeyevigor,226christopherwrenrd,0.273,346500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/510.png,226 CHRISTOPHER WREN RD 
+4082,dobbinsmatthewjdobbinscolleenm,226lewisburwellpl,0.06,318600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4082.png,226 LEWIS BURWELL PL 
+2546,jonesgabrieller,226rolferd,0.25,509900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2546.png,226 ROLFE RD 
+1206,denbytimothydavid,226virginiaave,0.172,426400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1206.png,226 VIRGINIA AVE 
+555,walkerjanetrtr,227johnpinckneyln,0.224,228700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/555.png,227 JOHN PINCKNEY LN 
+516,hartmanernestamelissajtrustees,227thomasnelsonln,0.273,229500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/516.png,227 THOMAS NELSON LN 
+509,228cwllc,228christopherwrenrd,0.27,314100,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/509.png,228 CHRISTOPHER WREN RD 
+2159,shellygarylwilkethomasz,228griffinave,0.115,672000,Single-Family (Rental) ,1.0,3.0,4.0,2.0,data/property_data/image_data/2159.png,228 GRIFFIN AVE 
+584,kevindgramigandcherylsgramiglivingtrust,228longhillrd,0.24,338500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/584.png,228 LONGHILL RD 
+1019,walkermarkrtrustee,228monticelloave,0.459,1332700,Apartment,0.0,0.0,0.0,14.0,data/property_data/image_data/1019.png,228 MONTICELLO AVE 
+532,armsrtongjoannegtrlucasjonathanpatrick,228thomasnelsonln,0.31,208700,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/532.png,228 THOMAS NELSON LN 
+499,lanehartjesseitrglendattr,229christopherwrenrd,0.225,256200,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/499.png,229 CHRISTOPHER WREN RD 
+497,newmankyler,229johnpinckneyln,0.209,259200,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/497.png,229 JOHN PINCKNEY LN 
+2990,skapropertiesllc,229sirthomaslunsforddr,0.44,768000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2990.png,229 SIR THOMAS LUNSFORD DR 
+3810,kablaouiedwardsnancyk,2302westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3810.png,2302 WESTGATE CIR 
+2158,caseylewisc,230griffinave,0.115,641000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2158.png,230 GRIFFIN AVE 
+2567,serghisophia,230rolferd,0.196,498900,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2567.png,230 ROLFE RD 
+456,taylorjenniferlloydschultetim,230tylerbrooksdr,0.489,247700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/456.png,230 TYLER BROOKS DR 
+500,crinklawvogtmatthew,231christopherwrenrd,0.225,270800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/500.png,231 CHRISTOPHER WREN RD 
+3588,williamsstephenlucia,231shaindeldr,0.123,456300,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3588.png,231 SHAINDEL DR 
+2157,caseylewiscoleman,232griffinave,0.115,619200,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/2157.png,232 GRIFFIN AVE 
+586,earmanstellamtrstettermariaetr,232longhillrd,0.187,237200,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/586.png,232 LONGHILL RD 
+534,mcnultymarya,232thomasnelsonln,0.31,249000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/534.png,232 THOMAS NELSON LN 
+501,zmapropertiesllc,233christopherwrenrd,0.289,325600,Single-Family (Rental) ,0.0,3.0,5.0,1.0,data/property_data/image_data/501.png,233 CHRISTOPHER WREN RD 
+2156,johnsonthomasakarenh,234griffinave,0.11,588000,Single-Family (Rental) 4 Person,1.0,3.0,4.0,1.0,data/property_data/image_data/2156.png,234 GRIFFIN AVE 
+587,walkermarkrtrustee,234longhillrd,0.195,237900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/587.png,234 LONGHILL RD 
+1715,234nboundarystreetllc,234nboundaryst,0.02,591000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1715.png,234 N BOUNDARY ST 
+2568,stathopoulosandreassmirnievgenia,234rolferd,0.187,472400,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2568.png,234 ROLFE RD 
+454,earmanstellamtrstettermariaetr,234tylerbrooksdr,0.35,279100,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/454.png,234 TYLER BROOKS DR 
+502,schweitzerstephenabelindah,235christopherwrenrd,0.225,344900,Single-Family (Rental) ,1.0,2.0,2.0,1.0,data/property_data/image_data/502.png,235 CHRISTOPHER WREN RD 
+536,yevstifeyevigor,236thomasnelsonln,0.31,314000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/536.png,236 THOMAS NELSON LN 
+453,revocablelivingtrustagreementofjosephanthony,236tylerbrooksdr,0.31,298300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/453.png,236 TYLER BROOKS DR 
+459,yevstifeyevigor,237christopherwrenrd,0.289,330300,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/459.png,237 CHRISTOPHER WREN RD 
+521,buschingkaryssalee,237thomasnelsonln,0.263,491000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/521.png,237 THOMAS NELSON LN 
+3300,cloudthomaslaura,237woodmeredrunitb,0.0,318100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3300.png,237 WOODMERE DR UNIT #B
+3432,woodsonernestt,237zelkovard,0.0,322000,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3432.png,237 ZELKOVA RD 
+589,gussmanvictoriaddavids,238longhillrd,0.223,254400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/589.png,238 LONGHILL RD 
+2070,tyneslawrencejr,238strawberryplainsrd,0.43,116100,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/2070.png,238 STRAWBERRY PLAINS RD 
+460,eiselejohncsakodanaomi,239christopherwrenrd,0.289,303900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/460.png,239 CHRISTOPHER WREN RD 
+4253,davistimothyajeanineb,239lewisburwellpl,0.052,327300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4253.png,239 LEWIS BURWELL PL 
+522,wrightmarke,239thomasnelsonln,0.25,211300,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/522.png,239 THOMAS NELSON LN 
+1556,langenhennigwilliameelizabethm,23priorsleeln,0.03,199800,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1556.png,23 PRIORSLEE LN 
+3813,heapsroykdanak,2401westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3813.png,2401 WESTGATE CIR 
+3816,whitakertrust,2404westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3816.png,2404 WESTGATE CIR 
+503,petersenchristopherallen,240christopherwrenrd,0.3,292200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/503.png,240 CHRISTOPHER WREN RD 
+1718,wilhelmcharlesevickis,240nboundaryst,0.026,598800,Town House (Rental),0.0,3.0,3.0,1.0,data/property_data/image_data/1718.png,240 N BOUNDARY ST 
+461,walkerrobertftr,241christopherwrenrd,0.225,202600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/461.png,241 CHRISTOPHER WREN RD 
+1006,colonialpinesapartmentsllc,242merrimactrl,5.338,7566200,Apartment,0.0,0.0,0.0,64.0,data/property_data/image_data/1006.png,242 MERRIMAC TRL 
+1719,johnmsimmonsjrrevocablelivingtrustkristin,242nboundaryst,0.017,625600,Town House (Rental),2.0,2.0,3.0,1.0,data/property_data/image_data/1719.png,242 N BOUNDARY ST 
+1785,colonialwilliamsburgfoundation,245nhenryst,0.207,938600,Multi-Family,1.0,3.0,5.0,3.0,data/property_data/image_data/1785.png,245 N HENRY ST 
+1721,246nboundarystreetllc,246nboundaryst,0.029,713500,Town House (Rental),0.0,4.0,4.0,1.0,data/property_data/image_data/1721.png,246 N BOUNDARY ST 
+463,sclaterdanielwkay,248tylerbrooksdr,0.225,296300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/463.png,248 TYLER BROOKS DR 
+79619,tribesquarellc,249richmondrd,1.056,8402300,Apartment,0.0,4.0,4.0,14.0,data/property_data/image_data/79619.png,249 RICHMOND RD 
+469,valadezmarioleticia,249tylerbrooksdr,0.29,233700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/469.png,249 TYLER BROOKS DR 
+3888,bksventuresllc,2502westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3888.png,2502 WESTGATE CIR 
+553,xiaojacobayanli,250thomasnelsonln,0.433,281000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/553.png,250 THOMAS NELSON LN 
+1557,norsworthykevinsuzanne,25priorsleeln,0.04,203700,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1557.png,25 PRIORSLEE LN 
+3830,bisskimberlyivan,2602westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3830.png,2602 WESTGATE CIR 
+3831,baysrosseannalucia,2603westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3831.png,2603 WESTGATE CIR 
+3726,engalberthsincindyfungkay,260patricksxing,0.291,503900,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3726.png,260 PATRICKS XING 
+62,ekwuemechukwumag,261claibornedr,0.0,285700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/62.png,261 CLAIBORNE DR 
+3491,corvellimichaelcetuxhornerfinleyhjret,263claibornedr,0.0,307100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3491.png,263 CLAIBORNE DR 
+382,jenningsjamescrystall,2703westgatecir,0.0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/382.png,2703 WESTGATE CIR 
+3824,icsmanjamesaaronaprildiane,272zelkovard,0.0,363400,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3824.png,272 ZELKOVA RD 
+298,ilearadu,279patriotlnunitc,0.0,192700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/298.png,279 PATRIOT LN UNIT #C
+1558,clasenkennethm,27priorsleeln,0.03,199800,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1558.png,27 PRIORSLEE LN 
+284,beercharlesrjrtr,280patriotlnunita,0.0,174100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/284.png,280 PATRIOT LN UNIT #A
+285,blairthomwjr,280patriotlnunitb,0.0,174100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/285.png,280 PATRIOT LN UNIT #B
+281,banioanr,280patriotlnunitd,0.0,185400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/281.png,280 PATRIOT LN UNIT #D
+282,ilearadu,280patriotlnunitg,0.0,185400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/282.png,280 PATRIOT LN UNIT #G
+283,gspropertyllc,280patriotlnunith,0.0,185400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/283.png,280 PATRIOT LN UNIT #H
+302,dorcyandrea,281patriotlnunitc,0.0,192700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/302.png,281 PATRIOT LN UNIT #C
+117,prestylyloriesteveng,281raventer,0.0,316000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/117.png,281 RAVEN TER 
+3857,birckheadlyndajeanne,281zelkovard,0.0,343500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3857.png,281 ZELKOVA RD 
+237,mcnairthomasmjeannettee,282raventer,0.0,307100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/237.png,282 RAVEN TER 
+304,sandsoftimellc,283patriotlnunita,0.0,194000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/304.png,283 PATRIOT LN UNIT #A
+3715,hayeskenneth,283raventer,0.0,274000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3715.png,283 RAVEN TER 
+3837,crenshawsrentalsllc,284raventer,0.0,285700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3837.png,284 RAVEN TER 
+3786,zhenggeorgezhaosonia,284zelkovard,0.0,362700,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3786.png,284 ZELKOVA RD 
+1455,bocatraianfbanioanae,285merrimactrlunit1,0.039,169900,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1455.png,285 MERRIMAC TRL UNIT #1
+1461,abbottbrendaj,285merrimactrlunit13,0.057,189300,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1461.png,285 MERRIMAC TRL UNIT #13
+1433,gregash15llc,285merrimactrlunit15,0.051,187000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1433.png,285 MERRIMAC TRL UNIT #15
+1472,ferrellrobertaa,285merrimactrlunit16,0.031,160000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1472.png,285 MERRIMAC TRL UNIT #16
+1434,gregash17llc,285merrimactrlunit17,0.038,162100,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1434.png,285 MERRIMAC TRL UNIT #17
+1435,gregash19llc,285merrimactrlunit19,0.056,176400,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1435.png,285 MERRIMAC TRL UNIT #19
+1467,sartaindeanbaileyangela,285merrimactrlunit2,0.061,189500,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1467.png,285 MERRIMAC TRL UNIT #2
+1470,leerooseveltleelydiabanks,285merrimactrlunit20,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1470.png,285 MERRIMAC TRL UNIT #20
+1436,schubringpaulamy,285merrimactrlunit21,0.052,191100,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1436.png,285 MERRIMAC TRL UNIT #21
+1469,sesslermoniquentr,285merrimactrlunit22,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1469.png,285 MERRIMAC TRL UNIT #22
+1439,krupinskijonette,285merrimactrlunit27,0.034,166800,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1439.png,285 MERRIMAC TRL UNIT #27
+1440,krupinskijonette,285merrimactrlunit29,0.034,166800,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1440.png,285 MERRIMAC TRL UNIT #29
+1441,leggsamuelbradfordii,285merrimactrlunit31,0.054,196800,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1441.png,285 MERRIMAC TRL UNIT #31
+1448,matthewscharlesoiiandjudithc,285merrimactrlunit33,0.053,177700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1448.png,285 MERRIMAC TRL UNIT #33
+1449,cdninvestmentsllc,285merrimactrlunit35,0.033,168400,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1449.png,285 MERRIMAC TRL UNIT #35
+1466,sartaindeanbaileyangela,285merrimactrlunit4,0.032,160000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1466.png,285 MERRIMAC TRL UNIT #4
+1452,jacquelinerwaymacklivingtrust,285merrimactrlunit41,0.032,166600,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1452.png,285 MERRIMAC TRL UNIT #41
+1489,concepcionthaniay,285merrimactrlunit46,0.064,189700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1489.png,285 MERRIMAC TRL UNIT #46
+1488,krupinskijonette,285merrimactrlunit48,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1488.png,285 MERRIMAC TRL UNIT #48
+1457,burdickart,285merrimactrlunit5,0.053,190000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1457.png,285 MERRIMAC TRL UNIT #5
+1487,simmonsdawnl,285merrimactrlunit50,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1487.png,285 MERRIMAC TRL UNIT #50
+1445,patelrashmikantspateljayshreer,285merrimactrlunit51,0.034,169200,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1445.png,285 MERRIMAC TRL UNIT #51
+1486,krupinskijonette,285merrimactrlunit52,0.031,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1486.png,285 MERRIMAC TRL UNIT #52
+1465,sartaindeanbaileyangela,285merrimactrlunit6,0.031,160000,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1465.png,285 MERRIMAC TRL UNIT #6
+1491,wiggintonwesleyabrendab,285merrimactrlunit60,0.032,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1491.png,285 MERRIMAC TRL UNIT #60
+1493,evonitzrichardw,285merrimactrlunit64,0.032,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1493.png,285 MERRIMAC TRL UNIT #64
+1494,allyndavidclarkcathylynch,285merrimactrlunit66,0.032,161700,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1494.png,285 MERRIMAC TRL UNIT #66
+1495,markakrupinski,285merrimactrlunit68,0.076,190300,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1495.png,285 MERRIMAC TRL UNIT #68
+1459,kahnshannamarie,285merrimactrlunit9,0.052,187100,Town House (Rental),1.0,1.0,3.0,1.0,data/property_data/image_data/1459.png,285 MERRIMAC TRL UNIT #9
+3911,theisenraymondjanea,285zelkovard,0.0,350500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3911.png,285 ZELKOVA RD 
+1588,robertarnoldbraxtonhazelpittmanbraxtonrevocablelivingtrust,28priorsleeln,0.04,201200,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1588.png,28 PRIORSLEE LN 
+293,saavedracarmenhylandjohnj,290patriotlnunitb,0.0,174100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/293.png,290 PATRIOT LN UNIT #B
+289,anandsumanshekharkamlendu,290patriotlnunitd,0.0,185400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/289.png,290 PATRIOT LN UNIT #D
+294,gieddkennethpeacetrgieddsusangarciatr,290patriotlnunite,0.0,197300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/294.png,290 PATRIOT LN UNIT #E
+295,kocevgoranjulia,290patriotlnunitf,0.0,174100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/295.png,290 PATRIOT LN UNIT #F
+803,womackmaryhtrthomasftr,294ironboundrd,0.459,587600,Apartment,5.0,5.0,1515.0,5.0,data/property_data/image_data/803.png,294 IRONBOUND RD 
+129,parksdanieleparkscherie,294raventer,0.0,316000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/129.png,294 RAVEN TER 
+309,inmankelly,297patriotlnunitb,0.0,194000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/309.png,297 PATRIOT LN UNIT #B
+310,hasselldavidojr,297patriotlnunitc,0.0,192700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/310.png,297 PATRIOT LN UNIT #C
+312,huiechristinalee,299patriotlnunita,0.0,194000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/312.png,299 PATRIOT LN UNIT #A
+263,moserstephaniemmoserjessier,300patriotlnunitb,0.0,171300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/263.png,300 PATRIOT LN UNIT #B
+258,sweaneypropertymanagementllc,300patriotlnunitd,0.0,182500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/258.png,300 PATRIOT LN UNIT #D
+264,yurkovichcoreys,300patriotlnunite,0.0,171300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/264.png,300 PATRIOT LN UNIT #E
+260,kocevgorang,300patriotlnunitf,0.0,171300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/260.png,300 PATRIOT LN UNIT #F
+256,emrollc,300patriotlnunith,0.0,180300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/256.png,300 PATRIOT LN UNIT #H
+39,biancanielloralpharosemarie,300zelkovard,0.0,359800,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/39.png,300 ZELKOVA RD 
+1709,fauquierhuntpropertiesllc,301nboundarystunit2,0.013,323500,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1709.png,301 N BOUNDARY ST UNIT #2
+1710,fauquierhuntpropertiesllc,301nboundarystunit3,0.013,323500,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1710.png,301 N BOUNDARY ST UNIT #3
+1711,fauquierhuntpropertiesllc,301nboundarystunit4,0.013,338000,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1711.png,301 N BOUNDARY ST UNIT #4
+199,paretsgregsparetsbrendal,301settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/199.png,301 SETTLEMENT DR 
+2163,cw302griffinllc,302griffinave,0.181,607600,Single-Family (Rental) ,0.0,3.0,5.0,2.0,data/property_data/image_data/2163.png,302 GRIFFIN AVE 
+73,raabrichardchristine,302patriotlnunita,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/73.png,302 PATRIOT LN UNIT #A
+91,hoarbradleyd,302patriotlnunitb,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/91.png,302 PATRIOT LN UNIT #B
+69,mooreilussmmangrumjaniceh,302patriotlnunitc,0.0,179700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/69.png,302 PATRIOT LN UNIT #C
+70,gspropertyllc,302patriotlnunitd,0.0,179700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/70.png,302 PATRIOT LN UNIT #D
+92,revocablelivingtrustofcarolinesnyderjohnson,302patriotlnunite,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/92.png,302 PATRIOT LN UNIT #E
+72,dehlinbrock,302patriotlnunitf,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/72.png,302 PATRIOT LN UNIT #F
+71,safiabdullah,302patriotlnunitg,0.0,192800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/71.png,302 PATRIOT LN UNIT #G
+84,302raventerrace23185llc,302raventer,0.0,274000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/84.png,302 RAVEN TER 
+200,ritzstephanieh,302settlementdr,0.0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/200.png,302 SETTLEMENT DR 
+274,yanceynicolegtr,302waltzfarmdr,0.28,348800,Single-Family (Rental) ,1.0,1.0,4.0,1.0,data/property_data/image_data/274.png,302 WALTZ FARM DR 
+6,fandongshengmounan,302westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/6.png,302 WESTGATE CIR 
+873,joneswilliamtwilburtrruthetr,303calvinst,0.161,165100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/873.png,303 CALVIN ST 
+2161,loneginc,303caryst,0.169,517500,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2161.png,303 CARY ST 
+248,hilliardadelinejingzhu,303raventer,0.0,307100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/248.png,303 RAVEN TER 
+2103,pinkneycorporation,303waltzfarmdr,0.26,205800,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2103.png,303 WALTZ FARM DR 
+807,zelliylber,304ironboundrd,0.218,210000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/807.png,304 IRONBOUND RD 
+102,gspropertyllc,304patriotlnunitb,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/102.png,304 PATRIOT LN UNIT #B
+94,alanarhomesllc,304patriotlnunitc,0.0,203300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/94.png,304 PATRIOT LN UNIT #C
+103,stuartmturnanskyandsusanlturnanskylivingfa,304patriotlnunite,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/103.png,304 PATRIOT LN UNIT #E
+97,hurleywilliamdeweyhallisabelktrustees,304patriotlnunitf,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/97.png,304 PATRIOT LN UNIT #F
+96,jasminetrust,304patriotlnunitg,0.0,179700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/96.png,304 PATRIOT LN UNIT #G
+93,popovicmico,304patriotlnunith,0.0,179700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/93.png,304 PATRIOT LN UNIT #H
+3287,moultonlevymegan,304raventer,0.0,316000,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3287.png,304 RAVEN TER 
+2285,southboundaryllc,304sboundaryst,0.161,619200,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/2285.png,304 S BOUNDARY ST 
+202,rmrtpropertiesllc,304settlementdr,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/202.png,304 SETTLEMENT DR 
+4296,scudijohntscudipatriciab,305capitollandingrd,0.147,768200,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/4296.png,305 CAPITOL LANDING RD 
+2123,kushanjeffreypaulmaryhallahan,305indianspringsrd,0.168,677000,Single-Family (Rental) ,2.0,2.0,4.0,1.0,data/property_data/image_data/2123.png,305 INDIAN SPRINGS RD 
+1741,barshisdarrcotrbarshissusancotr,305nboundaryst,0.149,516900,Apartment,0.0,0.0,0.0,4.0,data/property_data/image_data/1741.png,305 N BOUNDARY ST 
+2440,hdpllc,305powhatanst,0.115,103500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2440.png,305 POWHATAN ST 
+792,robinsonmildredbrown,305rolandstunitb,0.172,71700,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/792.png,305 ROLAND ST UNIT #B
+203,christintrantrustee,305settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/203.png,305 SETTLEMENT DR 
+3419,princeryanthomascourtneydionne,305yorkshiredr,0.408,790900,Single-Family (Rental) ,2.0,3.0,4.0,1.0,data/property_data/image_data/3419.png,305 YORKSHIRE DR 
+105,m2hhomesllc,306patriotlnunitc,0.0,207800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/105.png,306 PATRIOT LN UNIT #C
+104,walterssandramarie,306patriotlnunith,0.0,179000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/104.png,306 PATRIOT LN UNIT #H
+2286,shellygarylrichardaplatt,306sboundaryst,0.169,720000,Multi-Family,0.0,3.0,3.0,3.0,data/property_data/image_data/2286.png,306 S BOUNDARY ST 
+2162,loneginc,307caryst,0.172,630000,Single-Family (Rental) 4 Person,0.0,5.0,4.0,1.0,data/property_data/image_data/2162.png,307 CARY ST 
+2124,macrinianthonyriii,307indianspringsrd,0.239,682600,Single-Family (Rental) ,0.0,4.0,5.0,1.0,data/property_data/image_data/2124.png,307 INDIAN SPRINGS RD 
+2441,pickinharriettdaletr,307powhatanst,0.172,215000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2441.png,307 POWHATAN ST 
+790,guerraadela,307rolandst,0.172,292400,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/790.png,307 ROLAND ST 
+2230,halyonesim,307sboundaryst,0.09,619200,Multi-Family,0.0,4.0,4.0,2.0,data/property_data/image_data/2230.png,307 S BOUNDARY ST 
+205,jamesandvaleriesmithlivingtrust,307settlementdr,0.0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/205.png,307 SETTLEMENT DR 
+3866,verasfaustoediadina,308baileydr,0.193,418000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/3866.png,308 BAILEY DR 
+2206,kalomirisvasiliosetrkalomirisannetr,308caryst,0.455,665600,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/2206.png,308 CARY ST 
+241,leeannmarieestate,308patriotlnunitd,0.0,202000,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/241.png,308 PATRIOT LN UNIT #D
+253,gspropertyllc,308patriotlnunite,0.0,202000,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/253.png,308 PATRIOT LN UNIT #E
+254,aroraashok,308patriotlnunitf,0.0,202000,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/254.png,308 PATRIOT LN UNIT #F
+243,wolkindritag,308patriotlnunith,0.0,202000,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/243.png,308 PATRIOT LN UNIT #H
+239,hilldavidwchristinel,308patriotlnunitk,0.0,108900,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/239.png,308 PATRIOT LN UNIT #K
+240,robitshekheidrungerlinde,308patriotlnunitl,0.0,121800,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/240.png,308 PATRIOT LN UNIT #L
+235,johnstonmichaellee,308patriotlnunitm,0.0,129600,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/235.png,308 PATRIOT LN UNIT #M
+2446,tabbcalvinrviola,308pocahontasst,0.115,209000,Single-Family (Rental) ,1.0,1.0,2.0,1.0,data/property_data/image_data/2446.png,308 POCAHONTAS ST 
+2602,lcmpropertyholdingsllc,309burnsln,0.94,600900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2602.png,309 BURNS LN 
+2185,sussexinc,309caryst,0.189,497500,Single-Family (Rental) ,0.0,2.0,4.0,2.0,data/property_data/image_data/2185.png,309 CARY ST 
+2442,hdpllc,309powhatanst,0.115,103500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2442.png,309 POWHATAN ST 
+2231,ltbsllc,309sboundaryst,0.075,445400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2231.png,309 S BOUNDARY ST 
+182,adamsrobertcdeniser,309settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/182.png,309 SETTLEMENT DR 
+2597,tyndallmegohearnbrian,310burnsln,0.418,490100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2597.png,310 BURNS LN 
+2207,kalomirismichael,310caryst,0.234,491900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2207.png,310 CARY ST 
+810,stillnoleftallc,310ironboundrd,0.27,158600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/810.png,310 IRONBOUND RD 
+4306,heinernathant,310pagest,0.062,565200,Duplex (Town House) (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4306.png,310 PAGE ST 
+125,chilhamholdingsllc,310patriotlnunitd,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/125.png,310 PATRIOT LN UNIT #D
+232,smithchristophers,310patriotlnunite,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/232.png,310 PATRIOT LN UNIT #E
+233,vallamarkjcarmenm,310patriotlnunitf,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/233.png,310 PATRIOT LN UNIT #F
+229,shipkodavidtmaryb,310patriotlnunith,0.0,168700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/229.png,310 PATRIOT LN UNIT #H
+124,brccompanyllc,310patriotlnunitj,0.0,108900,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/124.png,310 PATRIOT LN UNIT #J
+123,achenbachfamilytrustsharehachenbachfamily,310patriotlnunitk,0.0,92400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/123.png,310 PATRIOT LN UNIT #K
+122,williamslindadianeburrelllynn,310patriotlnunitl,0.0,92400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/122.png,310 PATRIOT LN UNIT #L
+121,whitlowrichardaii,310patriotlnunitm,0.0,108900,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/121.png,310 PATRIOT LN UNIT #M
+2447,ellischarlottel,310pocahontasst,0.23,324600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2447.png,310 POCAHONTAS ST 
+183,quistrandalllgracem,310settlementdr,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/183.png,310 SETTLEMENT DR 
+2636,fieldmichaelleejr,311indianspringsrd,0.52,858800,Single-Family (Rental) ,2.0,2.0,4.0,1.0,data/property_data/image_data/2636.png,311 INDIAN SPRINGS RD 
+2045,lamanagementgroupllc,311pennimanrd,0.293,309600,Multi-Family,0.0,3.0,4.0,2.0,data/property_data/image_data/2045.png,311 PENNIMAN RD 
+4568,2ndstreetshopsllc,311secondstunit201,0.0,340500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/4568.png,311 SECOND ST UNIT #201
+4569,2ndstreetshopsllc,311secondstunit202,0.0,141100,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4569.png,311 SECOND ST UNIT #202
+2187,sartaindeandalewilkethomasz,312caryst,0.298,626300,Single-Family (Rental) 4 Person,0.0,2.0,3.0,1.0,data/property_data/image_data/2187.png,312 CARY ST 
+136,robertsjohndmalindastrustees,312raventer,0.0,274000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/136.png,312 RAVEN TER 
+247,bourdonedwardfnancym,312zelkovard,0.0,354100,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/247.png,312 ZELKOVA RD 
+2232,stbllc,313sboundaryst,0.138,459600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2232.png,313 S BOUNDARY ST 
+4105,stillnoleftallc,314ironboundrd,0.08,102000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/4105.png,314 IRONBOUND RD 
+786,martinpatrickfrancis,314rolandst,0.172,196500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/786.png,314 ROLAND ST 
+767,awregroupllc,315rolandst,0.172,143500,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/767.png,315 ROLAND ST 
+812,newhoperealtygroupllc,316ironboundrd,0.172,142100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/812.png,316 IRONBOUND RD 
+4310,hesterpeterwhestermollyy,318pagest,0.056,567700,Duplex (Town House) (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4310.png,318 PAGE ST 
+769,hollowaygroupllc,318rolandst,0.48,133600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/769.png,318 ROLAND ST 
+2235,glazenercharleshmicous,319sboundaryst,0.324,1784600,Single-Family (Rental) ,2.0,6.0,5.0,1.0,data/property_data/image_data/2235.png,319 S BOUNDARY ST 
+4017,hsaptlandlc,3200treyburndr,9.131,10915700,Apartment (High Rise),8.0,1818.0,1818.0,38.0,data/property_data/image_data/4017.png,3200 TREYBURN DR 
+766,stillnoleftallc,320ironboundrd,0.25,330700,Multi-Family,1.0,2.0,4.0,2.0,data/property_data/image_data/766.png,320 IRONBOUND RD 
+1298,wrha,321dunningst,9.461,4938500,Apartment,0.0,24.0,70.0,24.0,data/property_data/image_data/1298.png,321 DUNNING ST 
+763,howardsaraashby,324ironboundrd,0.25,141000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/763.png,324 IRONBOUND RD 
+3423,nassabijenniferlynnashkanbahrami,325yorkshiredr,0.423,738500,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3423.png,325 YORKSHIRE DR 
+1612,colonialtowneapartmentsllc,327merrimactrl,13.002,16179400,Apartment (High Rise),0.0,0.0,0.0,148.0,data/property_data/image_data/1612.png,327 MERRIMAC TRL 
+3424,everistdonaldg,329yorkshiredr,0.431,798100,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3424.png,329 YORKSHIRE DR 
+1732,hemphilljameswgaili,331nhenryst,0.184,588600,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1732.png,331 N HENRY ST 
+4021,frederickwillsboeltrevocablelivingtrustboe,331richmondrd,0.109,619200,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/4021.png,331 RICHMOND RD 
+1731,gyurjyanharutyungyurjyanani,333nhenryst,0.22,617500,Multi-Family,0.0,3.0,3.0,3.0,data/property_data/image_data/1731.png,333 N HENRY ST 
+1755,frederickwillsboeltrevocablelivingtrustboe,333richmondrd,0.144,999400,Apartment,0.0,5.0,6.0,5.0,data/property_data/image_data/1755.png,333 RICHMOND RD 
+4334,crowpetermtrswaglercarolannetr,334burnsln,1.779,753600,Single-Family (Rental) ,1.0,3.0,2.0,1.0,data/property_data/image_data/4334.png,334 BURNS LN 
+2358,collegeofwilliamandmaryrealestatefoundation,338jamestownrd,0.0,321300,Condo (Residential) Rental,0.0,1.0,3.0,1.0,data/property_data/image_data/2358.png,338 JAMESTOWN RD 
+2357,collegeofwilliamandmaryrealestatefoundation,338jamestownrdunitb,0.0,202200,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/2357.png,338 JAMESTOWN RD UNIT #B
+1561,sasserhattiejlifeest,33priorsleeln,0.06,173300,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/1561.png,33 PRIORSLEE LN 
+2613,petermcrowrevocabletrustagreement,340burnsln,5.03,727000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2613.png,340 BURNS LN 
+3871,crbriorealestatellc,34claibornedr,0.0,285700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3871.png,34 CLAIBORNE DR 
+1562,rodgersjaredmmargaretg,35priorsleeln,0.06,175000,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/1562.png,35 PRIORSLEE LN 
+1295,cookegilesbucknerdiane,370dunningst,0.359,231900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1295.png,370 DUNNING ST 
+1498,paramountinvestmentsllc,376merrimactrlunit113,0.0,184900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1498.png,376 MERRIMAC TRL UNIT #113
+1501,kaufmandavidhmildredlee,376merrimactrlunit122,0.0,183800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1501.png,376 MERRIMAC TRL UNIT #122
+1504,marstonannamariashawnm,376merrimactrlunit211,0.0,200700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1504.png,376 MERRIMAC TRL UNIT #211
+1508,rshmidlandsllc,376merrimactrlunit221,0.0,192800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1508.png,376 MERRIMAC TRL UNIT #221
+1509,psgpropertymanagementllc,376merrimactrlunit222,0.0,176500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1509.png,376 MERRIMAC TRL UNIT #222
+1512,humegaryleroy,376merrimactrlunit311,0.0,190500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1512.png,376 MERRIMAC TRL UNIT #311
+1524,atledalliancellc,376merrimactrlunit421,0.0,188400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1524.png,376 MERRIMAC TRL UNIT #421
+1527,rylykandrewtr,376merrimactrlunit424,0.0,188400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1527.png,376 MERRIMAC TRL UNIT #424
+1530,campbellwesleylgloriam,376merrimactrlunit513,0.0,164400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1530.png,376 MERRIMAC TRL UNIT #513
+1531,collinsbrandanp,376merrimactrlunit514,0.0,188300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1531.png,376 MERRIMAC TRL UNIT #514
+1534,wellsgeraldc,376merrimactrlunit523,0.0,176500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1534.png,376 MERRIMAC TRL UNIT #523
+1536,larsonbernicesctr,376merrimactrlunit611,0.0,194400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1536.png,376 MERRIMAC TRL UNIT #611
+1537,watsonbarbaraengsengsmichaelshelton,376merrimactrlunit612,0.0,172800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1537.png,376 MERRIMAC TRL UNIT #612
+1542,maykathleenmleeroberta,376merrimactrlunit623,0.0,176500,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1542.png,376 MERRIMAC TRL UNIT #623
+1543,shatzfamilytrustagreement,376merrimactrlunit624,0.0,181300,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1543.png,376 MERRIMAC TRL UNIT #624
+4523,minichiellovittorio,3911prospectst,0.037,403900,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4523.png,3911 PROSPECT ST 
+4611,ananthramvasudev,3913northridgest,0.054,433800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4611.png,3913 NORTHRIDGE ST 
+4610,ananthramvasudevangelina,3919northridgest,0.068,452400,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4610.png,3919 NORTHRIDGE ST 
+4519,minichiellovittorio,3919prospectst,0.026,402800,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4519.png,3919 PROSPECT ST 
+4515,silkbrianp,3927prospectst,0.026,402800,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4515.png,3927 PROSPECT ST 
+4607,silkbrianp,3937northridgest,0.054,413800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4607.png,3937 NORTHRIDGE ST 
+4508,arehartbradleymrhondam,3941prospectst,0.033,400500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4508.png,3941 PROSPECT ST 
+4378,brgquarterpathllc,3950batteryblvd,3.004,29970400,Apartment (High Rise),0.0,0.0,0.0,122.0,data/property_data/image_data/4378.png,3950 BATTERY BLVD 
+4540,furzegordonlfurzemargaretm,3966prospectst,0.049,413500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4540.png,3966 PROSPECT ST 
+79529,bessingpasdarrenalantrbessingpasmaureentyratr,3992prospectstunit15b,0.0,392500,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/79529.png,3992 PROSPECT ST UNIT #15B
+1564,joywilliamllc,39priorsleeln,0.04,204400,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1564.png,39 PRIORSLEE LN 
+2174,asanogaryytr,3pollardpark,0.264,877600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2174.png,3 POLLARD PARK 
+1546,thomaswdanaiiirevocablelivingtrust,3priorsleeln,0.03,202600,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1546.png,3 PRIORSLEE LN 
+3043,armstrongronaldearmstrongdebraa,3thepalisades,0.25,759700,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/3043.png,3 THE PALISADES 
+1971,mhlpllc,400capitollandingrd,0.149,351400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1971.png,400 CAPITOL LANDING RD 
+2050,ajjavalonaxisparkwayllcetal,400merrimactrl,12.054,21083200,Apartment (High Rise),0.0,0.0,0.0,160.0,data/property_data/image_data/2050.png,400 MERRIMAC TRL 
+2165,katharinerchuckneyllc,400norfolkst,0.069,460600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2165.png,400 NORFOLK ST 
+3882,mathewgeorge,400shaindeldr,0.127,518100,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/3882.png,400 SHAINDEL DR 
+3711,hinnantfamilytrust,400suridr,0.1,433600,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3711.png,400 SURI DR 
+4474,bakshkemalferozeiiterresaann,4013prospectst,0.026,389200,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4474.png,4013 PROSPECT ST 
+1416,meadowsmarkkgemmac,401suridr,0.1,437500,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1416.png,401 SURI DR 
+368,trivediyogeshkumabishitay,401westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/368.png,401 WESTGATE CIR 
+2457,jonesrhondalewis,402pocahontasst,0.23,193000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2457.png,402 POCAHONTAS ST 
+1775,coalllc,402scotlandst,0.162,608000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/1775.png,402 SCOTLAND ST 
+369,peltiersarah,402westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/369.png,402 WESTGATE CIR 
+4434,thompsonmatthewwilliammarkwilliamelizbaeths,4031prospectst,0.041,406400,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4434.png,4031 PROSPECT ST 
+4271,magliarobriancmagliaroannemmagliaroabigailr,403lewisburwellpl,0.052,329200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4271.png,403 LEWIS BURWELL PL 
+2452,carrithersdonaldr,403pocahontasst,0.115,150100,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2452.png,403 POCAHONTAS ST 
+3712,kanalsgrouplimitedliabilitycompany,403settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3712.png,403 SETTLEMENT DR 
+370,hamptonfarmllc,403westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/370.png,403 WESTGATE CIR 
+318,sparlingnancyc,404ashwooddr,0.32,578900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/318.png,404 ASHWOOD DR 
+935,aclhpllc,404hendersonst,0.209,161800,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/935.png,404 HENDERSON ST 
+334,kokolisgeorgemwendyn,404magnoliadr,0.39,576600,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/334.png,404 MAGNOLIA DR 
+2164,shellygarylcarlsonelainemary,404norfolkst,0.068,462400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2164.png,404 NORFOLK ST 
+1231,jamesandre,404roycroftst,0.22,154700,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1231.png,404 ROYCROFT ST 
+3750,urmirealtyllc,404settlementdr,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3750.png,404 SETTLEMENT DR 
+4591,4055nsllc,4055northridgest,0.054,415800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4591.png,4055 NORTHRIDGE ST 
+1693,wmgriffinhousellc,405harriettubmandr,0.117,418000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1693.png,405 HARRIET TUBMAN DR 
+2421,colonialwilliamsburgfoundation,405senglandst,1.15,4004800,Single-Family (Rental) ,7.0,6.0,5.0,2.0,data/property_data/image_data/2421.png,405 S ENGLAND ST 
+3752,bullockfamilytrust,405settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3752.png,405 SETTLEMENT DR 
+4452,paquinstephenamendolamariagracej,4060prospectst,0.061,432300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4452.png,4060 PROSPECT ST 
+477,hintzedavidlsheila,406beechwooddr,0.31,503000,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/477.png,406 BEECHWOOD DR 
+1969,rmeholdingsllc,406capitollandingrd,0.149,402500,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/1969.png,406 CAPITOL LANDING RD 
+1679,rysgodfreyeiiiloriv,406harriettubmandr,0.158,469300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1679.png,406 HARRIET TUBMAN DR 
+4220,myerscharlesnlindat,406lewisburwellpl,0.104,367200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4220.png,406 LEWIS BURWELL PL 
+2041,mannomichaelcarolann,407capitollandingrd,0.578,623800,Single-Family (Rental) ,1.0,4.0,6.0,1.0,data/property_data/image_data/2041.png,407 CAPITOL LANDING RD 
+1692,mgblivingllc,407harriettubmandr,0.117,423300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1692.png,407 HARRIET TUBMAN DR 
+1968,wittenrichardmahone,408capitollandingrd,0.149,337400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1968.png,408 CAPITOL LANDING RD 
+1680,olsonchaseelliot,408harriettubmandr,0.132,423900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1680.png,408 HARRIET TUBMAN DR 
+2659,gerlachjeffreyr,408idlewoodln,0.295,503100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2659.png,408 IDLEWOOD LN 
+2181,glazenermicous,409griffinave,0.258,562200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2181.png,409 GRIFFIN AVE 
+1691,johnsonkaren,409harriettubmandr,0.113,300400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1691.png,409 HARRIET TUBMAN DR 
+4145,whitmorestevenmmaridela,409quarterpathrd,0.104,400800,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4145.png,409 QUARTERPATH RD 
+2237,glazenersaciahall,409sboundaryst,0.149,441200,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2237.png,409 S BOUNDARY ST 
+3716,buckhalterbrendabchristophers,409shaindeldr,0.107,521800,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/3716.png,409 SHAINDEL DR 
+1582,vankesterenjohna,40priorsleeln,0.04,203100,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1582.png,40 PRIORSLEE LN 
+4377,brgquarterpathllc,4100batteryblvd,4.119,31796400,Apartment (High Rise),0.0,0.0,0.0,135.0,data/property_data/image_data/4377.png,4100 BATTERY BLVD 
+4433,caseylivingtrust,4103prospectst,0.026,389200,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4433.png,4103 PROSPECT ST 
+2183,panoshelen,410griffinave,0.115,570200,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2183.png,410 GRIFFIN AVE 
+2660,kingharoldbakerjr,410idlewoodln,0.279,624100,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2660.png,410 IDLEWOOD LN 
+4135,staikhowardathena,410lewisburwellpl,0.204,458500,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/4135.png,410 LEWIS BURWELL PL 
+2458,regelskigregoryt,410pocahontasst,0.266,383300,Single-Family (Rental) ,0.0,3.0,4.0,2.0,data/property_data/image_data/2458.png,410 POCAHONTAS ST 
+2367,colonialwilliamsburgfoundation,410tylerst,0.517,698100,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2367.png,410 TYLER ST 
+4425,hinchliffesarahhermanrichard,4115prospectst,0.026,399500,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4425.png,4115 PROSPECT ST 
+4424,pattersonstevenscottshannonmorelock,4117prospectst,0.026,386000,Town House (Rental),1.0,3.0,3.0,1.0,data/property_data/image_data/4424.png,4117 PROSPECT ST 
+4586,kwokwellingtonyingweidoris,4119northridgest,0.067,448700,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4586.png,4119 NORTHRIDGE ST 
+1690,brownjameshjrconnorsmaryjdoyalreediascarboroughbetty,411harriettubmandr,0.111,312900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1690.png,411 HARRIET TUBMAN DR 
+4275,stovergregoryshelleyk,411lewisburwellpl,0.071,340000,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4275.png,411 LEWIS BURWELL PL 
+4213,quarterpathplacellc,411yorkst,4.079,6388500,Apartment,0.0,48.0,56.0,56.0,data/property_data/image_data/4213.png,411 YORK ST 
+4447,scudijohnt,4124prospectst,0.049,428200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4447.png,4124 PROSPECT ST 
+79504,cookdeannadcookrichardd,4129prospectstunit1b,0.0,362200,Condo (Residential) Rental,0.0,2.0,3.0,1.0,data/property_data/image_data/79504.png,4129 PROSPECT ST UNIT #1B
+4166,barshisdarrcotrbarshissusancotr,412griffinave,0.0,338600,Condo (Residential) Rental,1.0,1.0,2.0,1.0,data/property_data/image_data/4166.png,412 GRIFFIN AVE 
+4165,barshisdarrcotrbarshissusancotr,412griffinaveunita,0.0,251000,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/4165.png,412 GRIFFIN AVE UNIT #A
+2661,serghisophia,412idlewoodln,0.9,655900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2661.png,412 IDLEWOOD LN 
+2182,413415griffinavenuellc,413griffinave,0.401,992500,Multi-Family,0.0,5.0,5.0,5.0,data/property_data/image_data/2182.png,413 GRIFFIN AVE 
+1689,mathesmartinctr,413harriettubmandr,0.113,311800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1689.png,413 HARRIET TUBMAN DR 
+2662,serghisophia,413idlewoodln,0.283,512300,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2662.png,413 IDLEWOOD LN 
+2806,bonocharlesenordstrombonojudy,413millneckrd,0.3,303500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2806.png,413 MILL NECK RD 
+4147,beckyzjankowski2006livingtrust,413quarterpathrd,0.06,334300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/4147.png,413 QUARTERPATH RD 
+1216,michaeljholmesandadrianneaholmeslivingtrus,414dunningst,0.23,440200,Apartment,0.0,6.0,6.0,6.0,data/property_data/image_data/1216.png,414 DUNNING ST 
+2371,colonialwilliamsburgfoundation,414senglandst,0.15,464900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2371.png,414 S ENGLAND ST 
+1217,vogancharlesejrboonejudithvogan,415burbankst,0.344,218200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1217.png,415 BURBANK ST 
+1738,415scotlandstreetllc,415scotlandst,0.296,896800,Multi-Family,0.0,3.0,4.0,3.0,data/property_data/image_data/1738.png,415 SCOTLAND ST 
+321,hubercarolm,416ashwooddr,0.314,542800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/321.png,416 ASHWOOD DR 
+1278,lowerylegacy1llc,416burbankst,0.723,157700,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1278.png,416 BURBANK ST 
+4168,lockwoodamyk,416dunningst,0.344,118000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/4168.png,416 DUNNING ST 
+2184,sweethomevirginiallc,416griffinave,0.472,504000,Single-Family (Rental) 4 Person,0.0,3.0,4.0,1.0,data/property_data/image_data/2184.png,416 GRIFFIN AVE 
+3707,novackjohnmtrsusanctr,416suridr,0.113,524800,Single-Family (Rental) ,1.0,4.0,4.0,1.0,data/property_data/image_data/3707.png,416 SURI DR 
+1698,moyefamilytrust,417scotlandst,0.013,328000,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1698.png,417 SCOTLAND ST 
+3718,burkemargaretlevertr,417shaindeldr,0.114,451900,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3718.png,417 SHAINDEL DR 
+176,brownchristopherabrownkristinec,417zelkovard,0.0,328900,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/176.png,417 ZELKOVA RD 
+1228,lighthousebeaconcorpafchasellc,418roycroftst,0.26,117900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1228.png,418 ROYCROFT ST 
+1699,moyefamilytrust,419scotlandst,0.012,324300,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1699.png,419 SCOTLAND ST 
+1277,piggottlucretiaetal,420burbankst,0.723,159200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1277.png,420 BURBANK ST 
+1687,grahamalberttricornrentalsllc,420harriettubmandr,0.156,400300,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/1687.png,420 HARRIET TUBMAN DR 
+2366,colonialwilliamsburgfoundation,420tylerst,0.459,612800,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/2366.png,420 TYLER ST 
+1257,wynnjosephr,421burbankst,0.258,174400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1257.png,421 BURBANK ST 
+1700,wagnermichaelltrmaryftr,421scotlandstunit3,0.012,325000,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1700.png,421 SCOTLAND ST UNIT #3
+1704,lewisjefflewiskristen,421scotlandstunit6,0.014,346100,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1704.png,421 SCOTLAND ST UNIT #6
+1705,scotlandstreet421llc,421scotlandstunit7,0.014,321600,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1705.png,421 SCOTLAND ST UNIT #7
+1706,elstnerearltjrelstnercarolynjelstnerpeterthomas,421scotlandstunit8,0.014,320800,Town House (Rental),1.0,1.0,2.0,1.0,data/property_data/image_data/1706.png,421 SCOTLAND ST UNIT #8
+1239,boydmarciadarlenesmithcarolannsmithhardingsmithronaldedward,423dunningst,0.258,156700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1239.png,423 DUNNING ST 
+1773,424scotlandstreetllc,424scotlandst,0.132,612000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1773.png,424 SCOTLAND ST 
+1276,williamskyleandrew,426burbankst,0.603,241400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1276.png,426 BURBANK ST 
+955,427roycroftllc,427roycroftst,0.52,353100,Single-Family (Rental) ,0.0,3.0,6.0,2.0,data/property_data/image_data/955.png,427 ROYCROFT ST 
+1766,mitchellmarystralexandratrallysontr,433princegeorgest,0.117,1933800,Mixed Retail (w/Residential),0.0,0.0,0.0,8.0,data/property_data/image_data/1766.png,433 PRINCE GEORGE ST 
+2228,louisechuckneyllc,434irelandst,0.317,1195000,Multi-Family,0.0,8.0,12.0,4.0,data/property_data/image_data/2228.png,434 IRELAND ST 
+1740,midasinc,435scotlandst,0.209,831000,Apartment,0.0,5.0,5.0,5.0,data/property_data/image_data/1740.png,435 SCOTLAND ST 
+1605,shakibniakazemcarolj,436zelkovard,0.0,335500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/1605.png,436 ZELKOVA RD 
+110789,kirborattuttersneckllc,4394batteryblvd,0.087,79400,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/110789.png,4394 BATTERY BLVD 
+110788,kirborattuttersneckllc,4396batteryblvd,0.069,78500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/110788.png,4396 BATTERY BLVD 
+110787,kirborattuttersneckllc,4398batteryblvd,0.083,79200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/110787.png,4398 BATTERY BLVD 
+1765,thehitchensbuildingllc,441princegeorgest,0.135,2310600,Mixed Retail (w/Residential),0.0,0.0,0.0,15.0,data/property_data/image_data/1765.png,441 PRINCE GEORGE ST 
+2405,bakerrevocabletrust,452tylerst,0.11,756300,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2405.png,452 TYLER ST 
+2403,fphandassociatesllc,454tylerst,0.05,577900,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2403.png,454 TYLER ST 
+2401,metzlerpaulgregorymetzlernataliehassmetzlermadeleine,456tylerst,0.05,581500,Town House (Rental),0.0,3.0,3.0,1.0,data/property_data/image_data/2401.png,456 TYLER ST 
+3784,banioanrvatchenkovamarinas,457zelkovard,0.0,340000,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3784.png,457 ZELKOVA RD 
+2397,cooleydavidmtrseversonmarlenejtr,460tylerst,0.09,667800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2397.png,460 TYLER ST 
+3964,ignatiuspaulftrignatiusmyoungjactr,481zelkovard,0.0,343500,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/3964.png,481 ZELKOVA RD 
+1578,weinbergbrianjeanettes,48priorsleeln,0.07,213900,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1578.png,48 PRIORSLEE LN 
+3100,ritchietannasdaletrritchiejohnnamorrisontr,4chanteraineclose,0.23,655600,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/3100.png,4 CHANTERAINE CLOSE 
+761,mildredstonefamilytrust,500ironboundrd,0.427,182500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/761.png,500 IRONBOUND RD 
+2259,wallacecarolynr,500newportave,0.177,645400,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/2259.png,500 NEWPORT AVE 
+1394,rmeholdingsllc,501pagest,0.21,228100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1394.png,501 PAGE ST 
+4364,gsquareinc,501princegeorgest,0.679,6247900,Mixed Retail (w/Residential),0.0,5.0,6.0,34.0,data/property_data/image_data/4364.png,501 PRINCE GEORGE ST 
+1650,davisthomasdamerikac,501randolphst,0.172,912900,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/1650.png,501 RANDOLPH ST 
+2290,pittmaninvestmentscollc,501sboundaryst,0.123,526500,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2290.png,501 S BOUNDARY ST 
+3741,cwenterprisesivllc,501settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3741.png,501 SETTLEMENT DR 
+1345,mahonericharddaleyjrcarolr,502capitollandingrd,0.194,297100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1345.png,502 CAPITOL LANDING RD 
+2275,fortunejoelr,503newportave,0.172,734800,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2275.png,503 NEWPORT AVE 
+992,bergedwardd,503parkwaydr,0.372,240400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/992.png,503 PARKWAY DR 
+2291,pittmaninvestmentcollc,503sboundaryst,0.067,501800,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/2291.png,503 S BOUNDARY ST 
+3743,stewartfredljuliab,503settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3743.png,503 SETTLEMENT DR 
+1304,mahonethomasdtr,504capitollandingrd,0.121,367100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1304.png,504 CAPITOL LANDING RD 
+2243,grahamalberttricornrentalsllc,504sboundaryst,0.19,576000,Single-Family (Rental) 4 Person,0.0,1.0,4.0,1.0,data/property_data/image_data/2243.png,504 S BOUNDARY ST 
+215,gloriadsciolelivingtrust,504settlementdr,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/215.png,504 SETTLEMENT DR 
+1259,osbornesamuelcperquiday,505burbankst,0.275,128000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1259.png,505 BURBANK ST 
+1349,harrytharteltamhartrevocablelivingtrust,505capitollandingrd,0.125,352300,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1349.png,505 CAPITOL LANDING RD 
+2766,dillinghamjamesgeorgelauramalia,505pocahontasst,0.115,192200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2766.png,505 POCAHONTAS ST 
+2292,waggonerrobertamandam,505sboundaryst,0.055,472300,Town House (Rental),0.0,2.0,2.0,1.0,data/property_data/image_data/2292.png,505 S BOUNDARY ST 
+2393,kelafantjonathanrbarbarartrustees,505senglandst,0.287,928800,Single-Family (Rental) ,0.0,3.0,5.0,0.0,,505 S ENGLAND ST 
+3744,lileichenweiyue,505settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3744.png,505 SETTLEMENT DR 
+2388,tylerstreetpropertiesllc,505tylerst,0.149,750000,Multi-Family,0.0,4.0,4.0,4.0,data/property_data/image_data/2388.png,505 TYLER ST 
+2010,aapropertiesllc,506capitolct,0.328,334100,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2010.png,506 CAPITOL CT 
+1305,holmesdavidlcarolync,506capitollandingrd,0.179,358300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1305.png,506 CAPITOL LANDING RD 
+1284,cdpwbpellc,506nhenryst,11.3278,47583900,Apartment (High Rise),0.0,0.0,0.0,163.0,data/property_data/image_data/1284.png,506 N HENRY ST 
+4058,boggertommylnannieh,506pocahontasst,0.115,114000,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/4058.png,506 POCAHONTAS ST 
+1643,masonjohnmarktr,506randolphst,0.122,450000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1643.png,506 RANDOLPH ST 
+2244,reidmarye,506sboundaryst,0.143,593200,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/2244.png,506 S BOUNDARY ST 
+994,mcroyjamesm,507parkwaydr,0.207,234500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/994.png,507 PARKWAY DR 
+2394,colonialwilliamsburgfoundation,507senglandst,0.287,589800,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2394.png,507 S ENGLAND ST 
+3746,mcbriartyjamesmcbriartyphyllismtr,507settlementdr,0.0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3746.png,507 SETTLEMENT DR 
+2389,snipesmarjoriemoore,507tylerst,0.149,481700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2389.png,507 TYLER ST 
+2461,gsquareinc,507yorkst,0.429,452900,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/2461.png,507 YORK ST 
+1253,rossmancheryls,508dunningst,0.284,179800,Single-Family (Rental) ,0.0,2.0,2.0,1.0,data/property_data/image_data/1253.png,508 DUNNING ST 
+2262,ellisbrandonray,508newportave,0.246,722400,Multi-Family,0.0,3.0,4.0,2.0,data/property_data/image_data/2262.png,508 NEWPORT AVE 
+1260,ewertmargareta,509burbankst,0.284,349100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1260.png,509 BURBANK ST 
+4624,509randolphstreetllc,509randolphst,0.221,534600,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/4624.png,509 RANDOLPH ST 
+2395,colonialwilliamsburgfoundation,509senglandst,0.29,572900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2395.png,509 S ENGLAND ST 
+3748,kanalsgroup,509settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3748.png,509 SETTLEMENT DR 
+3303,condorpropertiesatwilliamsburg,509shaindeldr,0.127,500000,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3303.png,509 SHAINDEL DR 
+2387,callanbamforthjrrevocabletrust,509tylerst,0.149,502600,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2387.png,509 TYLER ST 
+1223,earlynancytr,510roycroftst,0.24,324900,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/1223.png,510 ROYCROFT ST 
+3749,srinivasanthandidelisettyrajeshiyerravikumar,510settlementdr,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3749.png,510 SETTLEMENT DR 
+2381,colonialwilliamsburgfoundation,510tylerst,0.287,436600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2381.png,510 TYLER ST 
+1356,coumbearthurtdeborah,511capitollandingrd,0.201,490200,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/1356.png,511 CAPITOL LANDING RD 
+925,elliskennethllenitaj,511hendersonst,0.447,186800,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/925.png,511 HENDERSON ST 
+2411,fostercherylatr,511tylerst,0.19,727800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2411.png,511 TYLER ST 
+2298,jjdpropertyllc,512shenryst,0.0,907100,Condo (Residential) Rental,1.0,3.0,4.0,1.0,data/property_data/image_data/2298.png,512 S HENRY ST 
+2769,wynnewarrenomablev,513pocahontasst,0.161,162700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2769.png,513 POCAHONTAS ST 
+2410,williamsonrobertksandyc,513tylerst,0.19,1110600,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/2410.png,513 TYLER ST 
+1743,thomasdavidkerrilynnesheadanielle,514scotlandst,0.096,440200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1743.png,514 SCOTLAND ST 
+2465,jecinvestmentsllc,514yorkst,0.68,1212000,Apartment,0.0,0.0,0.0,13.0,data/property_data/image_data/2465.png,514 YORK ST 
+2794,walkerrobertftr,515millneckrd,0.429,384500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2794.png,515 MILL NECK RD 
+2396,colonialwilliamsburgfoundation,515senglandst,0.468,590600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2396.png,515 S ENGLAND ST 
+1272,conderrobertleecotrusteecottrillmaryecotrustee,516burbankst,0.562,296300,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/1272.png,516 BURBANK ST 
+1262,byrdwilliamr,517burbankst,0.275,128000,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1262.png,517 BURBANK ST 
+3704,holzermarkwdeboraho,517suridr,0.116,445700,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/3704.png,517 SURI DR 
+2265,gibsonanthonyjcynthial,518newportave,0.16,654500,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/2265.png,518 NEWPORT AVE 
+1220,johnsonalonzod,518roycroftst,0.24,154500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1220.png,518 ROYCROFT ST 
+1647,schwartzkevingnoreenmerin,519richmondrd,0.187,808400,Single-Family (Rental) ,1.0,3.0,5.0,1.0,data/property_data/image_data/1647.png,519 RICHMOND RD 
+1271,conderrobertleecotrusteecottrillmaryecotrustee,520burbankst,0.562,222900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1271.png,520 BURBANK ST 
+2111,gsquareinc,520jamestownrd,0.265,750000,Single-Family (Rental) 4 Person,0.0,4.0,4.0,1.0,data/property_data/image_data/2111.png,520 JAMESTOWN RD 
+1646,hillevelynruthbrownalexissara,520randolphst,0.097,520400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1646.png,520 RANDOLPH ST 
+1218,braxtonbrendadean,520roycroftst,0.29,179300,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1218.png,520 ROYCROFT ST 
+1242,seminarycapitalmanagementllc,521dunningst,0.172,303600,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1242.png,521 DUNNING ST 
+2795,panosgeorge,521millneckrd,0.396,516900,Single-Family (Rental) ,1.0,3.0,4.0,1.0,data/property_data/image_data/2795.png,521 MILL NECK RD 
+4376,princegeorgeinvestmentllc,521princegeorgest,0.518,3674200,Mixed Retail (w/Residential),0.0,0.0,0.0,12.0,data/property_data/image_data/4376.png,521 PRINCE GEORGE ST 
+944,rutherfordkennethelliottstevend,523roycroftst,0.32,245000,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/944.png,523 ROYCROFT ST 
+1270,comfortroomllc,524burbankst,0.562,117700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1270.png,524 BURBANK ST 
+1243,nancyearlytrust,525dunningst,0.41,185900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1243.png,525 DUNNING ST 
+2382,colonialwilliamsburgfoundation,528tylerst,0.75,750900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/2382.png,528 TYLER ST 
+1576,sundarkodaganallurgsharada,52priorsleeln,0.04,234200,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1576.png,52 PRIORSLEE LN 
+1268,thehubertthaddeusalexanderandbobbyeburnsale,532burbankst,0.562,229700,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1268.png,532 BURBANK ST 
+1265,housingpartnershipsinc,533burbankst,0.275,201600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1265.png,533 BURBANK ST 
+3479,davidsonadamfjamiem,54claibornedr,0.0,285700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3479.png,54 CLAIBORNE DR 
+1575,klotzbuecherdavidl,54priorsleeln,0.04,197500,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1575.png,54 PRIORSLEE LN 
+1573,leekpropertiesllc,58priorsleeln,0.07,241700,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1573.png,58 PRIORSLEE LN 
+1547,abdelnourdianel,5priorsleeln,0.03,199800,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1547.png,5 PRIORSLEE LN 
+3126,kingleongarytrgailelizabethtr,5wildwoodln,0.18,594200,Single-Family (Rental) ,1.0,2.0,4.0,1.0,data/property_data/image_data/3126.png,5 WILDWOOD LN 
+153,jhhstewardsllc,601settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/153.png,601 SETTLEMENT DR 
+360,brooksgardinertrevtrust,601westgatecir,0.0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/360.png,601 WESTGATE CIR 
+1310,shellygaryl,602capitollandingrd,0.122,402500,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/1310.png,602 CAPITOL LANDING RD 
+154,kanalsgroupllc,602settlementdr,0.0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/154.png,602 SETTLEMENT DR 
+1354,rmeholdingsllc,603capitollandingrd,0.136,240300,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/1354.png,603 CAPITOL LANDING RD 
+2771,richardryan,603pocahontasst,0.115,132300,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2771.png,603 POCAHONTAS ST 
+155,taylorcharlesbernardmaryelizabeth,603settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/155.png,603 SETTLEMENT DR 
+362,osunajamesandrew,603westgatecir,0.0,275000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/362.png,603 WESTGATE CIR 
+1311,rmeholdingsllc,604capitollandingrd,0.202,314100,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1311.png,604 CAPITOL LANDING RD 
+2315,eckertpaulreckertdeboraha,604counselorsway,0.032,741700,Town House (Rental),2.0,2.0,3.0,1.0,data/property_data/image_data/2315.png,604 COUNSELORS WAY 
+2132,gillettelizabethgtr,604jamestownrd,0.385,789400,Single-Family (Rental) ,0.0,4.0,5.0,2.0,data/property_data/image_data/2132.png,604 JAMESTOWN RD 
+1282,willswetlandslimitedliabilitycompany,604nhenryst,0.258,331200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1282.png,604 N HENRY ST 
+156,richardanthonyrummagelauraelizabethrummage,604settlementdr,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/156.png,604 SETTLEMENT DR 
+363,abrahamlivingtrust,604westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/363.png,604 WESTGATE CIR 
+157,lesnakrobertadonnae,605settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/157.png,605 SETTLEMENT DR 
+4498,williamandmaryrealestatefoundation,605wytheln,0.129,1325000,Single-Family (Rental) ,1.0,4.0,4.0,1.0,data/property_data/image_data/4498.png,605 WYTHE LN 
+1630,pophamwaynerobert,606collegeter,0.293,672500,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1630.png,606 COLLEGE TER 
+1281,lamdavidkintr,606nhenryst,0.275,184200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1281.png,606 N HENRY ST 
+2762,mountainrehabilitationlllp,606pocahontasst,0.115,110900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2762.png,606 POCAHONTAS ST 
+2772,futrellbenniercarmeny,607pocahontasst,0.115,245900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2772.png,607 POCAHONTAS ST 
+1315,cramerharlancarltrcramerjeangedettistr,608capitollandingrd,0.097,460500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1315.png,608 CAPITOL LANDING RD 
+1631,smithedwinamtr,608collegeter,0.312,601900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1631.png,608 COLLEGE TER 
+2133,midasinc,608jamestownrd,0.28,524900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2133.png,608 JAMESTOWN RD 
+160,webbtravisj,608settlementdr,0.0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/160.png,608 SETTLEMENT DR 
+2110,loneginc,610jamestownrd,0.55,750000,Single-Family (Rental) 4 Person,0.0,4.0,4.0,1.0,data/property_data/image_data/2110.png,610 JAMESTOWN RD 
+2764,richardryanlrhodesginal,610pocahontasst,0.157,219100,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2764.png,610 POCAHONTAS ST 
+162,yeageralisone,610settlementdr,0.0,253800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/162.png,610 SETTLEMENT DR 
+1140,dddpropertyllc,612richmondrd,0.301,603700,Single-Family (Rental) ,0.0,3.0,4.0,1.0,data/property_data/image_data/1140.png,612 RICHMOND RD 
+1724,wrha,613scotlandst,4.458,7246700,Apartment,0.0,0.0,0.0,38.0,data/property_data/image_data/1724.png,613 SCOTLAND ST 
+1141,waldropkennethblisal,614richmondrd,0.301,647000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1141.png,614 RICHMOND RD 
+2248,shspropcollc,620shenryst,0.101,513000,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2248.png,620 S HENRY ST 
+2467,quarterpathassociates,620yorkst,2.879,4407500,Apartment,0.0,0.0,0.0,101.0,data/property_data/image_data/2467.png,620 YORK ST 
+2304,shspropcollc,621shenryst,0.134,576200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/2304.png,621 S HENRY ST 
+2250,shspropcollc,623shenryst,0.087,502500,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/2250.png,623 S HENRY ST 
+2705,shermandavidrtrkarlantr,628shenryst,0.048,255400,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/2705.png,628 S HENRY ST 
+2320,wyklekennethrmaryo,642counselorsway,0.041,674300,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/2320.png,642 COUNSELORS WAY 
+2332,yatesbasementllc,660counselorsway,0.033,628600,Town House (Rental),1.0,3.0,4.0,1.0,data/property_data/image_data/2332.png,660 COUNSELORS WAY 
+2096,smoltzelizabeth,675powellst,0.4445,525700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2096.png,675 POWELL ST 
+964,torresvictorsguylaine,6foresthilldr,0.288,171400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/964.png,6 FOREST HILL DR 
+3036,miyamasumarykeikotr,6hagueclose,0.33,638200,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/3036.png,6 HAGUE CLOSE 
+1599,campanavincentajr,6priorsleeln,0.04,203100,Town House (Rental),1.0,2.0,2.0,1.0,data/property_data/image_data/1599.png,6 PRIORSLEE LN 
+2590,huntanneegrabowskicharlenem,700goodwinst,0.41,663800,Single-Family (Rental) ,1.0,4.0,4.0,1.0,data/property_data/image_data/2590.png,700 GOODWIN ST 
+1408,sartaindeanbaileyangela,700tanyardst,0.101,242800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1408.png,700 TANYARD ST 
+2584,staufferjamesl,701goodwinst,0.275,410900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/2584.png,701 GOODWIN ST 
+817,taggartjamesetrjacquelynltr,701settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/817.png,701 SETTLEMENT DR 
+1127,nunnelleyfred,702collegeter,0.293,829900,Single-Family (Rental) ,0.0,7.0,5.0,1.0,data/property_data/image_data/1127.png,702 COLLEGE TER 
+1211,brownevelynsestateetal,702nhenryst,0.23,188300,Single-Family (Rental) ,0.0,2.0,3.0,2.0,data/property_data/image_data/1211.png,702 N HENRY ST 
+2580,smeatonfamilytrust,702powellst,0.293,656000,Single-Family (Rental) 4 Person,0.0,2.0,4.0,1.0,data/property_data/image_data/2580.png,702 POWELL ST 
+3594,hapipropertiesllc,702settlementdr,0.0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/3594.png,702 SETTLEMENT DR 
+2707,glazenercharleshallglazenermicousavageklughmicousneed,702shenryst,0.418,729800,Apartment,0.0,4.0,8.0,4.0,data/property_data/image_data/2707.png,702 S HENRY ST 
+1407,lowrychristinalynn,702tanyardst,0.146,287400,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1407.png,702 TANYARD ST 
+357,spruillstevenramandae,702westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/357.png,702 WESTGATE CIR 
+2089,tkevindenicolarevocabletrustnancyhopeflynndenicolarevocabletrust,703powellst,0.275,638000,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2089.png,703 POWELL ST 
+3678,dewllc,703settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3678.png,703 SETTLEMENT DR 
+1395,prouddogpropertiesvllc,703tanyardst,0.172,260400,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1395.png,703 TANYARD ST 
+1144,greenalfredmarkgreenmaryannspratt,704richmondrd,0.293,721500,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/1144.png,704 RICHMOND RD 
+1406,clarkfrankrbittingergailm,704tanyardst,0.15,246600,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1406.png,704 TANYARD ST 
+2470,paparispaparisinc,704yorkst,0.578,661500,Multi-Family,0.0,5.0,7.0,4.0,data/property_data/image_data/2470.png,704 YORK ST 
+1390,hiroseroyytrcarolejtr,705monumentalave,0.209,263500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1390.png,705 MONUMENTAL AVE 
+3686,engalberthsincindyfungkay,705settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3686.png,705 SETTLEMENT DR 
+1396,tanyard705llc,705tanyardst,0.17,218800,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1396.png,705 TANYARD ST 
+1359,conleejohnwametal,706monumentalave,0.166,273100,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1359.png,706 MONUMENTAL AVE 
+1212,caragiulomariaeshawlerjustinl,706nhenryst,0.23,232800,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1212.png,706 N HENRY ST 
+2175,blackwellwilliamciii,706pollardpark,0.13,993800,Apartment,0.0,6.0,6.0,5.0,data/property_data/image_data/2175.png,706 POLLARD PARK 
+1145,caseylewisc,706richmondrd,0.293,795500,Single-Family (Rental) ,0.0,5.0,4.0,1.0,data/property_data/image_data/1145.png,706 RICHMOND RD 
+2721,carollaurabenderrevocabletrustagreement,706shenrystunit1,0.0,227600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2721.png,706 S HENRY ST UNIT #1
+2722,huddlestonjondcynthian,706shenrystunit2,0.0,240400,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2722.png,706 S HENRY ST UNIT #2
+2723,mcphersontimothycmcphersonkarena,706shenrystunit3,0.0,219000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2723.png,706 S HENRY ST UNIT #3
+2724,carollaurabendertrustee,706shenrystunit4,0.0,227600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2724.png,706 S HENRY ST UNIT #4
+2725,menefeematthewleesarahei,706shenrystunit5,0.0,221900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2725.png,706 S HENRY ST UNIT #5
+2587,billingswarrenmartincaroldunlap,707goodwinst,0.275,550800,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2587.png,707 GOODWIN ST 
+1389,brccompanyllc,707monumentalave,0.21,282400,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1389.png,707 MONUMENTAL AVE 
+3688,boretskymelaniekathrinechristinasara,707settlementdr,0.0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3688.png,707 SETTLEMENT DR 
+1376,wehrmanncaroll,708hamiltonst,0.16,215300,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1376.png,708 HAMILTON ST 
+1360,weaglesteven,708monumentalave,0.161,221400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1360.png,708 MONUMENTAL AVE 
+3689,michaeleugeneraganandidabelleraganrevocable,708settlementdr,0.0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3689.png,708 SETTLEMENT DR 
+2730,ribeiroagostinhoj,708shenrystunit10,0.0,221900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2730.png,708 S HENRY ST UNIT #10
+2726,lindemuthstevendanielkellyhalverson,708shenrystunit6,0.0,227600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2726.png,708 S HENRY ST UNIT #6
+2727,shresthatimilajtrshresthalaurabtr,708shenrystunit7,0.0,221900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2727.png,708 S HENRY ST UNIT #7
+2728,patriciaedenlivingtrust,708shenrystunit8,0.0,219000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2728.png,708 S HENRY ST UNIT #8
+2729,blankpamelajmolloyterrenced,708shenrystunit9,0.0,239100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/2729.png,708 S HENRY ST UNIT #9
+4150,kimbronathanshawnerinfowler,708wytheln,0.0,304400,Condo (Residential) Rental,1.0,2.0,3.0,1.0,data/property_data/image_data/4150.png,708 WYTHE LN 
+1293,seminarycapitalmanagementllc,709nhenryst,0.293,113600,Single-Family (Rental) ,0.0,1.0,1.0,1.0,data/property_data/image_data/1293.png,709 N HENRY ST 
+3690,suji,709settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3690.png,709 SETTLEMENT DR 
+1567,denbytimothydavid,70priorsleeln,0.06,241200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1567.png,70 PRIORSLEE LN 
+1213,seminarycapitalmanagementllc,710nhenryst,0.23,146900,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1213.png,710 N HENRY ST 
+4151,mulfordvirginiab,710wytheln,0.0,474600,Multi-Family (Condo),0.0,3.0,3.0,3.0,data/property_data/image_data/4151.png,710 WYTHE LN 
+2588,midasinc,711goodwinst,0.413,784000,Single-Family (Rental) ,0.0,4.0,4.0,1.0,data/property_data/image_data/2588.png,711 GOODWIN ST 
+1159,shellygaryl,711richmondrd,0.478,897100,Single-Family (Rental) ,1.0,4.0,8.0,1.0,data/property_data/image_data/1159.png,711 RICHMOND RD 
+1362,mlhpllc,712monumentalave,0.161,328200,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1362.png,712 MONUMENTAL AVE 
+2578,ucabinsllc,712powellst,0.609,542100,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/2578.png,712 POWELL ST 
+2589,smeatonfamilytrust,713goodwinst,0.327,656000,Single-Family (Rental) 4 Person,1.0,2.0,4.0,1.0,data/property_data/image_data/2589.png,713 GOODWIN ST 
+1330,loneginc,714capitollandingrd,0.121,329000,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1330.png,714 CAPITOL LANDING RD 
+1363,monumentalavenuellc,714monumentalave,0.161,222400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1363.png,714 MONUMENTAL AVE 
+1366,funkdennisatrfunkquintr,715hamiltonst,0.161,266300,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1366.png,715 HAMILTON ST 
+4171,cccaseysonsllc,715lafayettest,1.49,624600,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/4171.png,715 LAFAYETTE ST 
+1386,rmeholdingsllc,715monumentalave,0.275,241500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1386.png,715 MONUMENTAL AVE 
+1292,arcpropertiesllc,715nhenryst,0.293,192700,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1292.png,715 N HENRY ST 
+1215,aroraashokk,716nhenryst,0.23,168000,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1215.png,716 N HENRY ST 
+1365,wdpwrmrevocabletrust,717hamiltonst,0.186,263500,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1365.png,717 HAMILTON ST 
+1189,caseybrothersllc,717lafayettest,0.308,341000,Single-Family (Rental) ,1.0,1.0,4.0,1.0,data/property_data/image_data/1189.png,717 LAFAYETTE ST 
+1188,loneginc,719richmondrd,0.289,879700,Apartment,0.0,5.0,1.0,8.0,data/property_data/image_data/1188.png,719 RICHMOND RD 
+3543,bissivantkimberlyj,71desmondeln,0.0,312800,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3543.png,71 DESMONDE LN 
+1139,busbeefamilytrust,721collegeter,0.293,708900,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/1139.png,721 COLLEGE TER 
+1149,caseybrothersllc,721lafayettest,0.301,288400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1149.png,721 LAFAYETTE ST 
+1151,caseycalvinlewisestateetal721richmondroadllc,721richmondrd,0.809,900000,Single-Family (Rental) 4 Person,0.0,5.0,6.0,1.0,data/property_data/image_data/1151.png,721 RICHMOND RD 
+1112,gorenfloseanwkimberlyb,723lafayettest,0.2,339400,Single-Family (Rental) ,0.0,1.0,4.0,1.0,data/property_data/image_data/1112.png,723 LAFAYETTE ST 
+4034,sussexinc,726capitollandingrd,0.18,413400,Single-Family (Rental) ,1.0,1.0,2.0,1.0,data/property_data/image_data/4034.png,726 CAPITOL LANDING RD 
+1110,beachammichaelajeanniet,727lafayettest,0.213,360500,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1110.png,727 LAFAYETTE ST 
+1190,cccaseysonsllc,727richmondrd,1.9,1456500,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1190.png,727 RICHMOND RD 
+1752,kingqueenapartmentsllc,732scotlandst,0.43,3463100,Apartment (High Rise),0.0,0.0,0.0,26.0,data/property_data/image_data/1752.png,732 SCOTLAND ST 
+4022,frederickwillsboeltrevocablelivingtrustboe,736scotlandst,0.057,471900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/4022.png,736 SCOTLAND ST 
+133,wrha,743scotlandst,0.051,409300,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/133.png,743 SCOTLAND ST 
+1658,745scotlandllc,745scotlandst,0.121,424200,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1658.png,745 SCOTLAND ST 
+1382,anatolianugurnatashahelena,7groveave,0.158,331500,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1382.png,7 GROVE AVE 
+2079,loneginc,800jamestownrd,0.201,735000,Single-Family (Rental) 4 Person,0.0,4.0,4.0,1.0,data/property_data/image_data/2079.png,800 JAMESTOWN RD 
+1109,beachammichaelashellmeltonarthuriii,801lafayettest,0.155,486300,Single-Family (Rental) ,0.0,2.0,4.0,2.0,data/property_data/image_data/1109.png,801 LAFAYETTE ST 
+1313,rummagerichardanthonytr,801settlementdr,0.0,241600,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/1313.png,801 SETTLEMENT DR 
+2080,bommerstephenk,802jamestownrd,0.327,1212500,Single-Family (Rental) ,0.0,8.0,6.0,4.0,data/property_data/image_data/2080.png,802 JAMESTOWN RD 
+273,ellisseankarl,802westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/273.png,802 WESTGATE CIR 
+1108,cwvapropertiesllc,803lafayettest,0.166,291200,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1108.png,803 LAFAYETTE ST 
+276,waldorfryan,803westgatecir,0.0,280800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/276.png,803 WESTGATE CIR 
+3817,capitollandingdevelopment,804capitollandingrd,5.131,720500,Apartment,6.0,7.0,2.0,7.0,data/property_data/image_data/3817.png,804 CAPITOL LANDING RD 
+2081,loneginc,804jamestownrd,0.31,735000,Single-Family (Rental) 4 Person,0.0,4.0,4.0,1.0,data/property_data/image_data/2081.png,804 JAMESTOWN RD 
+1070,loneginc,804lafayettest,0.115,496000,Multi-Family,0.0,2.0,4.0,2.0,data/property_data/image_data/1070.png,804 LAFAYETTE ST 
+4552,fab5sllc,805lafayettest,0.161,594400,Single-Family (Rental) ,0.0,4.0,4.0,1.0,data/property_data/image_data/4552.png,805 LAFAYETTE ST 
+3663,basilonemichaelwerine,805settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3663.png,805 SETTLEMENT DR 
+1107,lcmpropertyholdingsllc,807lafayettest,0.155,305400,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1107.png,807 LAFAYETTE ST 
+3665,briggsleshanm,807settlementdr,0.0,241100,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3665.png,807 SETTLEMENT DR 
+3666,808settlementdrivellc,808settlementdr,0.0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3666.png,808 SETTLEMENT DR 
+1106,oliverfamilytrust,809lafayettest,0.149,590000,Multi-Family,0.0,3.0,4.0,3.0,data/property_data/image_data/1106.png,809 LAFAYETTE ST 
+1289,seminarycapitalmanagementllc,809nhenryst,0.501,234500,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1289.png,809 N HENRY ST 
+3667,engalberthsincindyfungkay,809settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3667.png,809 SETTLEMENT DR 
+1419,pierceraywjrpiercelindampiercerichardearle,811capitollandingrd,0.337,203300,Single-Family (Rental) ,0.0,1.0,2.0,1.0,data/property_data/image_data/1419.png,811 CAPITOL LANDING RD 
+1421,pierceraywjrlindam,815capitollandingrd,0.305,257900,Single-Family (Rental) ,1.0,1.0,3.0,1.0,data/property_data/image_data/1421.png,815 CAPITOL LANDING RD 
+1232,baumgartenbrucecatherine,818nhenryst,0.124,218900,Single-Family (Rental) ,0.0,2.0,4.0,1.0,data/property_data/image_data/1232.png,818 N HENRY ST 
+1422,niceheritagellc,819capitollandingrd,0.186,284000,Single-Family (Rental) ,0.0,1.0,4.0,0.0,,819 CAPITOL LANDING RD 
+1424,laramiehomesllc,821capitollandingrd,0.138,177100,Multi-Family,0.0,2.0,3.0,2.0,data/property_data/image_data/1424.png,821 CAPITOL LANDING RD 
+3851,healeydawn,82desmondeln,0.0,304000,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3851.png,82 DESMONDE LN 
+3909,espighholdingsillc,84desmondeln,0.0,282800,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3909.png,84 DESMONDE LN 
+601,dalessandrolivingtrust,87carltonct,0.245,498800,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/601.png,87 CARLTON CT 
+602,hitchcockdorothyetr,89carltonct,0.393,426600,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/602.png,89 CARLTON CT 
+1105,901lafayettestreetllc,901lafayettest,0.143,295900,Single-Family (Rental) ,0.0,1.0,3.0,1.0,data/property_data/image_data/1105.png,901 LAFAYETTE ST 
+2544,loneginc,902jamestownrd,0.298,795000,Multi-Family,1.0,2.0,3.0,2.0,data/property_data/image_data/2544.png,902 JAMESTOWN RD 
+5,mitchelldennyb,902settlementdr,0.0,176400,Condo (Residential) Rental,0.0,1.0,1.0,1.0,data/property_data/image_data/5.png,902 SETTLEMENT DR 
+26,campbellwesleylgloriam,902westgatecir,0.0,277900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/26.png,902 WESTGATE CIR 
+1104,oliverfamilytrust,903lafayettest,0.138,410600,Single-Family (Rental) ,0.0,3.0,3.0,1.0,data/property_data/image_data/1104.png,903 LAFAYETTE ST 
+22,brittinghambarbaraw,903settlementdr,0.0,241700,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/22.png,903 SETTLEMENT DR 
+24,klusosthenesyaotrustee,905settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/24.png,905 SETTLEMENT DR 
+2545,howardpauldmaureen,906jamestownrd,0.298,675000,Single-Family (Rental) 4 Person,1.0,2.0,3.0,1.0,data/property_data/image_data/2545.png,906 JAMESTOWN RD 
+3647,marychristinaallegrettotrust,906settlementdr,0.0,237200,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3647.png,906 SETTLEMENT DR 
+3650,janetwieandlivingtrust,909settlementdr,0.0,237900,Condo (Residential) Rental,1.0,2.0,2.0,1.0,data/property_data/image_data/3650.png,909 SETTLEMENT DR 
+948,lockwoodamyk,919nhenryst,0.2831,356400,Single-Family (Rental) ,1.0,3.0,3.0,1.0,data/property_data/image_data/948.png,919 N HENRY ST 
+3901,zychrobertmpatricial,92desmondeln,0.0,293900,Condo (Residential) Rental,0.0,2.0,2.0,1.0,data/property_data/image_data/3901.png,92 DESMONDE LN 
+4556,corsoncharlesftrcorsongayleetr,931nhenryst,0.435,66200,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/4556.png,931 N HENRY ST 
+110779,blacanolaurae,937nhenryst,0.764,82700,Single-Family (Rental) ,0.0,2.0,3.0,1.0,data/property_data/image_data/110779.png,937 N HENRY ST 
+2543,brownrichardjudithc,946jamestownrd,0.31,479800,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2543.png,946 JAMESTOWN RD 
+2536,skiffpeter,9canterburyln,0.621,636400,Single-Family (Rental) ,1.0,2.0,3.0,1.0,data/property_data/image_data/2536.png,9 CANTERBURY LN 
+1549,hodavidtuanphamhoathithanh,9priorsleeln,0.04,203200,Town House (Rental),1.0,2.0,3.0,1.0,data/property_data/image_data/1549.png,9 PRIORSLEE LN 
