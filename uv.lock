@@ -162,6 +162,7 @@ dependencies = [
     { name = "dash" },
     { name = "pandas" },
     { name = "pypdf" },
+    { name = "requests" },
 ]
 
 [package.metadata]
@@ -169,6 +170,7 @@ requires-dist = [
     { name = "dash", specifier = ">=3.0.4" },
     { name = "pandas", specifier = ">=2.2.3" },
     { name = "pypdf", specifier = ">=5.4.0" },
+    { name = "requests", specifier = ">=2.32.3" },
 ]
 
 [[package]]

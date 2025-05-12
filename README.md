@@ -94,8 +94,13 @@ Survey for landlord reviews conducted April - May 2025 used for initial response
     
 ---
 
-## Limitations
-This project currently faces a few limitations. While I was able to connect many different companies to the same people, there are definitely some that have been missed. Additionally, the database only includes addresses officially listed as rentals, multi-family, or apartments, so any property that is incorrectly labeled as not being a rental is not included in the database. For apartments, mailing addresses also are not always the same as the address listed on the City of Williamsburg property card, which is a potential source for confusion. For example, Midtown is stored in the database under 215 Monticello Ave instead of 221. Sometimes multiple houses or apartments will be listed under the same property ID if they are adjacent and have the same owner. This leads to a situation where a house might be listed under the address of the mixed-use/residential building next door. The database also includes properties located in the City of Williamsburg, which does not include the entire Williamsburg housing market, as many students live in James City and York counties. Bedroom and bathroom data also seems to be incorrect on some multi-unit buildings and apartment buildings.Finally, right now, the dash website and database are locally hosted, so any response will only be recorded locally.
+## Limitations to Note While Using (or Why is My Address Not Showing Up?)
+- For apartments, mailing addresses are not always the same as the address listed on the City of Williamsburg property card, which is a potential source for confusion. For example, Midtown is stored in the database under 215 Monticello Ave instead of 221 Monticello Ave.
+- Sometimes multiple houses or apartments will be listed under the same property ID if they are adjacent and have the same owner. This leads to a situation where a house might be listed under the address of the mixed-use/residential building next door.
+- The database includes properties located in the City of Williamsburg, which does not include the entire Williamsburg housing market, as many students live in James City and York counties. 
+- The database only includes addresses officially listed as rentals, multi-family, or apartments, so any property that is incorrectly labeled as not being a rental is not included in the database.
+- Some properties may be owner by the same landlord, but because of property ownership by different companies and limitations in my data collection, they may not be connected.
+- Bedroom and bathroom data seems to be incorrect on some multi-unit buildings and apartment buildings.
 
 ---
 
