@@ -18,6 +18,10 @@ This project was inspired by experiences with my own landlord and conversations 
 ```bash 
 git clone https://github.com/Nico-Rapallo/LandlordProject
 ```
+### Navigate to directory:
+```bash 
+cd LandlordProject
+```
 
 ### Sync UV environment:
 ```bash
